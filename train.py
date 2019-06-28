@@ -492,17 +492,17 @@ def main():
                     model.parameters(), args.grad_clip_thresh)
 
             optimizer.step()
-            for group in optimizer.param_groups:
-                for param in group['params']:
-                    stochround.stochastic_tensor_round(param, param)
-                    param_state=optimizer.state[param]
-                    if len(param_state) !=0:
-                        exp_avg, exp_avg_sq = param_state['exp_avg'], param_state['exp_avg_sq']
-                        if group['amsgrad']:
-                            max_exp_avg_sq = param_state['max_exp_avg_sq']
-                            stochround.stochastic_tensor_round(max_exp_avg_sq,max_exp_avg_sq)
-                        stochround.stochastic_tensor_round(exp_avg,exp_avg)
-                        stochround.stochastic_tensor_round(exp_avg_sq,exp_avg_sq)
+#             for group in optimizer.param_groups:
+#                 for param in group['params']:
+#                     stochround.stochastic_tensor_round(param, param)
+#                     param_state=optimizer.state[param]
+#                     if len(param_state) !=0:
+#                         exp_avg, exp_avg_sq = param_state['exp_avg'], param_state['exp_avg_sq']
+#                         if group['amsgrad']:
+#                             max_exp_avg_sq = param_state['max_exp_avg_sq']
+#                             stochround.stochastic_tensor_round(max_exp_avg_sq,max_exp_avg_sq)
+#                         stochround.stochastic_tensor_round(exp_avg,exp_avg)
+#                         stochround.stochastic_tensor_round(exp_avg_sq,exp_avg_sq)
                     
 
             overflow = optimizer.overflow if args.fp16_run else False
