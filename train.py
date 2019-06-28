@@ -498,7 +498,7 @@ def main():
                     param_state=optimizer.state[param]
                     if len(param_state) !=0:
                         exp_avg, exp_avg_sq = param_state['exp_avg'], param_state['exp_avg_sq']
-                        if optimizer.amsgrad:
+                        if group['amsgrad']:
                             max_exp_avg_sq = param_state['max_exp_avg_sq']
                             stochround.stochastic_tensor_round(max_exp_avg_sq,max_exp_avg_sq)
                         stochround.stochastic_tensor_round(exp_avg,exp_avg)
