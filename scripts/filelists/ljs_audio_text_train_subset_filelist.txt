@@ -1,0 +1,1250 @@
+LJSpeech-1.1/wavs/LJ001-0001.wav|Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition
+LJSpeech-1.1/wavs/LJ001-0002.wav|in being comparatively modern.
+LJSpeech-1.1/wavs/LJ001-0003.wav|For although the Chinese took impressions from wood blocks engraved in relief for centuries before the woodcutters of the Netherlands, by a similar process
+LJSpeech-1.1/wavs/LJ001-0004.wav|produced the block books, which were the immediate predecessors of the true printed book,
+LJSpeech-1.1/wavs/LJ001-0005.wav|the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing.
+LJSpeech-1.1/wavs/LJ001-0006.wav|And it is worth mention in passing that, as an example of fine typography,
+LJSpeech-1.1/wavs/LJ001-0007.wav|the earliest book printed with movable types, the Gutenberg, or "forty-two line Bible" of about fourteen fifty-five,
+LJSpeech-1.1/wavs/LJ001-0008.wav|has never been surpassed.
+LJSpeech-1.1/wavs/LJ001-0009.wav|Printing, then, for our purpose, may be considered as the art of making books by means of movable types.
+LJSpeech-1.1/wavs/LJ001-0010.wav|Now, as all books not primarily intended as picture-books consist principally of types composed to form letterpress,
+LJSpeech-1.1/wavs/LJ001-0011.wav|it is of the first importance that the letter used should be fine in form;
+LJSpeech-1.1/wavs/LJ001-0012.wav|especially as no more time is occupied, or cost incurred, in casting, setting, or printing beautiful letters
+LJSpeech-1.1/wavs/LJ001-0013.wav|than in the same operations with ugly ones.
+LJSpeech-1.1/wavs/LJ001-0014.wav|And it was a matter of course that in the Middle Ages, when the craftsmen took care that beautiful form should always be a part of their productions whatever they were,
+LJSpeech-1.1/wavs/LJ001-0015.wav|the forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves.
+LJSpeech-1.1/wavs/LJ001-0016.wav|The Middle Ages brought calligraphy to perfection, and it was natural therefore
+LJSpeech-1.1/wavs/LJ001-0017.wav|that the forms of printed letters should follow more or less closely those of the written character, and they followed them very closely.
+LJSpeech-1.1/wavs/LJ001-0018.wav|The first books were printed in black letter, i.e. the letter which was a Gothic development of the ancient Roman character,
+LJSpeech-1.1/wavs/LJ001-0019.wav|and which developed more completely and satisfactorily on the side of the "lower-case" than the capital letters;
+LJSpeech-1.1/wavs/LJ001-0020.wav|the "lower-case" being in fact invented in the early Middle Ages.
+LJSpeech-1.1/wavs/LJ001-0021.wav|The earliest book printed with movable type, the aforesaid Gutenberg Bible, is printed in letters which are an exact imitation
+LJSpeech-1.1/wavs/LJ001-0022.wav|of the more formal ecclesiastical writing which obtained at that time; this has since been called "missal type,"
+LJSpeech-1.1/wavs/LJ001-0023.wav|and was in fact the kind of letter used in the many splendid missals, psalters, etc., produced by printing in the fifteenth century.
+LJSpeech-1.1/wavs/LJ001-0024.wav|But the first Bible actually dated (which also was printed at Maintz by Peter Schoeffer in the year fourteen sixty-two)
+LJSpeech-1.1/wavs/LJ001-0025.wav|imitates a much freer hand, simpler, rounder, and less spiky, and therefore far pleasanter and easier to read.
+LJSpeech-1.1/wavs/LJ001-0026.wav|On the whole the type of this book may be considered the ne-plus-ultra of Gothic type,
+LJSpeech-1.1/wavs/LJ001-0027.wav|especially as regards the lower-case letters; and type very similar was used during the next fifteen or twenty years not only by Schoeffer,
+LJSpeech-1.1/wavs/LJ001-0028.wav|but by printers in Strasburg, Basle, Paris, Lubeck, and other cities.
+LJSpeech-1.1/wavs/LJ001-0029.wav|But though on the whole, except in Italy, Gothic letter was most often used
+LJSpeech-1.1/wavs/LJ001-0030.wav|a very few years saw the birth of Roman character not only in Italy, but in Germany and France.
+LJSpeech-1.1/wavs/LJ001-0031.wav|In fourteen sixty-five Sweynheim and Pannartz began printing in the monastery of Subiaco near Rome,
+LJSpeech-1.1/wavs/LJ001-0032.wav|and used an exceedingly beautiful type, which is indeed to look at a transition between Gothic and Roman,
+LJSpeech-1.1/wavs/LJ001-0033.wav|but which must certainly have come from the study of the twelfth or even the eleventh century MSS.
+LJSpeech-1.1/wavs/LJ001-0034.wav|They printed very few books in this type, three only; but in their very first books in Rome, beginning with the year fourteen sixty-eight,
+LJSpeech-1.1/wavs/LJ001-0035.wav|they discarded this for a more completely Roman and far less beautiful letter.
+LJSpeech-1.1/wavs/LJ001-0036.wav|But about the same year Mentelin at Strasburg began to print in a type which is distinctly Roman;
+LJSpeech-1.1/wavs/LJ001-0037.wav|and the next year Gunther Zeiner at Augsburg followed suit;
+LJSpeech-1.1/wavs/LJ001-0038.wav|while in fourteen seventy at Paris Udalric Gering and his associates turned out the first books printed in France, also in Roman character.
+LJSpeech-1.1/wavs/LJ001-0039.wav|The Roman type of all these printers is similar in character,
+LJSpeech-1.1/wavs/LJ001-0040.wav|and is very simple and legible, and unaffectedly designed for use; but it is by no means without beauty.
+LJSpeech-1.1/wavs/LJ001-0041.wav|It must be said that it is in no way like the transition type of Subiaco,
+LJSpeech-1.1/wavs/LJ001-0042.wav|and though more Roman than that, yet scarcely more like the complete Roman type of the earliest printers of Rome.
+LJSpeech-1.1/wavs/LJ001-0043.wav|A further development of the Roman letter took place at Venice.
+LJSpeech-1.1/wavs/LJ001-0044.wav|John of Spires and his brother Vindelin, followed by Nicholas Jenson, began to print in that city,
+LJSpeech-1.1/wavs/LJ001-0045.wav|fourteen sixty-nine, fourteen seventy;
+LJSpeech-1.1/wavs/LJ001-0046.wav|their type is on the lines of the German and French rather than of the Roman printers.
+LJSpeech-1.1/wavs/LJ001-0047.wav|Of Jenson it must be said that he carried the development of Roman type as far as it can go:
+LJSpeech-1.1/wavs/LJ001-0048.wav|his letter is admirably clear and regular, but at least as beautiful as any other Roman type.
+LJSpeech-1.1/wavs/LJ001-0049.wav|After his death in the "fourteen eighties," or at least by fourteen ninety, printing in Venice had declined very much;
+LJSpeech-1.1/wavs/LJ001-0050.wav|and though the famous family of Aldus restored its technical excellence, rejecting battered letters,
+LJSpeech-1.1/wavs/LJ001-0051.wav|and paying great attention to the "press work" or actual process of printing,
+LJSpeech-1.1/wavs/LJ001-0052.wav|yet their type is artistically on a much lower level than Jenson's, and in fact
+LJSpeech-1.1/wavs/LJ001-0053.wav|they must be considered to have ended the age of fine printing in Italy.
+LJSpeech-1.1/wavs/LJ001-0054.wav|Jenson, however, had many contemporaries who used beautiful type,
+LJSpeech-1.1/wavs/LJ001-0055.wav|some of which -- as, e.g., that of Jacobus Rubeus or Jacques le Rouge -- is scarcely distinguishable from his.
+LJSpeech-1.1/wavs/LJ001-0056.wav|It was these great Venetian printers, together with their brethren of Rome, Milan,
+LJSpeech-1.1/wavs/LJ001-0057.wav|Parma, and one or two other cities, who produced the splendid editions of the Classics, which are one of the great glories of the printer's art,
+LJSpeech-1.1/wavs/LJ001-0058.wav|and are worthy representatives of the eager enthusiasm for the revived learning of that epoch. By far,
+LJSpeech-1.1/wavs/LJ001-0059.wav|the greater part of these Italian printers, it should be mentioned, were Germans or Frenchmen, working under the influence of Italian opinion and aims.
+LJSpeech-1.1/wavs/LJ001-0060.wav|It must be understood that through the whole of the fifteenth and the first quarter of the sixteenth centuries
+LJSpeech-1.1/wavs/LJ001-0061.wav|the Roman letter was used side by side with the Gothic.
+LJSpeech-1.1/wavs/LJ001-0062.wav|Even in Italy most of the theological and law books were printed in Gothic letter,
+LJSpeech-1.1/wavs/LJ001-0063.wav|which was generally more formally Gothic than the printing of the German workmen,
+LJSpeech-1.1/wavs/LJ001-0064.wav|many of whose types, indeed, like that of the Subiaco works, are of a transitional character.
+LJSpeech-1.1/wavs/LJ001-0065.wav|This was notably the case with the early works printed at Ulm, and in a somewhat lesser degree at Augsburg.
+LJSpeech-1.1/wavs/LJ001-0066.wav|In fact Gunther Zeiner's first type (afterwards used by Schussler) is remarkably like the type of the before-mentioned Subiaco books.
+LJSpeech-1.1/wavs/LJ001-0067.wav|In the Low Countries and Cologne, which were very fertile of printed books, Gothic was the favorite.
+LJSpeech-1.1/wavs/LJ001-0068.wav|The characteristic Dutch type, as represented by the excellent printer Gerard Leew, is very pronounced and uncompromising Gothic.
+LJSpeech-1.1/wavs/LJ001-0069.wav|This type was introduced into England by Wynkyn de Worde, Caxton's successor,
+LJSpeech-1.1/wavs/LJ001-0070.wav|and was used there with very little variation all through the sixteenth and seventeenth centuries, and indeed into the eighteenth.
+LJSpeech-1.1/wavs/LJ001-0071.wav|Most of Caxton's own types are of an earlier character, though they also much resemble Flemish or Cologne letter.
+LJSpeech-1.1/wavs/LJ001-0072.wav|After the end of the fifteenth century the degradation of printing, especially in Germany and Italy,
+LJSpeech-1.1/wavs/LJ001-0073.wav|went on apace; and by the end of the sixteenth century there was no really beautiful printing done:
+LJSpeech-1.1/wavs/LJ001-0074.wav|the best, mostly French or Low-Country, was neat and clear, but without any distinction;
+LJSpeech-1.1/wavs/LJ001-0075.wav|the worst, which perhaps was the English, was a terrible falling-off from the work of the earlier presses;
+LJSpeech-1.1/wavs/LJ001-0076.wav|and things got worse and worse through the whole of the seventeenth century, so that in the eighteenth printing was very miserably performed.
+LJSpeech-1.1/wavs/LJ001-0077.wav|In England about this time, an attempt was made (notably by Caslon, who started business in London as a type-founder in seventeen twenty)
+LJSpeech-1.1/wavs/LJ001-0078.wav|to improve the letter in form.
+LJSpeech-1.1/wavs/LJ001-0079.wav|Caslon's type is clear and neat, and fairly well designed;
+LJSpeech-1.1/wavs/LJ001-0080.wav|he seems to have taken the letter of the Elzevirs of the seventeenth century for his model:
+LJSpeech-1.1/wavs/LJ001-0081.wav|type cast from his matrices is still in everyday use.
+LJSpeech-1.1/wavs/LJ001-0082.wav|In spite, however, of his praiseworthy efforts, printing had still one last degradation to undergo.
+LJSpeech-1.1/wavs/LJ001-0083.wav|The seventeenth century founts were bad rather negatively than positively.
+LJSpeech-1.1/wavs/LJ001-0084.wav|But for the beauty of the earlier work they might have seemed tolerable.
+LJSpeech-1.1/wavs/LJ001-0085.wav|It was reserved for the founders of the later eighteenth century to produce letters which are positively ugly, and which, it may be added,
+LJSpeech-1.1/wavs/LJ001-0086.wav|are dazzling and unpleasant to the eye owing to the clumsy thickening and vulgar thinning of the lines:
+LJSpeech-1.1/wavs/LJ001-0087.wav|for the seventeenth-century letters are at least pure and simple in line. The Italian, Bodoni, and the Frenchman, Didot,
+LJSpeech-1.1/wavs/LJ001-0088.wav|were the leaders in this luckless change, though our own Baskerville, who was at work some years before them, went much on the same lines;
+LJSpeech-1.1/wavs/LJ001-0089.wav|but his letters, though uninteresting and poor, are not nearly so gross and vulgar as those of either the Italian or the Frenchman.
+LJSpeech-1.1/wavs/LJ001-0090.wav|With this change the art of printing touched bottom,
+LJSpeech-1.1/wavs/LJ001-0091.wav|so far as fine printing is concerned, though paper did not get to its worst till about eighteen forty.
+LJSpeech-1.1/wavs/LJ001-0092.wav|The Chiswick press in eighteen forty-four revived Caslon's founts, printing for Messrs. Longman the Diary of Lady Willoughby.
+LJSpeech-1.1/wavs/LJ001-0093.wav|This experiment was so far successful that about eighteen fifty Messrs. Miller and Richard of Edinburgh
+LJSpeech-1.1/wavs/LJ001-0094.wav|were induced to cut punches for a series of "old style" letters.
+LJSpeech-1.1/wavs/LJ001-0095.wav|These and similar founts, cast by the above firm and others,
+LJSpeech-1.1/wavs/LJ001-0096.wav|have now come into general use and are obviously a great improvement on the ordinary "modern style" in use in England, which is in fact the Bodoni type
+LJSpeech-1.1/wavs/LJ001-0097.wav|a little reduced in ugliness. The design of the letters of this modern "old style" leaves a good deal to be desired,
+LJSpeech-1.1/wavs/LJ001-0098.wav|and the whole effect is a little too gray, owing to the thinness of the letters.
+LJSpeech-1.1/wavs/LJ001-0099.wav|It must be remembered, however, that most modern printing is done by machinery on soft paper, and not by the hand press,
+LJSpeech-1.1/wavs/LJ001-0100.wav|and these somewhat wiry letters are suitable for the machine process, which would not do justice to letters of more generous design.
+LJSpeech-1.1/wavs/LJ001-0101.wav|It is discouraging to note that the improvement of the last fifty years is almost wholly confined to Great Britain.
+LJSpeech-1.1/wavs/LJ001-0102.wav|Here and there a book is printed in France or Germany with some pretension to good taste,
+LJSpeech-1.1/wavs/LJ001-0103.wav|but the general revival of the old forms has made no way in those countries.
+LJSpeech-1.1/wavs/LJ001-0104.wav|Italy is contentedly stagnant.
+LJSpeech-1.1/wavs/LJ001-0105.wav|America has produced a good many showy books, the typography, paper, and illustrations of which are, however, all wrong,
+LJSpeech-1.1/wavs/LJ001-0106.wav|oddity rather than rational beauty and meaning being apparently the thing sought for both in the letters and the illustrations.
+LJSpeech-1.1/wavs/LJ001-0107.wav|To say a few words on the principles of design in typography:
+LJSpeech-1.1/wavs/LJ001-0108.wav|it is obvious that legibility is the first thing to be aimed at in the forms of the letters;
+LJSpeech-1.1/wavs/LJ001-0109.wav|this is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.
+LJSpeech-1.1/wavs/LJ001-0110.wav|Even the Caslon type when enlarged shows great shortcomings in this respect:
+LJSpeech-1.1/wavs/LJ001-0111.wav|the ends of many of the letters such as the t and e are hooked up in a vulgar and meaningless way,
+LJSpeech-1.1/wavs/LJ001-0112.wav|instead of ending in the sharp and clear stroke of Jenson's letters;
+LJSpeech-1.1/wavs/LJ001-0113.wav|there is a grossness in the upper finishings of letters like the c, the a, and so on,
+LJSpeech-1.1/wavs/LJ001-0114.wav|an ugly pear-shaped swelling defacing the form of the letter:
+LJSpeech-1.1/wavs/LJ001-0115.wav|in short, it happens to this craft, as to others, that the utilitarian practice, though it professes to avoid ornament,
+LJSpeech-1.1/wavs/LJ001-0116.wav|still clings to a foolish, because misunderstood conventionality, deduced from what was once ornament, and is by no means useful;
+LJSpeech-1.1/wavs/LJ001-0117.wav|which title can only be claimed by artistic practice, whether the art in it be conscious or unconscious.
+LJSpeech-1.1/wavs/LJ001-0118.wav|In no characters is the contrast between the ugly and vulgar illegibility of the modern type
+LJSpeech-1.1/wavs/LJ001-0119.wav|and the elegance and legibility of the ancient more striking than in the Arabic numerals.
+LJSpeech-1.1/wavs/LJ001-0120.wav|In the old print each figure has its definite individuality, and one cannot be mistaken for the other;
+LJSpeech-1.1/wavs/LJ001-0121.wav|in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance
+LJSpeech-1.1/wavs/LJ001-0122.wav|that he has a five, an eight, or a three before him, unless the press work is of the best:
+LJSpeech-1.1/wavs/LJ001-0123.wav|this is awkward if you have to read Bradshaw's Guide in a hurry.
+LJSpeech-1.1/wavs/LJ001-0124.wav|One of the differences between the fine type and the utilitarian must probably be put down to a misapprehension of a commercial necessity:
+LJSpeech-1.1/wavs/LJ001-0125.wav|this is the narrowing of the modern letters.
+LJSpeech-1.1/wavs/LJ001-0126.wav|Most of Jenson's letters are designed within a square,
+LJSpeech-1.1/wavs/LJ001-0127.wav|the modern letters are narrowed by a third or thereabout; but while this gain of space very much hampers the possibility of beauty of design,
+LJSpeech-1.1/wavs/LJ001-0128.wav|it is not a real gain, for the modern printer throws the gain away by putting inordinately wide spaces between his lines, which, probably,
+LJSpeech-1.1/wavs/LJ001-0129.wav|the lateral compression of his letters renders necessary.
+LJSpeech-1.1/wavs/LJ001-0130.wav|Commercialism again compels the use of type too small in size to be comfortable reading:
+LJSpeech-1.1/wavs/LJ001-0131.wav|the size known as "Long primer" ought to be the smallest size used in a book meant to be read.
+LJSpeech-1.1/wavs/LJ001-0132.wav|Here, again, if the practice of "leading" were retrenched larger type could be used without enhancing the price of a book.
+LJSpeech-1.1/wavs/LJ001-0133.wav|One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
+LJSpeech-1.1/wavs/LJ001-0134.wav|In good printing the spaces between the words should be as near as possible equal
+LJSpeech-1.1/wavs/LJ001-0135.wav|it is impossible that they should be quite equal except in lines of poetry
+LJSpeech-1.1/wavs/LJ001-0136.wav|modern printers understand this, but it is only practiced in the very best establishments.
+LJSpeech-1.1/wavs/LJ001-0137.wav|But another point which they should attend to they almost always disregard;
+LJSpeech-1.1/wavs/LJ001-0138.wav|this is the tendency to the formation of ugly meandering white lines or "rivers" in the page
+LJSpeech-1.1/wavs/LJ001-0139.wav|a blemish which can be nearly, though not wholly, avoided by care and forethought
+LJSpeech-1.1/wavs/LJ001-0140.wav|the desirable thing being "the breaking of the line" as in bonding masonry or brickwork
+LJSpeech-1.1/wavs/LJ001-0141.wav|The general solidity of a page is much to be sought for
+LJSpeech-1.1/wavs/LJ001-0142.wav|modern printers generally overdo the "whites" in the spacing, a defect probably forced on them by the characterless quality of the letters.
+LJSpeech-1.1/wavs/LJ001-0143.wav|For where these are boldly and carefully designed, and each letter is thoroughly individual in form,
+LJSpeech-1.1/wavs/LJ001-0144.wav|the words may be set much closer together, without loss of clearness.
+LJSpeech-1.1/wavs/LJ001-0145.wav|No definite rules, however, except the avoidance of "rivers" and excess of white, can be given for the spacing,
+LJSpeech-1.1/wavs/LJ001-0146.wav|which requires the constant exercise of judgment and taste on the part of the printer.
+LJSpeech-1.1/wavs/LJ001-0147.wav|The position of the page on the paper should be considered if the book is to have a satisfactory look.
+LJSpeech-1.1/wavs/LJ001-0148.wav|Here once more the almost invariable modern practice is in opposition to a natural sense of proportion.
+LJSpeech-1.1/wavs/LJ001-0149.wav|From the time when books first took their present shape till the end of the sixteenth century, or indeed later,
+LJSpeech-1.1/wavs/LJ001-0150.wav|the page so lay on the paper that there was more space allowed to the bottom and fore margin than to the top and back of the paper,
+LJSpeech-1.1/wavs/LJ001-0151.wav|the unit of the book being looked on as the two pages forming an opening.
+LJSpeech-1.1/wavs/LJ001-0152.wav|The modern printer, in the teeth of the evidence given by his own eyes, considers the single page as the unit, and prints the page in the middle of his paper
+LJSpeech-1.1/wavs/LJ001-0153.wav|only nominally so, however, in many cases, since when he uses a headline he counts that in,
+LJSpeech-1.1/wavs/LJ001-0154.wav|the result as measured by the eye being that the lower margin is less than the top one, and that the whole opening has an upside-down look vertically
+LJSpeech-1.1/wavs/LJ001-0155.wav|and that laterally the page looks as if it were being driven off the paper.
+LJSpeech-1.1/wavs/LJ001-0156.wav|The paper on which the printing is to be done is a necessary part of our subject:
+LJSpeech-1.1/wavs/LJ001-0157.wav|of this it may be said that though there is some good paper made now,
+LJSpeech-1.1/wavs/LJ001-0158.wav|it is never used except for very expensive books, although it would not materially increase the cost in all but the very cheapest.
+LJSpeech-1.1/wavs/LJ001-0159.wav|The paper that is used for ordinary books is exceedingly bad even in this country, but is beaten in the race for vileness
+LJSpeech-1.1/wavs/LJ001-0160.wav|by that made in America, which is the worst conceivable.
+LJSpeech-1.1/wavs/LJ001-0161.wav|There seems to be no reason why ordinary paper should not be better made,
+LJSpeech-1.1/wavs/LJ001-0162.wav|even allowing the necessity for a very low price; but any improvement must be based on showing openly that the cheap article is cheap,
+LJSpeech-1.1/wavs/LJ001-0163.wav|e.g. the cheap paper should not sacrifice toughness and durability to a smooth and white surface,
+LJSpeech-1.1/wavs/LJ001-0164.wav|which should be indications of a delicacy of material and manufacture which would of necessity increase its cost.
+LJSpeech-1.1/wavs/LJ001-0165.wav|One fruitful source of badness in paper
+LJSpeech-1.1/wavs/LJ001-0166.wav|is the habit that publishers have of eking out a thin volume by printing it on thick paper almost of the substance of cardboard,
+LJSpeech-1.1/wavs/LJ001-0167.wav|a device which deceives nobody, and makes a book very unpleasant to read.
+LJSpeech-1.1/wavs/LJ001-0168.wav|On the whole, a small book should be printed on paper which is as thin as may be without being transparent.
+LJSpeech-1.1/wavs/LJ001-0169.wav|The paper used for printing the small highly ornamented French service-books about the beginning of the sixteenth century is a model in this respect,
+LJSpeech-1.1/wavs/LJ001-0170.wav|being thin, tough, and opaque.
+LJSpeech-1.1/wavs/LJ001-0171.wav|However, the fact must not be blinked that machine-made paper cannot in the nature of things be made of so good a texture as that made by hand.
+LJSpeech-1.1/wavs/LJ001-0172.wav|The ornamentation of printed books is too wide a subject to be dealt with fully here; but one thing must be said on it.
+LJSpeech-1.1/wavs/LJ001-0173.wav|The essential point to be remembered is that the ornament, whatever it is, whether picture or pattern-work, should form part of the page,
+LJSpeech-1.1/wavs/LJ001-0174.wav|should be a part of the whole scheme of the book.
+LJSpeech-1.1/wavs/LJ001-0175.wav|Simple as this proposition is, it is necessary to be stated,
+LJSpeech-1.1/wavs/LJ001-0176.wav|because the modern practice is to disregard the relation between the printing and the ornament altogether,
+LJSpeech-1.1/wavs/LJ001-0177.wav|so that if the two are helpful to one another it is a mere matter of accident.
+LJSpeech-1.1/wavs/LJ001-0178.wav|The due relation of letter to pictures and other ornament was thoroughly understood by the old printers; so that
+LJSpeech-1.1/wavs/LJ001-0179.wav|even when the woodcuts are very rude indeed,
+LJSpeech-1.1/wavs/LJ001-0180.wav|the proportions of the page still give pleasure by the sense of richness that the cuts and letter together convey.
+LJSpeech-1.1/wavs/LJ001-0181.wav|When, as is most often the case, there is actual beauty in the cuts,
+LJSpeech-1.1/wavs/LJ001-0182.wav|the books so ornamented are amongst the most delightful works of art that have ever been produced.
+LJSpeech-1.1/wavs/LJ001-0183.wav|Therefore, granted well-designed type, due spacing of the lines and words, and proper position of the page on the paper,
+LJSpeech-1.1/wavs/LJ001-0184.wav|all books might be at least comely and well-looking: and if to these good qualities were added really beautiful ornament and pictures,
+LJSpeech-1.1/wavs/LJ001-0185.wav|printed books might once again illustrate to the full
+LJSpeech-1.1/wavs/LJ001-0186.wav|the position of our Society that a work of utility might be also a work of art, if we cared to make it so.
+LJSpeech-1.1/wavs/LJ002-0001.wav|The Chronicles of Newgate, Volume two. By Arthur Griffiths. Section four: Newgate down to eighteen eighteen.
+LJSpeech-1.1/wavs/LJ002-0002.wav|Under the conditions referred to in the previous chapter,
+LJSpeech-1.1/wavs/LJ002-0003.wav|with criminals and misdemeanants of all shades crowding perpetually into its narrow limits, the latter state of Newgate was worse than the first.
+LJSpeech-1.1/wavs/LJ002-0004.wav|The new jail fell as far short of the demands made on it as did the old.
+LJSpeech-1.1/wavs/LJ002-0005.wav|The prison population fluctuated a great deal,
+LJSpeech-1.1/wavs/LJ002-0006.wav|but it was almost always in excess of the accommodation available, and there were times when the place was full to overflowing.
+LJSpeech-1.1/wavs/LJ002-0007.wav|Neild gives some figures which well illustrate this.
+LJSpeech-1.1/wavs/LJ002-0008.wav|On the fourteenth June, eighteen hundred, there were one hundred ninety-nine debtors and two hundred eighty-nine felons in the prison.
+LJSpeech-1.1/wavs/LJ002-0009.wav|On the twenty-seventh April, in the following year,
+LJSpeech-1.1/wavs/LJ002-0010.wav|these numbers had risen to two hundred seventy-five and three hundred seventy-five respectively, or six hundred fifty in all.
+LJSpeech-1.1/wavs/LJ002-0011.wav|For two more years these high figures were steadily maintained, and in eighteen oh three the total rose to seven hundred ten.
+LJSpeech-1.1/wavs/LJ002-0012.wav|After that they fell as steadily,
+LJSpeech-1.1/wavs/LJ002-0013.wav|till, eighteen oh eight, the lowest point was touched of one hundred ninety-seven debtors and one hundred eighty-two felons, or three hundred seventy-nine in all.
+LJSpeech-1.1/wavs/LJ002-0014.wav|The numbers soon increased, however, and by eighteen eleven had again risen to six hundred twenty-nine; and Mr. Neild was told that there had been at one time
+LJSpeech-1.1/wavs/LJ002-0015.wav|three hundred debtors and nine hundred criminals in Newgate, or twelve hundred prisoners in all.
+LJSpeech-1.1/wavs/LJ002-0016.wav|Previous to that date there had been seven hundred or eight hundred frequently, and once, in Mr. Akerman's time, one thousand.
+LJSpeech-1.1/wavs/LJ002-0017.wav|Trustworthy evidence is forthcoming to the effect that these high figures were constantly maintained for many months at a time.
+LJSpeech-1.1/wavs/LJ002-0018.wav|The inadequacy of the jail was noticed and reported upon again and again by the grand juries of the city of London,
+LJSpeech-1.1/wavs/LJ002-0019.wav|who seldom let a session go by without visiting Newgate.
+LJSpeech-1.1/wavs/LJ002-0020.wav|In eighteen thirteen
+LJSpeech-1.1/wavs/LJ002-0021.wav|the grand jury made a special presentment to the Court of Common Council, pointing out that on the debtors' side, which was intended for only one hundred,
+LJSpeech-1.1/wavs/LJ002-0022.wav|no less than three hundred forty were crowded, to the great inconvenience and danger of the inmates.
+LJSpeech-1.1/wavs/LJ002-0023.wav|On the female side matters were much worse;
+LJSpeech-1.1/wavs/LJ002-0024.wav|Quote. the apartments set apart for them, being built to accommodate sixty persons, now contain about one hundred twenty. End quote.
+LJSpeech-1.1/wavs/LJ002-0025.wav|Returns laid before the House of Commons showed that six thousand, four hundred thirty-nine persons had been committed to Newgate
+LJSpeech-1.1/wavs/LJ002-0026.wav|in the three years between eighteen thirteen and eighteen sixteen,
+LJSpeech-1.1/wavs/LJ002-0027.wav|and this number did not include the debtors, a numerous class, who were still committed to Newgate pending the completion of the White Cross Street prison.
+LJSpeech-1.1/wavs/LJ002-0028.wav|In order to realize the evils entailed by incarceration in Newgate in these days, it is necessary to give some account of its interior
+LJSpeech-1.1/wavs/LJ002-0029.wav|as it was occupied and appropriated in eighteen ten.
+LJSpeech-1.1/wavs/LJ002-0030.wav|Full details of the arrangements are to be found in Mr. Neild's "State of Prisons in England, Scotland, and Wales," published in eighteen twelve.
+LJSpeech-1.1/wavs/LJ002-0031.wav|The jail at that date was divided into eight separate and more or less distinct departments, each of which had its own wards and yard.
+LJSpeech-1.1/wavs/LJ002-0032.wav|These were: one. The male debtors' side.
+LJSpeech-1.1/wavs/LJ002-0033.wav|two. The female debtors' side. three. The chapel yard. four. The middle yard.
+LJSpeech-1.1/wavs/LJ002-0034.wav|five. The master felons' side. six. The female felons' side. seven. The state side.
+LJSpeech-1.1/wavs/LJ002-0035.wav|eight. The press yard.
+LJSpeech-1.1/wavs/LJ002-0036.wav|one. The male debtors' side consisted of a yard forty-nine feet by thirty-one,
+LJSpeech-1.1/wavs/LJ002-0037.wav|leading to thirteen wards on various floors, and a day room.
+LJSpeech-1.1/wavs/LJ002-0038.wav|Of these wards, three were appropriated to the "cabin side," so called because
+LJSpeech-1.1/wavs/LJ002-0039.wav|they each contained four small rooms or "cabins" seven feet square,
+LJSpeech-1.1/wavs/LJ002-0040.wav|intended to accommodate a couple of prisoners apiece, but often much more crowded.
+LJSpeech-1.1/wavs/LJ002-0041.wav|Two other wards were appropriated to the master's side debtors; they were each twenty-three feet by fourteen and a half,
+LJSpeech-1.1/wavs/LJ002-0042.wav|and supposed to accommodate twenty persons. The eight remaining wards were for the common side debtors,
+LJSpeech-1.1/wavs/LJ002-0043.wav|long narrow rooms -- one thirty-six feet, six twenty-three feet, and the eighth eighteen,
+LJSpeech-1.1/wavs/LJ002-0044.wav|the whole about fifteen feet wide.
+LJSpeech-1.1/wavs/LJ002-0045.wav|The various wards were all about eleven feet in height,
+LJSpeech-1.1/wavs/LJ002-0046.wav|and were occupied as a rule by ten to fifteen people when the prison was not crowded, but double the number was occasionally placed in them.
+LJSpeech-1.1/wavs/LJ002-0047.wav|The day room was fitted with benches and settles after the manner of the tap in a public-house.
+LJSpeech-1.1/wavs/LJ002-0048.wav|two. The female debtors' side consisted of a court-yard forty-nine by sixteen feet,
+LJSpeech-1.1/wavs/LJ002-0049.wav|leading to two wards, one of which was thirty-six feet by fifteen,
+LJSpeech-1.1/wavs/LJ002-0050.wav|and the other eighteen by fifteen; and they nominally held twenty-two persons.
+LJSpeech-1.1/wavs/LJ002-0051.wav|A high wall fifteen feet in height divided the females' court-yard from the men's.
+LJSpeech-1.1/wavs/LJ002-0052.wav|three. The chapel yard was about forty-three feet by twenty-five.
+LJSpeech-1.1/wavs/LJ002-0053.wav|It had been for some time devoted principally to felons of the worst types,
+LJSpeech-1.1/wavs/LJ002-0054.wav|those who were the oldest offenders, sentenced to transportation, and who had narrowly escaped the penalty of death.
+LJSpeech-1.1/wavs/LJ002-0055.wav|This arrangement was, however, modified after eighteen eleven, and the chapel yard was allotted to misdemeanants and prisoners awaiting trial.
+LJSpeech-1.1/wavs/LJ002-0056.wav|The wards in this part were five in number, all in dimensions twenty feet by fifteen, with a sixth ward fifteen feet square.
+LJSpeech-1.1/wavs/LJ002-0057.wav|These wards were all fitted with barrack-beds, but no bedding was supplied.
+LJSpeech-1.1/wavs/LJ002-0058.wav|The chapel yard led to the chapel, and on the staircase were two rooms frequently set apart for the king's witnesses,
+LJSpeech-1.1/wavs/LJ002-0059.wav|those who had turned king's evidence, whose safety might have been imperiled had they been lodged with the men against whom they had informed.
+LJSpeech-1.1/wavs/LJ002-0060.wav|But these king's witnesses were also put at times into the press yard among the capital convicts, seemingly a very dangerous proceeding,
+LJSpeech-1.1/wavs/LJ002-0061.wav|or they lodged with the gatesmen, the prisoner officers who had charge of the inner gates.
+LJSpeech-1.1/wavs/LJ002-0062.wav|The middle yard was at first given up to the least heinous offenders. After eighteen twelve it changed functions with the chapel yard.
+LJSpeech-1.1/wavs/LJ002-0063.wav|It was fifty feet by twenty-five, and had five wards each thirty-eight by fifteen. At one end of the yard was an arcade,
+LJSpeech-1.1/wavs/LJ002-0064.wav|directly under the chapel, in which there were three cells, used either for the confinement of disorderly and refractory prisoners,
+LJSpeech-1.1/wavs/LJ002-0065.wav|or female convicts ordered for execution.
+LJSpeech-1.1/wavs/LJ002-0066.wav|The master felons' side consisted of a yard the same size as the preceding, appropriated nominally to the most decent and better-behaved prisoners,
+LJSpeech-1.1/wavs/LJ002-0067.wav|but really kept for the few who had funds sufficient to gain them admission to these more comfortable quarters.
+LJSpeech-1.1/wavs/LJ002-0068.wav|Here were also lodged the gatesmen, the prisoners who had charge of the inner gates, and who were entrusted with the duty of escorting visitors from the gates
+LJSpeech-1.1/wavs/LJ002-0069.wav|to the various wards their friends occupied.
+LJSpeech-1.1/wavs/LJ002-0070.wav|The state side was the part stolen from the female felons' side.
+LJSpeech-1.1/wavs/LJ002-0071.wav|It was large and comparatively commodious, being maintained on a better footing than any other part of the prison.
+LJSpeech-1.1/wavs/LJ002-0072.wav|The inmates were privileged, either by antecedents or the fortunate possession of sufficient funds to pay the charges of the place.
+LJSpeech-1.1/wavs/LJ002-0073.wav|Neild takes it for granted that the former rather than the latter prevailed in the selection,
+LJSpeech-1.1/wavs/LJ002-0074.wav|and tells us that in the state side, quote, such prisoners were safely associated whose manners and conduct evince a more liberal style of education,
+LJSpeech-1.1/wavs/LJ002-0075.wav|and who are therefore lodged apart from all other districts of the jail. End quote.
+LJSpeech-1.1/wavs/LJ002-0076.wav|The state side contained twelve good-sized rooms,
+LJSpeech-1.1/wavs/LJ002-0077.wav|from twenty-one by eighteen feet to fifteen feet square, which were furnished with bedsteads and bedding.
+LJSpeech-1.1/wavs/LJ002-0078.wav|seven. The press yard was that part set aside for the condemned.
+LJSpeech-1.1/wavs/LJ002-0079.wav|Its name and its situation were the same as those of the old place of carrying out the terrible sentence inflicted on accused persons who stood mute.
+LJSpeech-1.1/wavs/LJ002-0080.wav|The long narrow yard still remained as we saw it in Jacobite times,
+LJSpeech-1.1/wavs/LJ002-0081.wav|and beyond it was now a day room for the capital convicts or those awaiting execution.
+LJSpeech-1.1/wavs/LJ002-0082.wav|Beyond the press yard were three stories, condemned cells, fifteen in all, with vaulted ceilings nine feet high to the crown of the arch.
+LJSpeech-1.1/wavs/LJ002-0083.wav|The ground floor cells were nine feet by six;
+LJSpeech-1.1/wavs/LJ002-0084.wav|those on the first floor were rather larger on account of a set-off in the wall; and the uppermost were the largest, for the same reason.
+LJSpeech-1.1/wavs/LJ002-0085.wav|Security was provided for in these condemned cells by lining the substantial stone walls with planks studded with broad-headed nails;
+LJSpeech-1.1/wavs/LJ002-0086.wav|they were lighted by a double-grated window two feet nine inches by fourteen inches; and in the doors, which were four inches thick,
+LJSpeech-1.1/wavs/LJ002-0087.wav|a circular aperture had been let in to give ventilation and secure a free current of air.
+LJSpeech-1.1/wavs/LJ002-0088.wav|In each cell there was a barrack bedstead on the floor without bedding.
+LJSpeech-1.1/wavs/LJ002-0089.wav|eight. The female felons were deprived of part of the space which the architect had intended for them.
+LJSpeech-1.1/wavs/LJ002-0090.wav|More than half their quadrangle had been partitioned off for another purpose,
+LJSpeech-1.1/wavs/LJ002-0091.wav|and what remained was divided into a master's and a common side for female felons.
+LJSpeech-1.1/wavs/LJ002-0092.wav|The two yards were adjoining, that for the common side much the largest.
+LJSpeech-1.1/wavs/LJ002-0093.wav|There were nine wards in all on the female side, one of them in the attic,
+LJSpeech-1.1/wavs/LJ002-0094.wav|with four casements and two fireplaces, being allotted for a female infirmary
+LJSpeech-1.1/wavs/LJ002-0095.wav|and the rest being provided with barrack beds, and in dimensions varying from thirty feet by fifteen to fifteen feet by ten.
+LJSpeech-1.1/wavs/LJ002-0096.wav|The eight courts above enumerated were well supplied with water;
+LJSpeech-1.1/wavs/LJ002-0097.wav|they had dust-bins, sewers, and so forth, "properly disposed," and the city scavenger paid periodical visits to the prison.
+LJSpeech-1.1/wavs/LJ002-0098.wav|The prisoners had few comforts, beyond the occasional use of a bath at some distance, situated in the press yard,
+LJSpeech-1.1/wavs/LJ002-0099.wav|to which access was granted rarely and as a great favor. But they were allowed the luxury of drink -- if they could pay for it.
+LJSpeech-1.1/wavs/LJ002-0100.wav|A recent reform had closed the tap kept by the jailer within the precincts, but
+LJSpeech-1.1/wavs/LJ002-0101.wav|there was still a "convenient room" which served, and, quote,
+LJSpeech-1.1/wavs/LJ002-0102.wav|near it a grating through which the debtors receive their beer from the neighboring public-houses.
+LJSpeech-1.1/wavs/LJ002-0103.wav|The felons' side has a similar accommodation, and this mode of introducing the beverage is adopted because no publican as such
+LJSpeech-1.1/wavs/LJ002-0104.wav|can be permitted to enter the interior of this prison. End quote. The tap-room and bar were just behind the felons' entrance lodge,
+LJSpeech-1.1/wavs/LJ002-0105.wav|and beyond it was a room called the "wine room," because formerly used for the sale of wine, but
+LJSpeech-1.1/wavs/LJ002-0106.wav|in which latterly a copper had been fixed for the cooking of provisions sent in by charitable persons.
+LJSpeech-1.1/wavs/LJ002-0107.wav|Quote, On the top of the jail, continues Neild, are a watch-house and a sentry-box, where two or more guards, with dogs and firearms,
+LJSpeech-1.1/wavs/LJ002-0108.wav|watch all night. Adjoining the felons' side lodge is the keeper's office, where the prison books are kept, and his clerk,
+LJSpeech-1.1/wavs/LJ002-0109.wav|called the clerk of the papers, attends daily. End quote.
+LJSpeech-1.1/wavs/LJ002-0110.wav|Having thus briefly described the plan and appropriation of the prison, I propose to deal now with the general condition of the inmates, and the manner of their life.
+LJSpeech-1.1/wavs/LJ002-0111.wav|Of these the debtors, male and female, formed a large proportion.
+LJSpeech-1.1/wavs/LJ002-0112.wav|The frequency and extent of processes against debtors seventy or eighty years ago will appear almost incredible
+LJSpeech-1.1/wavs/LJ002-0113.wav|in an age when insolvent acts and bankruptcy courts do so much to relieve the impecunious,
+LJSpeech-1.1/wavs/LJ002-0114.wav|and imprisonment for debt has almost entirely disappeared.
+LJSpeech-1.1/wavs/LJ002-0116.wav|The number of processes against debtors annually was extraordinary.
+LJSpeech-1.1/wavs/LJ002-0117.wav|Neild gives, on the authority of Mr. Burchell, the under sheriff of Middlesex,
+LJSpeech-1.1/wavs/LJ002-0118.wav|a table showing the figures for the year ending Michaelmas eighteen oh two.
+LJSpeech-1.1/wavs/LJ002-0119.wav|In that period upwards of two hundred thousand writs
+LJSpeech-1.1/wavs/LJ002-0120.wav|had been issued for the arrests of debtors in the kingdom, for sums varying from fourpence to five hundred pounds and upwards.
+LJSpeech-1.1/wavs/LJ002-0121.wav|Fifteen thousand of these were issued in Middlesex alone, which at that time was reckoned as only a fifteenth of Great Britain.
+LJSpeech-1.1/wavs/LJ002-0122.wav|The number of arrests actually made was one hundred fourteen thousand, three hundred for the kingdom, and seven thousand twenty for Middlesex.
+LJSpeech-1.1/wavs/LJ002-0123.wav|Barely half of these gave bail bonds on arrests, and the remainder went to prison.
+LJSpeech-1.1/wavs/LJ002-0124.wav|Quite half of the foregoing writs and arrests applied to sums under thirty pounds.
+LJSpeech-1.1/wavs/LJ002-0125.wav|Neild also says that in seventeen ninety-three,
+LJSpeech-1.1/wavs/LJ002-0126.wav|five thousand, seven hundred nineteen writs and executions for debts between ten pounds and twenty pounds were issued in Middlesex,
+LJSpeech-1.1/wavs/LJ002-0127.wav|and the aggregate amount of debts sued for was eighty-one thousand, seven hundred ninety-one pounds.
+LJSpeech-1.1/wavs/LJ002-0128.wav|He also makes the curious calculation that the costs of these actions if undefended
+LJSpeech-1.1/wavs/LJ002-0129.wav|would have amounted to sixty-eight thousand, seven hundred twenty-eight pounds, and if defended,
+LJSpeech-1.1/wavs/LJ002-0130.wav|two hundred eighty-five thousand, nine hundred fifty pounds; in other words, that to recover eighty odd thousand pounds,
+LJSpeech-1.1/wavs/LJ002-0131.wav|three times the amount would be expended.
+LJSpeech-1.1/wavs/LJ002-0132.wav|An elaborate machinery planned for the protection of the trader, and altogether on his side, had long existed for the recovery of debts.
+LJSpeech-1.1/wavs/LJ002-0133.wav|Alfred the Great established the Court Baron, the Hundred Court, and the County Court, which among other matters entertained pleas for debt.
+LJSpeech-1.1/wavs/LJ002-0134.wav|The County Court was the sheriff's, who sat there surrounded by the bishop and the magnates of the county;
+LJSpeech-1.1/wavs/LJ002-0135.wav|but as time passed, difficulties and delays in obtaining judgment led to the removal of causes to the great Court of King's Bench,
+LJSpeech-1.1/wavs/LJ002-0136.wav|and the disuse of the inferior courts.
+LJSpeech-1.1/wavs/LJ002-0137.wav|So much inconvenience ensued, that in fifteen eighteen the Corporation obtained from Parliament an act empowering two aldermen
+LJSpeech-1.1/wavs/LJ002-0138.wav|and four common councilmen to hold Courts of Requests, or Courts of Conscience, to hear and determine all causes of debt
+LJSpeech-1.1/wavs/LJ002-0139.wav|under forty shillings arising within the city.
+LJSpeech-1.1/wavs/LJ002-0140.wav|These courts were extended two centuries later to several large provincial towns, and all were in full activity when Neild wrote,
+LJSpeech-1.1/wavs/LJ002-0141.wav|and indeed supplied the bulk of the poor debtors committed to prison.
+LJSpeech-1.1/wavs/LJ002-0142.wav|These courts were open to many and grave objections.
+LJSpeech-1.1/wavs/LJ002-0143.wav|The commissioners who presided were, quote, little otherwise than self-elected
+LJSpeech-1.1/wavs/LJ002-0144.wav|and when once appointed continued to serve sine die; they were generally near in rank to the parties whose causes they decided.
+LJSpeech-1.1/wavs/LJ002-0145.wav|Often a commissioner had to leave the bench because he was himself a party to the suit that was sub judice.
+LJSpeech-1.1/wavs/LJ002-0146.wav|The activity as well as the futility of these courts may be estimated from the statement given by Neild
+LJSpeech-1.1/wavs/LJ002-0147.wav|that thirteen hundred and twelve debtors were committed by them to Newgate between seventeen ninety-seven and eighteen oh eight,
+LJSpeech-1.1/wavs/LJ002-0148.wav|and that no more than one hundred ninety-seven creditors recovered debts and costs.
+LJSpeech-1.1/wavs/LJ002-0149.wav|The latter indeed hung like millstones round the neck of the unhappy insolvent wretches who found themselves in limbo.
+LJSpeech-1.1/wavs/LJ002-0150.wav|Costs were the gallons of sack to the pennyworth of debt.
+LJSpeech-1.1/wavs/LJ002-0151.wav|Neild found at his visit to Newgate in eighteen ten,
+LJSpeech-1.1/wavs/LJ002-0152.wav|fourteen men and women who had lain there ten, eleven, and thirteen years for debts of a few shillings,
+LJSpeech-1.1/wavs/LJ002-0153.wav|weighted by treble the amount of costs.
+LJSpeech-1.1/wavs/LJ002-0154.wav|Thus, amongst others, Thomas Blackburn had been committed on October fifteenth for a debt of one shilling five pence.
+LJSpeech-1.1/wavs/LJ002-0155.wav|for which the costs were six shillings ten pence.
+LJSpeech-1.1/wavs/LJ002-0156.wav|Thomas Dobson, on twenty-second August, seventeen ninety-nine, for one shilling, with costs of eight shillings, ten pence.
+LJSpeech-1.1/wavs/LJ002-0157.wav|and Susannah Evans, in October the same year, for two shillings, with costs of six shillings, eight pence.
+LJSpeech-1.1/wavs/LJ002-0158.wav|Other cases are recorded elsewhere, as at the Giltspur Street Compter, where in eighteen oh five Mr. Neild found a man named William Grant
+LJSpeech-1.1/wavs/LJ002-0159.wav|detained for one shilling nine pence, with costs of five shillings.
+LJSpeech-1.1/wavs/LJ002-0160.wav|and John Lancaster for one shilling, eight pence, with costs of seven shillings, six pence. Quote.
+LJSpeech-1.1/wavs/LJ002-0161.wav|These surely, I thought," says Mr. Neild, "were bad enough! But it was not so. End quote.
+LJSpeech-1.1/wavs/LJ002-0162.wav|He recites another most outrageous and extraordinary case, in which one John Bird,
+LJSpeech-1.1/wavs/LJ002-0163.wav|a market porter, was arrested and committed at the suit of a publican
+LJSpeech-1.1/wavs/LJ002-0164.wav|for the paltry sum of four pence, with costs of seven shillings, six pence.
+LJSpeech-1.1/wavs/LJ002-0165.wav|Bird was, however, discharged within three days by a subscription raised among his fellow-prisoners.
+LJSpeech-1.1/wavs/LJ002-0166.wav|Mr. Buxton, in his "Inquiry into the System of Prison Discipline,"
+LJSpeech-1.1/wavs/LJ002-0167.wav|quotes a case which came within his own knowledge of a boy sent to prison for non-payment of one penny.
+LJSpeech-1.1/wavs/LJ002-0168.wav|The lad in question was found in Coldbath Fields prison, to which he had been sent for a month in default of paying a fine of forty shillings.
+LJSpeech-1.1/wavs/LJ002-0169.wav|He had been in the employ of a corn-chandler at Islington, and went into London with his master's cart and horse.
+LJSpeech-1.1/wavs/LJ002-0170.wav|There was in the City Road a temporary bar, with a collector of tolls who was sometimes on the spot and sometimes not.
+LJSpeech-1.1/wavs/LJ002-0171.wav|The boy declared he saw no one, and accordingly passed through without paying the toll of a penny.
+LJSpeech-1.1/wavs/LJ002-0172.wav|For this he was summoned before a magistrate, and sentenced as already stated.
+LJSpeech-1.1/wavs/LJ002-0173.wav|The lad was proved to be of good character and the son of respectable parents.
+LJSpeech-1.1/wavs/LJ002-0174.wav|Mr. Buxton's friends at once paid the forty shillings, and the boy was released.
+LJSpeech-1.1/wavs/LJ002-0175.wav|The costs in heavier debts always doubled the sum; if the arrest was made in the country it trebled it.
+LJSpeech-1.1/wavs/LJ002-0176.wav|Neild gives a list of the various items charged upon a debt of ten pounds, which included instructions to sue,
+LJSpeech-1.1/wavs/LJ002-0177.wav|affidavit of debt, drawing praecipe (one pound, five shillings), capias, fee to officer on arrest,
+LJSpeech-1.1/wavs/LJ002-0178.wav|affidavit of service, and many more, amounting in all to twenty-seven,
+LJSpeech-1.1/wavs/LJ002-0179.wav|and costing eleven pounds, fifteen shillings, eight pence, within ten days.
+LJSpeech-1.1/wavs/LJ002-0180.wav|Before dealing with the debtors in Newgate, I may refer incidentally
+LJSpeech-1.1/wavs/LJ002-0181.wav|to those in other London prisons, for Newgate was not the only place of durance for these unfortunate people. There were also the King's Bench,
+LJSpeech-1.1/wavs/LJ002-0182.wav|the Fleet, and the Marshalsea prisons especially devoted to them,
+LJSpeech-1.1/wavs/LJ002-0183.wav|whilst Ludgate, the Giltspur Street, and Borough Compters also received them
+LJSpeech-1.1/wavs/LJ002-0184.wav|the latter two being also a prison for felons and vagrants arrested within certain limits.
+LJSpeech-1.1/wavs/LJ002-0185.wav|The King's Bench was a national prison, in which were confined all debtors arrested for debt or for contempt of the court of the King's Bench.
+LJSpeech-1.1/wavs/LJ002-0186.wav|The population generally amounted to from five hundred to seven hundred, the accommodation being calculated for two hundred.
+LJSpeech-1.1/wavs/LJ002-0187.wav|Every new-comer was entitled to a "chummage" ticket, but did not always get it,
+LJSpeech-1.1/wavs/LJ002-0188.wav|being often obliged to pay a high rent for a bed at the coffee-house or in some room which was vacated by its regular occupant.
+LJSpeech-1.1/wavs/LJ002-0189.wav|No fixed rates or rules governed the hiring out of rooms or parts of a room, and all sorts of imposition was practiced.
+LJSpeech-1.1/wavs/LJ002-0190.wav|The best, or at least the most influential prisoners, got lodging in the State House, which contained "eight large handsome rooms."
+LJSpeech-1.1/wavs/LJ002-0191.wav|Besides those actually resident within the walls,
+LJSpeech-1.1/wavs/LJ002-0192.wav|another two hundred more or less took advantage of "the rules," and lived outside within a circumference of two miles and a half.
+LJSpeech-1.1/wavs/LJ002-0193.wav|In these cases security was given for the amount of the debt,
+LJSpeech-1.1/wavs/LJ002-0194.wav|and a heavy fee at the rate of eight pounds per one hundred pounds, with four pounds for every additional hundred.
+LJSpeech-1.1/wavs/LJ002-0195.wav|Besides these, a number had the privilege of a "run on the key," which allowed a prisoner to go into the rules for the day.
+LJSpeech-1.1/wavs/LJ002-0196.wav|The foregoing rentals and payments for privileges, together with fees exacted on commitment and discharge, went to the marshal or keeper of the prison,
+LJSpeech-1.1/wavs/LJ002-0197.wav|whose net annual income thus entirely derived from the impecunious amounted to between three and four thousand pounds.
+LJSpeech-1.1/wavs/LJ002-0198.wav|The office of marshal had been hereditary,
+LJSpeech-1.1/wavs/LJ002-0199.wav|but in the twenty-seventh George the second the right of presentation was bought by the Crown for ten thousand, five hundred pounds.
+LJSpeech-1.1/wavs/LJ002-0200.wav|The marshal was supposed to be resident either within the prison or the rules.
+LJSpeech-1.1/wavs/LJ002-0201.wav|He seems to have felt no responsibility as to the welfare or comfort of those in charge, and out of whom he made all his money.
+LJSpeech-1.1/wavs/LJ002-0202.wav|The prison was always in "the most filthy state imaginable."
+LJSpeech-1.1/wavs/LJ002-0203.wav|The half or wholly starved prisoners fished for alms or food at the gratings.
+LJSpeech-1.1/wavs/LJ002-0204.wav|When they were sick no more notice was taken of them than of a dog.
+LJSpeech-1.1/wavs/LJ002-0205.wav|A man dying of liver complaint lay on the cold stones without a bed or food to eat.
+LJSpeech-1.1/wavs/LJ002-0206.wav|Dissolute habits prevailed on all sides; drunkenness was universal, gambling perpetual.
+LJSpeech-1.1/wavs/LJ002-0207.wav|The yards were taken up with rackets and five courts, and here and there were "bumble puppy grounds," a game in which the players rolled iron balls
+LJSpeech-1.1/wavs/LJ002-0208.wav|into holes marked with numbers.
+LJSpeech-1.1/wavs/LJ002-0209.wav|How to make most profit out of the wretched denizens of the jail was the marshal's only care. He got a rent for the coffee-house and the bake-house;
+LJSpeech-1.1/wavs/LJ002-0210.wav|the keeper of the large tap-room called the Brace, because it was once kept by two brothers named Partridge, also paid him toll.
+LJSpeech-1.1/wavs/LJ002-0211.wav|The sale of spirits was forbidden, but gin could always be had at the whistling shops, where it was known as Moonshine, Sky Blue,
+LJSpeech-1.1/wavs/LJ002-0212.wav|Mexico, and was consumed at the rate of a hogshead per week.
+LJSpeech-1.1/wavs/LJ002-0213.wav|The Fleet, which stood in Farringdon Street,
+LJSpeech-1.1/wavs/LJ002-0214.wav|was a prison for debtors and persons committed for contempt by the courts of Chancery, Exchequer, and Common Pleas.
+LJSpeech-1.1/wavs/LJ002-0215.wav|It was so used for the date of the abolition of the Star Chamber in the sixteenth Charles the first
+LJSpeech-1.1/wavs/LJ002-0216.wav|The shameful malpractices of Bambridge,
+LJSpeech-1.1/wavs/LJ002-0217.wav|the warden of the Fleet at the commencement of the eighteenth century, are too well known to need more than a passing reference.
+LJSpeech-1.1/wavs/LJ002-0218.wav|A committee of the House of Commons investigated the charges against Bambridge, who was proved to have connived at the escape of some debtors,
+LJSpeech-1.1/wavs/LJ002-0219.wav|and to have been guilty of extortion to others. One Sir William Rich, Bart., he had loaded with heavy irons
+LJSpeech-1.1/wavs/LJ002-0220.wav|In consequence of these disclosures, both Bambridge and Huggin, his predecessor in the office, were committed to Newgate,
+LJSpeech-1.1/wavs/LJ002-0221.wav|and many reforms instituted. But the condition of the prison and its inmates remained unsatisfactory to the last.
+LJSpeech-1.1/wavs/LJ002-0222.wav|It contained generally from six to seven hundred inmates, while another hundred more or less resided in the rules outside.
+LJSpeech-1.1/wavs/LJ002-0223.wav|The principle of "chummage" prevailed as in the King's Bench,
+LJSpeech-1.1/wavs/LJ002-0224.wav|but a number of rooms, fifteen more or less, were reserved for poor debtors under the name of Bartholomew Fair.
+LJSpeech-1.1/wavs/LJ002-0225.wav|The rentals of rooms and fees went to the warden, whose income was two thousand three hundred seventy-two pounds.
+LJSpeech-1.1/wavs/LJ002-0226.wav|The same evils of overcrowding, uncleanliness, want of medical attendance,
+LJSpeech-1.1/wavs/LJ002-0227.wav|absence or neglect of divine service, were present as in the King's Bench, but in an exaggerated form.
+LJSpeech-1.1/wavs/LJ002-0228.wav|The Committee on Jails reported that, quote, although the house of the warden looked into the court,
+LJSpeech-1.1/wavs/LJ002-0229.wav|and the turnkeys slept in the prison, yet scenes of riot, drunkenness, and disorder were most prevalent, end quote.
+LJSpeech-1.1/wavs/LJ002-0230.wav|The state of morals was disgraceful. Any woman obtained admission if sober, and if she got drunk she was not turned out.
+LJSpeech-1.1/wavs/LJ002-0231.wav|There was no distinct place for the female debtors, who lived in the same galleries as the men.
+LJSpeech-1.1/wavs/LJ002-0232.wav|Disturbances were frequent, owing to the riotous conduct of intoxicated women.
+LJSpeech-1.1/wavs/LJ002-0233.wav|Twice a week there was a wine and beer club held at night, which lasted till two or three in the morning.
+LJSpeech-1.1/wavs/LJ002-0234.wav|In the yard behind the prison
+LJSpeech-1.1/wavs/LJ002-0235.wav|were places set apart for skittles, fives, and tennis, which strangers frequented as any other place of public amusement.
+LJSpeech-1.1/wavs/LJ002-0236.wav|Matters were rather better at the Marshalsea.
+LJSpeech-1.1/wavs/LJ002-0237.wav|This very ancient prison, which stood in the High Street, Southwark,
+LJSpeech-1.1/wavs/LJ002-0238.wav|was used for debtors arrested for the lowest sums within twelve miles of the palace of Whitehall;
+LJSpeech-1.1/wavs/LJ002-0239.wav|also for prisoners committed by the Admiralty Court.
+LJSpeech-1.1/wavs/LJ002-0240.wav|At one time the Marshalsea was the receptacle of pirates, but none were committed to it after seventeen eighty-nine.
+LJSpeech-1.1/wavs/LJ002-0241.wav|The court of the Marshalsea was instituted by Charles the first in the sixth year of his reign,
+LJSpeech-1.1/wavs/LJ002-0242.wav|to be held before the steward of the royal household, the knight marshal, and the steward of the court,
+LJSpeech-1.1/wavs/LJ002-0243.wav|with jurisdiction to hold pleas in all actions within the prescribed limits. The court was chiefly used for the recovery of small debts under ten pounds
+LJSpeech-1.1/wavs/LJ002-0244.wav|but its business was much reduced by the extension of the Courts of Conscience.
+LJSpeech-1.1/wavs/LJ002-0245.wav|The prison was a nest of abuses, like its neighbor the King's Bench
+LJSpeech-1.1/wavs/LJ002-0246.wav|and came under the strong animadversion of the Jail Committee of seventeen twenty-nine.
+LJSpeech-1.1/wavs/LJ002-0247.wav|As the business of the Marshalsea Court declined, the numbers in its prison diminished.
+LJSpeech-1.1/wavs/LJ002-0248.wav|The population, as reported by the committee in eighteen fourteen, averaged about sixty,
+LJSpeech-1.1/wavs/LJ002-0249.wav|and the prison, although wives and children resided within the walls, was not overcrowded.
+LJSpeech-1.1/wavs/LJ002-0250.wav|Their conduct too was orderly on the whole.
+LJSpeech-1.1/wavs/LJ002-0251.wav|Drunkenness was not common, chiefly because liquor was not to be had freely, although the tapster paid a rent of two guineas a week for permission to sell it.
+LJSpeech-1.1/wavs/LJ002-0252.wav|The inmates, who euphemistically styled themselves "collegians,"
+LJSpeech-1.1/wavs/LJ002-0253.wav|were governed by rules which they themselves had framed, and under which subscriptions were levied
+LJSpeech-1.1/wavs/LJ002-0254.wav|and fines imposed for conduct disapproved of by the "college."
+LJSpeech-1.1/wavs/LJ002-0255.wav|A court of the collegians was held every Monday to manage its affairs, at which all prisoners were required to attend.
+LJSpeech-1.1/wavs/LJ002-0256.wav|A committee of collegians was elected to act as the executive, also a secretary or accountant to receive monies and keep books,
+LJSpeech-1.1/wavs/LJ002-0257.wav|and a master of the ale-room, who kept this the scene of their revels clean, and saw that boiling water was provided for grog.
+LJSpeech-1.1/wavs/LJ002-0258.wav|Bad language, quarreling, throwing water over one another was forbidden on pain of fine and being sent to Coventry;
+LJSpeech-1.1/wavs/LJ002-0259.wav|but the prevailing moral tone may be guessed from the penalty inflicted upon persons singing obscene songs before nine p.m.
+LJSpeech-1.1/wavs/LJ002-0260.wav|Yet the public opinion of the whole body seems to have checked dissipation.
+LJSpeech-1.1/wavs/LJ002-0261.wav|The poorer prisoners were not in abject want, as in other prisons,
+LJSpeech-1.1/wavs/LJ002-0262.wav|owing to many charitable gifts and bequests, which included annual donations from the Archbishop of Canterbury,
+LJSpeech-1.1/wavs/LJ002-0263.wav|the Lord Steward of the Household, the steward and officers of the Marshalsea Court, and others.
+LJSpeech-1.1/wavs/LJ002-0264.wav|Legacies had also been left to free a certain number of debtors, notably that of one hundred pounds per annum
+LJSpeech-1.1/wavs/LJ002-0265.wav|left by a Mr. Henry Allnutt, who was long a prisoner in the Marshalsea, and came into a fortune while there.
+LJSpeech-1.1/wavs/LJ002-0266.wav|His bequest, which was charged upon his manor at Goring, Oxon, and hence called the Oxford Charity,
+LJSpeech-1.1/wavs/LJ002-0267.wav|was applied only to the release of poor debtors whom four pounds each could free.
+LJSpeech-1.1/wavs/LJ002-0268.wav|The supreme control of the Marshalsea was vested in the marshal of the royal household; but although he drew a salary of five hundred pounds a year,
+LJSpeech-1.1/wavs/LJ002-0269.wav|he did nothing beyond visiting the prison occasionally, and left the administration to the deputy marshal.
+LJSpeech-1.1/wavs/LJ002-0270.wav|The latter's salary, with fees, the rent of the tap and of the chandler's shop, amounted to about six hundred pounds a year.
+LJSpeech-1.1/wavs/LJ002-0271.wav|The compters of Ludgate, Giltspur Street, and the Borough were discontinued as debtors' prisons (as was Newgate also)
+LJSpeech-1.1/wavs/LJ002-0272.wav|on the opening of Whitecross prison for debtors in eighteen fifteen.
+LJSpeech-1.1/wavs/LJ002-0273.wav|Ludgate to the last was the debtors' prison for freemen of the city of London,
+LJSpeech-1.1/wavs/LJ002-0274.wav|clergymen, proctors, attorneys, and persons specially selected by the Corporation.
+LJSpeech-1.1/wavs/LJ002-0275.wav|At one time the Ludgate debtors, accompanied by the keeper,
+LJSpeech-1.1/wavs/LJ002-0276.wav|went outside and beyond the prison to call on their creditors, and try to arrange their debts, but this practice was discontinued.
+LJSpeech-1.1/wavs/LJ002-0277.wav|There were fifteen rooms of various sizes, and as the numbers imprisoned rarely exceeded five-and-twenty, the place was never overcrowded,
+LJSpeech-1.1/wavs/LJ002-0278.wav|while the funds of several bequests and charities were applied in adding to the material comfort of the prisoners.
+LJSpeech-1.1/wavs/LJ002-0279.wav|The Giltspur Street Compter received sheriffs' debtors, also felons, vagrants, and night charges.
+LJSpeech-1.1/wavs/LJ002-0280.wav|It was generally crowded, as debtors who would have gone to the Poultry Compter were sent to Giltspur Street when the former was condemned as unfit to receive prisoners.
+LJSpeech-1.1/wavs/LJ002-0281.wav|The demands for fees were excessive in Giltspur Street.
+LJSpeech-1.1/wavs/LJ002-0282.wav|Those who could not pay were thrown into the wards with the night charges,
+LJSpeech-1.1/wavs/LJ002-0283.wav|and denied admission to the "charity wards," which partook of all the benefits of bequests and donations to poor debtors.
+LJSpeech-1.1/wavs/LJ002-0284.wav|The Borough Compter was in a disgraceful state to the last. The men's ward had an earth, or rather a mud, floor,
+LJSpeech-1.1/wavs/LJ002-0285.wav|and was so unfit to sleep on that it had not been used for many years, so that the men and women associated together indiscriminately.
+LJSpeech-1.1/wavs/LJ002-0286.wav|The rooms had no fireplaces, so it mattered little that no coals were allowed.
+LJSpeech-1.1/wavs/LJ002-0287.wav|There were no beds or bedding, no straw even.
+LJSpeech-1.1/wavs/LJ002-0288.wav|In one room Mr. Neild found a woman ill of a flux shut up with three men;
+LJSpeech-1.1/wavs/LJ002-0289.wav|the latter raised eighteen pence among them to pay for a truss of straw for the poor woman to lie on.
+LJSpeech-1.1/wavs/LJ002-0290.wav|Neild found the prisoners in the Borough Compter ragged, starving, and dirty.
+LJSpeech-1.1/wavs/LJ002-0291.wav|I come now to the debtors in Newgate. The quarters they occupied were divided, as I have said, into three principal divisions
+LJSpeech-1.1/wavs/LJ002-0292.wav|the master's side, the cabin side, and the common side. Payment of a fee of three shillings gained the debtor admission to the two first named;
+LJSpeech-1.1/wavs/LJ002-0293.wav|those who could pay nothing went, as a matter of course, to the common side;
+LJSpeech-1.1/wavs/LJ002-0294.wav|a further fee was, however, demanded from the new-comer before he was made free of either the master's or the cabin side.
+LJSpeech-1.1/wavs/LJ002-0295.wav|This was the reprehensible claim for "garnish," which had already been abolished in all well-conducted prisons, but which still was demanded in Newgate.
+LJSpeech-1.1/wavs/LJ002-0296.wav|Garnish on the cabin side was a guinea at entrance for coals, candles, brooms, etc., and a gallon of beer on discharge;
+LJSpeech-1.1/wavs/LJ002-0297.wav|on the master's side it was thirteen and fourpence, and a gallon of beer on entrance, although Mr. Newman,
+LJSpeech-1.1/wavs/LJ002-0298.wav|in his evidence in eighteen fourteen, said it was more,
+LJSpeech-1.1/wavs/LJ002-0299.wav|and gave the garnish for the common side at that sum, which is five shillings more than Mr. Neild says was extorted on the common side.
+LJSpeech-1.1/wavs/LJ002-0300.wav|Numerous tyrannies were practiced on all who would not and could not pay the garnish.
+LJSpeech-1.1/wavs/LJ002-0301.wav|They were made to wash and swab the ward, or they were shut out from the ward fireplace, and forbidden to pass a chalked line drawn on the floor,
+LJSpeech-1.1/wavs/LJ002-0302.wav|and so were unable either to warm themselves or to cook their food.
+LJSpeech-1.1/wavs/LJ002-0303.wav|Besides these fees, legitimate and illegitimate, there were others which must be paid before release.
+LJSpeech-1.1/wavs/LJ002-0304.wav|The sheriff demanded four shillings, six pence for his liberate, the jailer six shillings, ten pence more, and the turnkey two shillings;
+LJSpeech-1.1/wavs/LJ002-0305.wav|and thus when the debtor's debt had been actually paid, or when he had abandoned his property to the creditors, and, almost destitute,
+LJSpeech-1.1/wavs/LJ002-0306.wav|looked forward to his liberty, he was still delayed until he had paid a new debt arising, quote,
+LJSpeech-1.1/wavs/LJ002-0307.wav|only out of a satisfaction of all his former debts, end quote. The fees were not always extorted, it is true;
+LJSpeech-1.1/wavs/LJ002-0308.wav|nor was non-payment made a pretext for further imprisonment, thanks to the humanity of the jailer, or the funds provided by various charities.
+LJSpeech-1.1/wavs/LJ002-0309.wav|There was this much honest forbearance in Newgate in these days,
+LJSpeech-1.1/wavs/LJ002-0310.wav|that debtors who could afford the cabin and master's side were not permitted to share in the prison charities.
+LJSpeech-1.1/wavs/LJ002-0311.wav|These were lumped together into a general fund,
+LJSpeech-1.1/wavs/LJ002-0312.wav|and a calculation made as to the amount that might be expended per week from the whole sum, so that the latter might last out the year.
+LJSpeech-1.1/wavs/LJ002-0313.wav|It generally ran to about six pounds per week. The money, which at one time had been distributed quarterly, and all went in drink,
+LJSpeech-1.1/wavs/LJ002-0314.wav|was after eighteen oh seven, through the exertions of the keeper of the jail, spent in the purchase of necessaries.
+LJSpeech-1.1/wavs/LJ002-0315.wav|But this weekly pittance did not go far when the debtors' side was crowded, as it often was;
+LJSpeech-1.1/wavs/LJ002-0316.wav|notably as when numbers filled Newgate in anticipation of Lord Redesdale's bill for insolvent debtors,
+LJSpeech-1.1/wavs/LJ002-0317.wav|and there were as many as three hundred and fifty prisoners in at one time.
+LJSpeech-1.1/wavs/LJ002-0318.wav|The city also allowed the poor debtors fourteen ounces of bread daily, and their share of eight stone of meat, an allowance which never varied,
+LJSpeech-1.1/wavs/LJ002-0319.wav|issued once a week, and divided as far as it would go -- a very precarious and uncertain ration.
+LJSpeech-1.1/wavs/LJ002-0320.wav|The bread was issued every alternate day; and while some prisoners often ate their whole allowance at once,
+LJSpeech-1.1/wavs/LJ002-0321.wav|others who arrived just after the time of distribution were often forty-eight hours without food. The latter might also be six days without meat.
+LJSpeech-1.1/wavs/LJ002-0322.wav|Share in the weekly allowance of meat might also be denied to debtors who had not paid "garnish," as well as in the weekly grant from the charitable fund.
+LJSpeech-1.1/wavs/LJ002-0323.wav|Hence starvation stared many in the face, unless friends from outside came to their assistance,
+LJSpeech-1.1/wavs/LJ002-0324.wav|or the keeper made them a special grant of six pence per diem out of the common stock;
+LJSpeech-1.1/wavs/LJ002-0325.wav|or the sixpenny allowance was claimed for the creditors, which seldom happened, owing to the expense the process entailed.
+LJSpeech-1.1/wavs/LJ002-0326.wav|The poor debtors were not supplied with beds. Those who could pay the price might hire them from each other,
+LJSpeech-1.1/wavs/LJ002-0327.wav|or from persons who made a trade of it, or they might bring their beds with them into the prison.
+LJSpeech-1.1/wavs/LJ002-0328.wav|Failing any of these methods, seeing that straw was forbidden for fear of fire, they had to be satisfied with a couple of the rugs provided by the city
+LJSpeech-1.1/wavs/LJ002-0329.wav|the supply of which was, however, limited, and there were not always enough to give bedding to all. The stock was diminished by theft;
+LJSpeech-1.1/wavs/LJ002-0330.wav|female visitors carried them out of the prisons, or the debtors destroyed them when the weather was warm,
+LJSpeech-1.1/wavs/LJ002-0331.wav|and they were not in great demand, in order to convert them into mop-heads or cleaning-rags.
+LJSpeech-1.1/wavs/LJ002-0332.wav|Sometimes rugs were urgently required and not forthcoming;
+LJSpeech-1.1/wavs/LJ002-0333.wav|a severe winter set in, the new stock had not been supplied by the contractors, and the poor debtors perished of cold.
+LJSpeech-1.1/wavs/LJ002-0334.wav|Again, there was no regular allowance of fuel. Coals were purchased out of the garnish money and the charitable fund;
+LJSpeech-1.1/wavs/LJ002-0335.wav|so were candles, salt, pepper, mops and brooms. But the latter could have been of little service. Dirt prevailed everywhere;
+LJSpeech-1.1/wavs/LJ002-0336.wav|indeed the place, with its oak floors caulked with pitch, and smoked ceilings,
+LJSpeech-1.1/wavs/LJ002-0337.wav|could not be made even to look clean while there was no obligation of personal cleanliness on individuals, who often came into the prison in filthy rags.
+LJSpeech-1.1/wavs/LJ002-0338.wav|Only now and again, in extreme cases, an unusually nasty companion was stripped, haled to the pump,
+LJSpeech-1.1/wavs/LJ003-0001.wav|The Chronicles of Newgate, Volume two. By Arthur Griffiths. Section five: Newgate down to eighteen eighteen, part two.
+LJSpeech-1.1/wavs/LJ003-0002.wav|The squalor and uncleanness of the debtors' side was intensified by constant overcrowding.
+LJSpeech-1.1/wavs/LJ003-0003.wav|Prisoners were committed to it quite without reference to its capacity.
+LJSpeech-1.1/wavs/LJ003-0004.wav|No remonstrance was attended to,
+LJSpeech-1.1/wavs/LJ003-0005.wav|no steps taken to reduce the number of committals, and the governor was obliged to utilize the chapel as a day and night room.
+LJSpeech-1.1/wavs/LJ003-0006.wav|Besides this, although the families of debtors were no longer permitted to live with them inside the jail,
+LJSpeech-1.1/wavs/LJ003-0007.wav|hundreds of women and children came in every morning to spend the day there, and there was no limitation whatever to the numbers of visitors admitted to the debtors' side.
+LJSpeech-1.1/wavs/LJ003-0008.wav|Friends arrived about nine a.m., and went out at nine p.m., when as many as two hundred visitors have been observed leaving the debtors' yards at one time.
+LJSpeech-1.1/wavs/LJ003-0009.wav|The day passed in revelry and drunkenness. Although spirituous liquors were forbidden,
+LJSpeech-1.1/wavs/LJ003-0010.wav|wine and beer might be had in any quantity, the only limitation being
+LJSpeech-1.1/wavs/LJ003-0011.wav|that not more than one bottle of wine or one quart of beer could be issued at one time. No account was taken of the amount of liquors admitted in one day,
+LJSpeech-1.1/wavs/LJ003-0012.wav|and debtors might practically have as much as they liked, if they could only pay for it.
+LJSpeech-1.1/wavs/LJ003-0013.wav|No attempt was made to check drunkenness, beyond the penalty of shutting out friends from any ward in which a prisoner exceeded.
+LJSpeech-1.1/wavs/LJ003-0014.wav|Quarreling among the debtors was not unfrequent. Blows were struck, and fights often ensued.
+LJSpeech-1.1/wavs/LJ003-0015.wav|For this and other acts of misconduct there was the discipline of the refractory ward, or "strong room" on the debtors' side.
+LJSpeech-1.1/wavs/LJ003-0016.wav|Bad cases were removed to a cell on the felons' side, and here they were locked in solitary confinement for three days at a time.
+LJSpeech-1.1/wavs/LJ003-0017.wav|Order throughout the debtors' side was preserved
+LJSpeech-1.1/wavs/LJ003-0018.wav|and discipline maintained by a system open to grave abuses, and which had the prescription of long usage,
+LJSpeech-1.1/wavs/LJ003-0019.wav|and which was never wholly rooted out for many years to come.
+LJSpeech-1.1/wavs/LJ003-0020.wav|This was the pernicious plan of governing by prisoners, or of setting a favored few in authority over the many.
+LJSpeech-1.1/wavs/LJ003-0021.wav|The head of the debtors' prison was a prisoner called the steward, who was chosen by the whole body from six whom the keeper nominated.
+LJSpeech-1.1/wavs/LJ003-0022.wav|This steward was practically supreme.
+LJSpeech-1.1/wavs/LJ003-0023.wav|All the allowances of food passed through his hands; he had the control of the poor-box for chance charities,
+LJSpeech-1.1/wavs/LJ003-0024.wav|he collected the garnish money, and distributed the weekly grant from the prison charitable fund.
+LJSpeech-1.1/wavs/LJ003-0025.wav|In the latter duties he was, however, supervised by three auditors, freely chosen by the prisoners among themselves.
+LJSpeech-1.1/wavs/LJ003-0026.wav|The auditors were paid a shilling each for their services each time the poor-box was opened. The steward was also remunerated for his trouble.
+LJSpeech-1.1/wavs/LJ003-0027.wav|He had a double allowance of bread, deducted, of course, from the already too limited portion of the rest,
+LJSpeech-1.1/wavs/LJ003-0028.wav|and no doubt made the meat also pay toll.
+LJSpeech-1.1/wavs/LJ003-0029.wav|Under the steward there were captains of wards, chosen in the same way, and performing analogous duties.
+LJSpeech-1.1/wavs/LJ003-0030.wav|These subordinate chiefs were also rewarded out of the scanty prison rations.
+LJSpeech-1.1/wavs/LJ003-0031.wav|The same system was extended to the criminal side, and cases were on record of the place of wardsman being sold for considerable sums.
+LJSpeech-1.1/wavs/LJ003-0032.wav|So valuable were they deemed, that as much as fifty guineas was offered to the keeper for the post.
+LJSpeech-1.1/wavs/LJ003-0033.wav|Enough has been said, probably, to prove that there was room for improvement in the condition and treatment of debtors in the prisons of the city of London.
+LJSpeech-1.1/wavs/LJ003-0034.wav|This gradually was forced upon the consciousness of the Corporation,
+LJSpeech-1.1/wavs/LJ003-0035.wav|and about eighteen twelve application was made to Parliament for funds to build a new debtors' prison.
+LJSpeech-1.1/wavs/LJ003-0036.wav|Authority was given to raise money on the Orphans' Fund to the extent of ninety thousand pounds.
+LJSpeech-1.1/wavs/LJ003-0037.wav|A site was purchased between Red Lion and White Cross streets, and a new prison planned,
+LJSpeech-1.1/wavs/LJ003-0038.wav|which would accommodate the inmates of Newgate and of the three compters, Ludgate,
+LJSpeech-1.1/wavs/LJ003-0039.wav|Giltspur Street, and the Poultry, or about four hundred and seventy-six in all.
+LJSpeech-1.1/wavs/LJ003-0040.wav|The evils of association for these debtors were perpetuated, although the plan provided for the separation of the various contingents committed to it.
+LJSpeech-1.1/wavs/LJ003-0041.wav|There was no lack of air and light for the new jail, and several exercising yards.
+LJSpeech-1.1/wavs/LJ003-0042.wav|The completion of this very necessary building was, however, much delayed for want of funds,
+LJSpeech-1.1/wavs/LJ003-0043.wav|and it was not ready to relieve Newgate till late in eighteen fifteen.
+LJSpeech-1.1/wavs/LJ003-0044.wav|The reforms which were to be attempted in that prison
+LJSpeech-1.1/wavs/LJ003-0045.wav|more particularly as regarded the classification of prisoners, and which were dependent on the space to be gained by the removal of the debtors,
+LJSpeech-1.1/wavs/LJ003-0046.wav|could not be carried out till then. It is to be feared that long after the opening of White Cross Street prison,
+LJSpeech-1.1/wavs/LJ003-0047.wav|Newgate continued to be a reproach to those responsible for its management.
+LJSpeech-1.1/wavs/LJ003-0048.wav|I pass now to the criminal side of Newgate, which consisted of the six quarters or yards already enumerated and described.
+LJSpeech-1.1/wavs/LJ003-0049.wav|The inmates of this part, as distinguished from the debtors, were comprised in four classes:
+LJSpeech-1.1/wavs/LJ003-0050.wav|(one) those awaiting trial;
+LJSpeech-1.1/wavs/LJ003-0051.wav|(two) persons under sentence of imprisonment for a fixed period, or until they shall have paid certain fines;
+LJSpeech-1.1/wavs/LJ003-0052.wav|(three) transports awaiting removal to the colonies, and (four) capital convicts, condemned to death and awaiting execution.
+LJSpeech-1.1/wavs/LJ003-0053.wav|At one time the whole of these different categories were thrown together pell-mell, young and old, the untried with the convicted.
+LJSpeech-1.1/wavs/LJ003-0054.wav|An imperfect attempt at classification was, however, made in eighteen twelve, and a yard was as far as possible set apart for the untried,
+LJSpeech-1.1/wavs/LJ003-0055.wav|or class (one), with whom, under the imperious demand for accommodation, were also associated the misdemeanants, or class (two).
+LJSpeech-1.1/wavs/LJ003-0056.wav|This was the chapel yard, with its five wards, which were calculated to hold seventy prisoners, but often held many more.
+LJSpeech-1.1/wavs/LJ003-0057.wav|A further sub-classification was attempted by separating at night those charged with misdemeanors from those charged with felony,
+LJSpeech-1.1/wavs/LJ003-0058.wav|but all mingled freely during the day in the yard.
+LJSpeech-1.1/wavs/LJ003-0059.wav|The sleeping accommodation in the chapel-yard wards, and indeed throughout the prison, consisted of a barrack bed,
+LJSpeech-1.1/wavs/LJ003-0060.wav|which was a wooden flooring on a slightly inclined plane, with a beam running across the top to serve as a pillow.
+LJSpeech-1.1/wavs/LJ003-0061.wav|No beds were issued, only two rugs per prisoner.
+LJSpeech-1.1/wavs/LJ003-0062.wav|When each sleeper had the full lateral space allotted to him, it amounted to one foot and a half on the barrack bed;
+LJSpeech-1.1/wavs/LJ003-0063.wav|but when the ward was obliged to accommodate double the ordinary number, as was frequently the case,
+LJSpeech-1.1/wavs/LJ003-0064.wav|the sleepers covered the entire floor, with the exception of a passage in the middle.
+LJSpeech-1.1/wavs/LJ003-0065.wav|All the misdemeanants, whatever their offense, were lodged in this chapel ward.
+LJSpeech-1.1/wavs/LJ003-0066.wav|As many various and, according to our ideas, heinous crimes came under this head,
+LJSpeech-1.1/wavs/LJ003-0067.wav|in the then existing state of the law,
+LJSpeech-1.1/wavs/LJ003-0068.wav|the man guilty of a common assault found himself side by side with the fraudulent, or others who had attempted abominable crimes.
+LJSpeech-1.1/wavs/LJ003-0069.wav|In this heterogeneous society were also thrown the unfortunate journalists to whom I have already referred, and on whom imprisonment in Newgate
+LJSpeech-1.1/wavs/LJ003-0070.wav|was frequently adjudged for so-called libels, or too out-spoken comments in print.
+LJSpeech-1.1/wavs/LJ003-0071.wav|It was particularly recommended by the Committee on Jails in eighteen fourteen
+LJSpeech-1.1/wavs/LJ003-0072.wav|that some other and less mixed prison should be used for the confinement of persons convicted of libels. But this suggestion was ignored.
+LJSpeech-1.1/wavs/LJ003-0073.wav|Indeed the partial classification attempted seems to have been abandoned within a year or two.
+LJSpeech-1.1/wavs/LJ003-0074.wav|The Hon. H. G. Bennet, who visited Newgate in eighteen seventeen, saw in one yard, in a total of seventy-two prisoners,
+LJSpeech-1.1/wavs/LJ003-0075.wav|thirty-five tried and thirty-seven untried. Of the former, three were transports for life,
+LJSpeech-1.1/wavs/LJ003-0076.wav|four for fourteen years, and three of them persons sentenced to fines or short imprisonment -- one for little more than a month.
+LJSpeech-1.1/wavs/LJ003-0077.wav|Two of the untried were for murder, and several for house-breaking and highway robbery.
+LJSpeech-1.1/wavs/LJ003-0078.wav|Nor were the misdemeanants and bail prisoners any longer separated from those whose crimes were of a more serious character.
+LJSpeech-1.1/wavs/LJ003-0079.wav|Mr. Bennet refers to a gentleman confined for want of bail, who occupied a room with five others
+LJSpeech-1.1/wavs/LJ003-0080.wav|two committed by the Bankruptcy Commissioner, one for perjury, and two transports.
+LJSpeech-1.1/wavs/LJ003-0081.wav|Persons convicted of publishing libels were still immured in the same rooms with transports and felons.
+LJSpeech-1.1/wavs/LJ003-0082.wav|The middle yard, as far as its limits would permit, was appropriated to felons and transports. The wards here were generally very crowded.
+LJSpeech-1.1/wavs/LJ003-0083.wav|Each ward was calculated to hold twenty-four, allowing each individual one foot and a half;
+LJSpeech-1.1/wavs/LJ003-0084.wav|Quote, a common-sized man, says the keeper, Mr. Newman, can turn in nineteen inches, end quote.
+LJSpeech-1.1/wavs/LJ003-0085.wav|These twenty-four could just sleep on the barrack bed; when the number was higher, and it often rose to forty, the surplus had to sleep on the floor.
+LJSpeech-1.1/wavs/LJ003-0086.wav|The crowding was in consequence of the delay in removing transports.
+LJSpeech-1.1/wavs/LJ003-0087.wav|These often remained in Newgate for six months, sometimes a year, in some cases longer;
+LJSpeech-1.1/wavs/LJ003-0088.wav|in one, for seven years -- that of a man sentenced to death, for whom great interest had been made, but whom it was not thought right to pardon.
+LJSpeech-1.1/wavs/LJ003-0089.wav|Occasionally the transports made themselves so useful in the jail that they were passed over.
+LJSpeech-1.1/wavs/LJ003-0090.wav|Mr. Newman admitted that he had petitioned that certain "trusty men" might be left in the jail.
+LJSpeech-1.1/wavs/LJ003-0091.wav|Constantly associated with these convicted felons were numbers of juveniles, infants of tender years.
+LJSpeech-1.1/wavs/LJ003-0092.wav|There were frequently in the middle yard seven or eight children, the youngest barely nine,
+LJSpeech-1.1/wavs/LJ003-0093.wav|the oldest only twelve or thirteen, exposed to all the contaminating influences of the place.
+LJSpeech-1.1/wavs/LJ003-0094.wav|Mr. Bennet mentions also the case of young men of better stamp, clerks in city offices, and youths of good parentage,
+LJSpeech-1.1/wavs/LJ003-0095.wav|Quote, in this dreadful situation, end quote. who had been rescued from the hulks through the kindness and attention of the Secretary of State.
+LJSpeech-1.1/wavs/LJ003-0096.wav|Quote, yet they had been long enough, he goes on to say, in the prison associated with the lowest and vilest criminals,
+LJSpeech-1.1/wavs/LJ003-0097.wav|with convicts of all ages and characters, to render it next to impossible but that, with the obliteration of all sense of self-respect,
+LJSpeech-1.1/wavs/LJ003-0098.wav|the inevitable consequence of such a situation, their morals must have been destroyed;
+LJSpeech-1.1/wavs/LJ003-0099.wav|and though distress or the seduction of others might have led to the commission of this their first offense,
+LJSpeech-1.1/wavs/LJ003-0100.wav|yet the society they were driven to live in, the language they daily heard, and the lessons they were taught in this academy,
+LJSpeech-1.1/wavs/LJ003-0101.wav|must have had a tendency to turn them into the world hardened and accomplished in the ways of vice and crime. End quote.
+LJSpeech-1.1/wavs/LJ003-0102.wav|Mr. Buxton, in the work already quoted, instances another grievous case of the horrors of indiscriminate association in Newgate.
+LJSpeech-1.1/wavs/LJ003-0103.wav|It was that of a person, quote, who practiced in the law, and who was connected by marriage with some very respectable families.
+LJSpeech-1.1/wavs/LJ003-0104.wav|Having been committed to Clerkenwell,
+LJSpeech-1.1/wavs/LJ003-0105.wav|he was sent on to Newgate in a coach, handcuffed to a noted house-breaker, who was afterwards cast for death.
+LJSpeech-1.1/wavs/LJ003-0106.wav|The first night in Newgate, and for the subsequent fortnight,
+LJSpeech-1.1/wavs/LJ003-0107.wav|he slept in the same bed with a highwayman on one side, and a man charged with murder on the other.
+LJSpeech-1.1/wavs/LJ003-0108.wav|Spirits were freely introduced, and although he at first abstained,
+LJSpeech-1.1/wavs/LJ003-0109.wav|he found he must adopt the manners of his companions, or that his life would be in danger.
+LJSpeech-1.1/wavs/LJ003-0110.wav|They viewed him with some suspicion, as one of whom they knew nothing.
+LJSpeech-1.1/wavs/LJ003-0111.wav|He was in consequence put out of the protection of their internal law, end quote. Their code was a subject of some curiosity.
+LJSpeech-1.1/wavs/LJ003-0112.wav|When any prisoner committed an offense against the community or against an individual, he was tried by a court in the jail.
+LJSpeech-1.1/wavs/LJ003-0113.wav|A prisoner, generally the oldest and most dexterous thief,
+LJSpeech-1.1/wavs/LJ003-0114.wav|was appointed judge, and a towel tied in knots was hung on each side in imitation of a wig.
+LJSpeech-1.1/wavs/LJ003-0115.wav|The judge sat in proper form; he was punctiliously styled "my lord."
+LJSpeech-1.1/wavs/LJ003-0116.wav|A jury having been selected and duly sworn, the culprit was then arraigned. Justice, however, was not administered with absolute integrity.
+LJSpeech-1.1/wavs/LJ003-0117.wav|A bribe to the judge was certain to secure acquittal, and the neglect of the formality was as certainly followed by condemnation.
+LJSpeech-1.1/wavs/LJ003-0118.wav|Various punishments were inflicted, the heaviest of which was standing in the pillory.
+LJSpeech-1.1/wavs/LJ003-0119.wav|This was carried out by putting the criminal's head through the legs of a chair, and stretching out his arms and tying them to the legs.
+LJSpeech-1.1/wavs/LJ003-0120.wav|The culprit was then compelled to carry the chair about with him.
+LJSpeech-1.1/wavs/LJ003-0121.wav|But all punishments might readily be commuted into a fine to be spent in gin for judge and jury.
+LJSpeech-1.1/wavs/LJ003-0122.wav|The prisoner mentioned above was continually persecuted by trials of this kind.
+LJSpeech-1.1/wavs/LJ003-0123.wav|The most trifling acts were magnified into offenses.
+LJSpeech-1.1/wavs/LJ003-0124.wav|He was charged with moving something which should not be touched, with leaving a door open, or coughing maliciously to the disturbance of his companions.
+LJSpeech-1.1/wavs/LJ003-0125.wav|The evidence was invariably sufficient to convict, and the judge never hesitated to inflict the heaviest penalties.
+LJSpeech-1.1/wavs/LJ003-0126.wav|The unfortunate man was compelled at length to adopt the habits of his associates;
+LJSpeech-1.1/wavs/LJ003-0127.wav|Quote, by insensible degrees he began to lose his repugnance to their society,
+LJSpeech-1.1/wavs/LJ003-0128.wav|caught their flash terms and sung their songs, was admitted to their revels, and acquired, in place of habits of perfect sobriety,
+LJSpeech-1.1/wavs/LJ003-0129.wav|a taste for spirits. End quote.
+LJSpeech-1.1/wavs/LJ003-0130.wav|His wife visited him in Newgate, and wrote a pitiable account of the state in which she found her husband.
+LJSpeech-1.1/wavs/LJ003-0131.wav|He was an inmate of the same ward with others of the most dreadful sort, quote,
+LJSpeech-1.1/wavs/LJ003-0132.wav|whose language and manners, whose female associates of the most abandoned description, and the scenes consequent with such lost wretches
+LJSpeech-1.1/wavs/LJ003-0133.wav|prevented me from going inside but seldom, and I used to communicate with him through the bars from the passage. End quote.
+LJSpeech-1.1/wavs/LJ003-0134.wav|One day he was too ill to come down and meet her.
+LJSpeech-1.1/wavs/LJ003-0135.wav|She went up to the ward and found him lying down, quote,
+LJSpeech-1.1/wavs/LJ003-0136.wav|pale as death, very ill, and in a dreadfully dirty state, the wretches making game of him, and enjoying my distress;
+LJSpeech-1.1/wavs/LJ003-0137.wav|and I learned he had been up with the others the whole night.
+LJSpeech-1.1/wavs/LJ003-0138.wav|Though they could not force him to gamble, he was compelled to drink,
+LJSpeech-1.1/wavs/LJ003-0139.wav|and I was obliged afterwards to let him have five shillings to pay his share,
+LJSpeech-1.1/wavs/LJ003-0140.wav|otherwise he would have been stripped of his clothes. End quote.
+LJSpeech-1.1/wavs/LJ003-0141.wav|Felons who could pay the price were permitted, irrespective of their character or offenses,
+LJSpeech-1.1/wavs/LJ003-0142.wav|to purchase the greater ease and comfort of the master's side.
+LJSpeech-1.1/wavs/LJ003-0143.wav|The entrance fee was at least thirteen shillings, six pence a head, with half-a-crown a week more for bed and bedding,
+LJSpeech-1.1/wavs/LJ003-0144.wav|the wards being furnished with barrack bedsteads, upon which each prisoner had the regulation allowance of sleeping room
+LJSpeech-1.1/wavs/LJ003-0145.wav|or about a foot and a half laterally. These fees were in reality a substantial contribution towards the expenses of the jail;
+LJSpeech-1.1/wavs/LJ003-0146.wav|without them the keeper declared that he could not pay the salaries of turnkeys and servants, nor keep the prison going at all.
+LJSpeech-1.1/wavs/LJ003-0147.wav|Besides the jail fees, there was garnish of half-a-guinea, collected by the steward,
+LJSpeech-1.1/wavs/LJ003-0148.wav|and spent in providing coals, candles, plates, knives, and forks; while all the occupants of this part of the prison
+LJSpeech-1.1/wavs/LJ003-0149.wav|supported themselves; they had the ration of prison bread only,
+LJSpeech-1.1/wavs/LJ003-0150.wav|but they had no share in the prison meat or other charities, and they or their friends found them in food.
+LJSpeech-1.1/wavs/LJ003-0151.wav|All who could scrape together the cash seem to have gladly availed themselves of the privilege of entering the master's side.
+LJSpeech-1.1/wavs/LJ003-0152.wav|It was the only way to escape the horrors, the distress, penury, and rags of the common yards.
+LJSpeech-1.1/wavs/LJ003-0153.wav|Idleness was not so universally the rule in this part of the jail.
+LJSpeech-1.1/wavs/LJ003-0154.wav|Artisans and others were at liberty to work at their trades, provided they were not dangerous.
+LJSpeech-1.1/wavs/LJ003-0155.wav|Tailoring and shoemaking was permitted, but it was deemed unsafe to allow a carpenter or blacksmith to have his tools.
+LJSpeech-1.1/wavs/LJ003-0156.wav|All the money earned by prisoners was at their own disposal, and was spent almost habitually in drink, chambering, and wantonness.
+LJSpeech-1.1/wavs/LJ003-0157.wav|The best accommodation the jail could offer was reserved for the prisoners on the state side,
+LJSpeech-1.1/wavs/LJ003-0158.wav|from whom still higher fees were exacted, with the same discreditable idea of swelling the revenues of the prison.
+LJSpeech-1.1/wavs/LJ003-0159.wav|To constitute this the aristocratic quarter, unwarrantable demands were made upon the space properly allotted to the female felons,
+LJSpeech-1.1/wavs/LJ003-0160.wav|and no lodger was rejected, whatever his status, who offered himself and could bring grist to the mill.
+LJSpeech-1.1/wavs/LJ003-0161.wav|The luxury of the state side was for a long time open to all who could pay
+LJSpeech-1.1/wavs/LJ003-0162.wav|the convicted felon, the transport awaiting removal, the lunatic whose case was still undecided,
+LJSpeech-1.1/wavs/LJ003-0163.wav|the misdemeanant tried or untried, the debtor who wished to avoid the discomfort of the crowded debtors' side, the outspoken newspaper editor,
+LJSpeech-1.1/wavs/LJ003-0164.wav|or the daring reporter of parliamentary debates.
+LJSpeech-1.1/wavs/LJ003-0165.wav|The better class of inmate complained bitterly of this enforced companionship with the vile,
+LJSpeech-1.1/wavs/LJ003-0166.wav|association at one time forbidden by custom, but which greed and rapacity long made the rule.
+LJSpeech-1.1/wavs/LJ003-0167.wav|The fee for admission to the state side, as fixed by the table of fees, was three guineas, but Mr. Newman declared that he never took more than two.
+LJSpeech-1.1/wavs/LJ003-0168.wav|Ten and sixpence a week more was charged as rent for a single bed; where two or more slept in a bed the rent was seven shillings a week each.
+LJSpeech-1.1/wavs/LJ003-0169.wav|Prisoners who could afford it sometimes paid for four beds, at the rate of twenty-eight shillings, and so secured the luxury of a private room.
+LJSpeech-1.1/wavs/LJ003-0170.wav|A Mr. Lundy, charged with forgery, was thus accommodated on the state side for upwards of five years.
+LJSpeech-1.1/wavs/LJ003-0171.wav|But the keeper protested that no single prisoner could thus monopolize space if the state side was crowded.
+LJSpeech-1.1/wavs/LJ003-0172.wav|The keeper went still further in his efforts to make money.
+LJSpeech-1.1/wavs/LJ003-0173.wav|He continued the ancient practice of letting out a portion of his own house, and by a poetical fiction treated it as an annex of the state side.
+LJSpeech-1.1/wavs/LJ003-0174.wav|Mr. Davison, sent to Newgate for embezzlement, and whose case is given in the preceding chapter,
+LJSpeech-1.1/wavs/LJ003-0175.wav|was accommodated with a room in Mr. Newman's house at the extravagant rental of thirty guineas per week;
+LJSpeech-1.1/wavs/LJ003-0176.wav|Mr. Cobbett was also a lodger of Mr. Newman's; and so were any members of the aristocracy,
+LJSpeech-1.1/wavs/LJ003-0177.wav|if they happened to be in funds -- among whom was the Marquis of Sligo in eighteen eleven.
+LJSpeech-1.1/wavs/LJ003-0178.wav|The female felons' wards I shall describe at length in the next chapter,
+LJSpeech-1.1/wavs/LJ003-0179.wav|which will deal with Mrs. Fry's philanthropic exertions at this period in this particular part of the prison.
+LJSpeech-1.1/wavs/LJ003-0180.wav|These wards were always full to overflowing; sometimes double the number the rooms could accommodate were crowded into them.
+LJSpeech-1.1/wavs/LJ003-0181.wav|There was a master's side for females who could pay the usual fees, but they associated with the rest in the one narrow yard common to all.
+LJSpeech-1.1/wavs/LJ003-0182.wav|The tried and the untried, young and old, were herded together
+LJSpeech-1.1/wavs/LJ003-0183.wav|sometimes girls of thirteen, twelve, even ten or nine years of age, were exposed to, quote,
+LJSpeech-1.1/wavs/LJ003-0184.wav|all the contagion and profligacy which prevailed in this part of the prison, end quote.
+LJSpeech-1.1/wavs/LJ003-0185.wav|There was no separation even for the women under sentence of death, who lived in a common and perpetually crowded ward.
+LJSpeech-1.1/wavs/LJ003-0186.wav|Only when the order of execution came down were those about to suffer placed apart in one of the rooms in the arcade of the middle ward.
+LJSpeech-1.1/wavs/LJ003-0187.wav|I have kept till the last that part of the prison which was usually the last resting-place of so many.
+LJSpeech-1.1/wavs/LJ003-0188.wav|The old press yard has been fully described in a previous chapter.
+LJSpeech-1.1/wavs/LJ003-0189.wav|The name still survived in the new press yard, which was the receptacle of the male condemned prisoners. It was generally crowded, like the rest of the prison.
+LJSpeech-1.1/wavs/LJ003-0190.wav|Except in murder cases, where the execution was generally very promptly performed,
+LJSpeech-1.1/wavs/LJ003-0191.wav|strange and inconceivable delay occurred in carrying out the extreme sentence.
+LJSpeech-1.1/wavs/LJ003-0192.wav|Hence there was a terrible accumulation of prisoners in the condemned cells.
+LJSpeech-1.1/wavs/LJ003-0193.wav|Once, during the long illness of George the third, as many as one hundred were there waiting the "Report," as it was called.
+LJSpeech-1.1/wavs/LJ003-0194.wav|At another time there were fifty, one of whom had been under sentence a couple of years.
+LJSpeech-1.1/wavs/LJ003-0195.wav|Mr. Bennet speaks of thirty-eight capital convicts he found in the press yard in February eighteen seventeen,
+LJSpeech-1.1/wavs/LJ003-0196.wav|five of whom had been condemned the previous July, four in September, and twenty-nine in October.
+LJSpeech-1.1/wavs/LJ003-0197.wav|This procrastination bred certain callousness.
+LJSpeech-1.1/wavs/LJ003-0198.wav|Few realizing that the dreadful fate would overtake them, dismissed the prospect of death,
+LJSpeech-1.1/wavs/LJ003-0199.wav|and until the day was actually fixed, spent the time in roistering, swearing, gambling, or playing at ball.
+LJSpeech-1.1/wavs/LJ003-0200.wav|Visitors were permitted access to them without stint;
+LJSpeech-1.1/wavs/LJ003-0201.wav|unlimited drink was not denied them provided it was obtained in regulated quantities at one time.
+LJSpeech-1.1/wavs/LJ003-0202.wav|These capital convicts, says Mr. Bennet, quote, lessened the ennui and despair of their situation by unbecoming merriment
+LJSpeech-1.1/wavs/LJ003-0203.wav|or sought relief in the constant application of intoxicating stimulants.
+LJSpeech-1.1/wavs/LJ003-0204.wav|I saw Cashman a few hours before his execution, smoking and drinking with the utmost unconcern and indifference, end quote.
+LJSpeech-1.1/wavs/LJ003-0205.wav|Those who were thus reckless reacted upon the penitent who knew their days were numbered,
+LJSpeech-1.1/wavs/LJ003-0206.wav|and their gibes and jollity counteracted the ordinary's counsels or the independent preacher's earnest prayers.
+LJSpeech-1.1/wavs/LJ003-0207.wav|For while Roman Catholics and Dissenters were encouraged to see ministers of their own persuasion,
+LJSpeech-1.1/wavs/LJ003-0208.wav|a number of amateurs were ever ready to give their gratuitous ministrations to the condemned.
+LJSpeech-1.1/wavs/LJ003-0209.wav|The prisoners in the press yard had free access during the day to the yard and large day room;
+LJSpeech-1.1/wavs/LJ003-0210.wav|at night they were placed in the fifteen cells, two, three, or more together, according to the total number to be accommodated.
+LJSpeech-1.1/wavs/LJ003-0211.wav|They were never left quite alone for fear of suicide, and for the same reason they were searched for weapons or poisons.
+LJSpeech-1.1/wavs/LJ003-0212.wav|But they nevertheless frequently managed to secrete the means of making away with themselves, and accomplished their purpose.
+LJSpeech-1.1/wavs/LJ003-0213.wav|Convicted murderers were kept continuously in the cells on bread and water,
+LJSpeech-1.1/wavs/LJ003-0214.wav|in couples, from the time of sentence to that of execution, which was about three or four days generally,
+LJSpeech-1.1/wavs/LJ003-0215.wav|from Friday to Monday, so as to include one Sunday, on which day there was a special service for the condemned in the prison chapel.
+LJSpeech-1.1/wavs/LJ003-0216.wav|This latter was an ordeal which all dreaded, and many avoided by denying their faith.
+LJSpeech-1.1/wavs/LJ003-0217.wav|The condemned occupied an open pew in the center of the chapel, hung with black; in front of them, upon a table, was a black coffin in full view.
+LJSpeech-1.1/wavs/LJ003-0218.wav|The chapel was filled with a curious but callous congregation, who came to stare at the miserable people thus publicly exposed.
+LJSpeech-1.1/wavs/LJ003-0219.wav|Well might Mr. Bennet write that the condition of the condemned side was the most prominent of the manifold evils in the present system of Newgate,
+LJSpeech-1.1/wavs/LJ003-0220.wav|quote, so discreditable to the metropolis, end quote.
+LJSpeech-1.1/wavs/LJ003-0221.wav|Yet it must have been abundantly plain to the reader that the other evils existing were great and glaring. A brief summary of them will best prove this.
+LJSpeech-1.1/wavs/LJ003-0222.wav|The jail was neither suitable nor sufficiently large. It was not even kept weather-tight.
+LJSpeech-1.1/wavs/LJ003-0223.wav|The roof of the female prison, says the grand jury in their presentment in eighteen thirteen, let in the rain.
+LJSpeech-1.1/wavs/LJ003-0224.wav|Supplies of common necessaries, such as have now been part of the furniture of every British jail for many years,
+LJSpeech-1.1/wavs/LJ003-0225.wav|were meager or altogether absent.
+LJSpeech-1.1/wavs/LJ003-0226.wav|The rations of food were notoriously inadequate, and so carelessly distributed, that many were left to starve.
+LJSpeech-1.1/wavs/LJ003-0227.wav|So unjust and unequal was the system, that the allowance to convicted criminals was better than that of the innocent debtor,
+LJSpeech-1.1/wavs/LJ003-0228.wav|and the general insufficiency was such
+LJSpeech-1.1/wavs/LJ003-0229.wav|that it multiplied beyond all reason the number of visitors, many of whom came merely as the purveyors of food to their friends.
+LJSpeech-1.1/wavs/LJ003-0230.wav|The prison allowances were eked out by the broken victuals generously given by several eating-house keepers in the city,
+LJSpeech-1.1/wavs/LJ003-0231.wav|such as Messrs. Birch of Cornhill and Messrs. Leach and Dollimore of Ludgate Hill.
+LJSpeech-1.1/wavs/LJ003-0232.wav|These were fetched away in a large tub on a truck by a turnkey.
+LJSpeech-1.1/wavs/LJ003-0233.wav|Amongst the heap was often the meat that had made turtle soup, which, when heated and stirred together in a saucepan, was said to be very good eating.
+LJSpeech-1.1/wavs/LJ003-0234.wav|The bedding was scanty; fuel and light had to be purchased out of prisoners' private means; clothing was issued but rarely,
+LJSpeech-1.1/wavs/LJ003-0235.wav|even to prisoners almost in nakedness, and as a special charitable gift. Extortion was practiced right and left.
+LJSpeech-1.1/wavs/LJ003-0236.wav|Garnish continued to be demanded long after it had disappeared in other and better-regulated prisons.
+LJSpeech-1.1/wavs/LJ003-0237.wav|The fees on reception and discharge must be deemed exorbitant, when it is remembered the impoverished class who usually crowded the jail;
+LJSpeech-1.1/wavs/LJ003-0238.wav|and they were exacted to relieve a rich corporation from paying for the maintenance of their own prison.
+LJSpeech-1.1/wavs/LJ003-0239.wav|This imposition of fees left prisoners destitute on their discharge, without funds to support them in their first struggle to recommence life,
+LJSpeech-1.1/wavs/LJ003-0240.wav|with ruined character, bad habits, and often bad health contracted in the jail.
+LJSpeech-1.1/wavs/LJ003-0241.wav|A further and a more iniquitous method of extorting money
+LJSpeech-1.1/wavs/LJ003-0242.wav|was still practiced, that of loading newly-arrived prisoners until they paid certain fees.
+LJSpeech-1.1/wavs/LJ003-0243.wav|Ironing was still the rule, not only for the convicted, but for those charged with felonies; only the misdemeanants escaped.
+LJSpeech-1.1/wavs/LJ003-0244.wav|At the commencement of every sessions, such of the untried as had purchased "easement" of irons were called up and re-fettered,
+LJSpeech-1.1/wavs/LJ003-0245.wav|preparatory to their appearance in the Old Bailey. Irons were seldom removed from the convicted until discharge;
+LJSpeech-1.1/wavs/LJ003-0246.wav|sometimes the wearer was declared medically unfit, or he obtained release by long good conduct,
+LJSpeech-1.1/wavs/LJ003-0247.wav|or the faithful discharge of some petty office, such as gatesman or captain of a ward.
+LJSpeech-1.1/wavs/LJ003-0248.wav|The irons weighed from three to four pounds, but heavier irons, seven or eight pounds' weight,
+LJSpeech-1.1/wavs/LJ003-0249.wav|were imposed in case of misconduct; and when there had been an attempt at escape,
+LJSpeech-1.1/wavs/LJ003-0250.wav|the culprit was chained down to the floor by running a chain through his irons which prevented him from climbing to the window of his cell.
+LJSpeech-1.1/wavs/LJ003-0251.wav|Among other excuses offered for thus manacling all almost without exception, was that it was the best and safest method
+LJSpeech-1.1/wavs/LJ003-0252.wav|of distinguishing a prisoner from a stranger and temporary visitor.
+LJSpeech-1.1/wavs/LJ003-0253.wav|Clothes or prison uniform would not have served the purpose, for a disguise can be rapidly and secretly put on,
+LJSpeech-1.1/wavs/LJ003-0254.wav|whereas irons cannot well be exchanged without loss of time and attracting much attention.
+LJSpeech-1.1/wavs/LJ003-0255.wav|The unchecked admission of crowds of visitors to the felons' as well as the debtors' side was another unmixed evil.
+LJSpeech-1.1/wavs/LJ003-0256.wav|By this means spirits, otherwise unattainable and strictly prohibited, were smuggled into the jail.
+LJSpeech-1.1/wavs/LJ003-0257.wav|Searches were made certainly, but they were too often superficial, or they might be evaded by a trifling bribe.
+LJSpeech-1.1/wavs/LJ003-0258.wav|Hence the frequent cases of drunkenness, of which no notice was taken, unless people grew riotous in their cups
+LJSpeech-1.1/wavs/LJ003-0259.wav|and attracted attention by their disorderly behavior.
+LJSpeech-1.1/wavs/LJ003-0260.wav|Another frightful consequence of this indiscriminate admission was the influx of numbers of abandoned women,
+LJSpeech-1.1/wavs/LJ003-0261.wav|only a few of whom had the commendable prudery to pass themselves off as the wives of prisoners.
+LJSpeech-1.1/wavs/LJ003-0262.wav|Any reputed, and indeed any real, wife might spend the night in Newgate if she would pay the shilling fee, commonly known as the "bad money,"
+LJSpeech-1.1/wavs/LJ003-0263.wav|which might have done something towards increasing the prison receipts, had it not been appropriated by the turnkey who winked at this evasion of the rules.
+LJSpeech-1.1/wavs/LJ003-0264.wav|Among the daily visitors were members of the criminal classes still at large,
+LJSpeech-1.1/wavs/LJ003-0265.wav|the thieves and burglars who carried on the active business of their profession, from which their confederates were temporarily debarred.
+LJSpeech-1.1/wavs/LJ003-0266.wav|One notorious character, while a prisoner awaiting transfer to the hulks,
+LJSpeech-1.1/wavs/LJ003-0267.wav|kept open house, so to speak, and entertained daily within the walls a select party of the most noted thieves in London.
+LJSpeech-1.1/wavs/LJ003-0268.wav|This delectable society enticed into their set a clerk who had been imprisoned for fraud,
+LJSpeech-1.1/wavs/LJ003-0269.wav|and offered him half the booty if he would give full information as to the transactions and correspondence of his late employers.
+LJSpeech-1.1/wavs/LJ003-0270.wav|Owing to the facility of intercourse between inside and outside, many crimes were doubtless hatched in Newgate.
+LJSpeech-1.1/wavs/LJ003-0271.wav|Some of the worst and most extensive burglaries were planned there.
+LJSpeech-1.1/wavs/LJ003-0273.wav|"I believe," says Mr. Bennet in the letter already largely quoted,
+LJSpeech-1.1/wavs/LJ003-0274.wav|"that there is no place in the metropolis where more crimes are projected or where stolen property is more secreted than in Newgate."
+LJSpeech-1.1/wavs/LJ003-0275.wav|These malpractices were fostered by the absence of all supervision and the generally unbroken idleness.
+LJSpeech-1.1/wavs/LJ003-0276.wav|Although attempted partially at Bridewell, and more systematically at the new Millbank penitentiary,
+LJSpeech-1.1/wavs/LJ003-0277.wav|but just open (eighteen sixteen), the regular employment of prisoners had never yet been accepted as a principle in the metropolitan prisons.
+LJSpeech-1.1/wavs/LJ003-0278.wav|Insuperable difficulties were still supposed to stand in the way of any general employment of prisoners at their trades.
+LJSpeech-1.1/wavs/LJ003-0279.wav|There was fear as to the unrestricted use of tools,
+LJSpeech-1.1/wavs/LJ003-0280.wav|limits of space, the interference of the ill-disposed, who would neither work nor let others do so,
+LJSpeech-1.1/wavs/LJ003-0281.wav|and the danger of losing material, raw or manufactured.
+LJSpeech-1.1/wavs/LJ003-0282.wav|Many years were to elapse before these objections should be fairly met and universally overcome.
+LJSpeech-1.1/wavs/LJ003-0283.wav|It was not strange, therefore, that the inmates of Newgate should turn their unoccupied brains and idle hands to all manner of mischief;
+LJSpeech-1.1/wavs/LJ003-0284.wav|that when they were not carousing, plotting, or scheming,
+LJSpeech-1.1/wavs/LJ003-0285.wav|they should gamble with dice or cards, and play at bumble puppy or some other disreputable game of chance.
+LJSpeech-1.1/wavs/LJ003-0286.wav|The report of the Committee of the House of Commons painted so black a picture of Newgate as then conducted, that the Corporation were roused in very shame
+LJSpeech-1.1/wavs/LJ003-0287.wav|to undertake some kind of reform.
+LJSpeech-1.1/wavs/LJ003-0288.wav|The above-mentioned report was ordered to be printed upon the ninth May.
+LJSpeech-1.1/wavs/LJ003-0289.wav|Upon the twenty-ninth July the same year,
+LJSpeech-1.1/wavs/LJ003-0290.wav|the court of aldermen appointed a committee of its own body, assisted by the town clerk, Mr. Dance, city surveyor, son to the architect of Newgate,
+LJSpeech-1.1/wavs/LJ003-0291.wav|and Mr. Addison, keeper of Newgate, to make a visitation of the jails supposed to be the best managed, including those of Petworth and Gloucester.
+LJSpeech-1.1/wavs/LJ003-0292.wav|This committee was to compare allowances, examine rules, and certify as to the condition of prisoners;
+LJSpeech-1.1/wavs/LJ003-0293.wav|also to make such proposals as might appear salutary, and calculated to improve Newgate and the rest of the city jails.
+LJSpeech-1.1/wavs/LJ003-0294.wav|This committee made its report in September the following year, and an excellent report it is, so far as its recommendations are concerned.
+LJSpeech-1.1/wavs/LJ003-0295.wav|The committee seems to have fully realized, even at this early date (eighteen fifteen),
+LJSpeech-1.1/wavs/LJ003-0296.wav|many of the indispensable conditions of a model prison according to modern ideas.
+LJSpeech-1.1/wavs/LJ003-0297.wav|It admitted the paramount necessity
+LJSpeech-1.1/wavs/LJ003-0298.wav|for giving every prisoner a sleeping cell to himself, an amount of enlightenment which is hardly general among European nations at this
+LJSpeech-1.1/wavs/LJ003-0299.wav|the latter end of the nineteenth century, several of which still fall far short of our English ideal,
+LJSpeech-1.1/wavs/LJ003-0300.wav|that all prisoners should always be in separate cells by night, and those of short sentences by day.
+LJSpeech-1.1/wavs/LJ003-0301.wav|It recommended day cells or rooms for regular labor, which should be compulsory upon all transports and prisoners sentenced to hard labor,
+LJSpeech-1.1/wavs/LJ003-0302.wav|the work being constant and suitable, with certain hours of relaxation and for food and exercise.
+LJSpeech-1.1/wavs/LJ003-0303.wav|The personal cleanliness of all prisoners was to be insisted upon; they should be made to wash at least once a day,
+LJSpeech-1.1/wavs/LJ003-0304.wav|with the penalty of forfeiting the day's allowance of food, an increase of which the committee had recommended.
+LJSpeech-1.1/wavs/LJ003-0305.wav|The provision of more baths was also suggested, and the daily sweeping out of the prison.
+LJSpeech-1.1/wavs/LJ003-0306.wav|The clothes of prisoners arriving dirty, or in rags, should be fumigated before worn in the jail,
+LJSpeech-1.1/wavs/LJ003-0307.wav|but as yet no suggestion was made to provide prison uniform.
+LJSpeech-1.1/wavs/LJ003-0308.wav|A laundry should be established, and a matron appointed on the female side, where all the prisoners' washing could be performed.
+LJSpeech-1.1/wavs/LJ003-0309.wav|Proper hours for locking and unlocking prisoners should be insisted upon;
+LJSpeech-1.1/wavs/LJ003-0310.wav|a bell should give notice thereof, and of meal-hours, working-hours, or of escapes.
+LJSpeech-1.1/wavs/LJ003-0311.wav|The committee took upon itself to lay down stringent rules for the discipline of the prison.
+LJSpeech-1.1/wavs/LJ003-0312.wav|The jailer should be required to visit every part and see every prisoner daily; the chaplain should perform service, visit the sick,
+LJSpeech-1.1/wavs/LJ003-0313.wav|instruct the prisoners, quote, give spiritual advice and administer religious consolation, end quote. to all who might need them;
+LJSpeech-1.1/wavs/LJ003-0314.wav|the surgeon should see all prisoners, whether ill or well, once a week, and take general charge of the infirmaries.
+LJSpeech-1.1/wavs/LJ003-0315.wav|All three, governor, chaplain, and surgeon, should keep journals, which should be inspected periodically by the visiting magistrates.
+LJSpeech-1.1/wavs/LJ003-0316.wav|It should be peremptorily forbidden to the keeper or any officer to make a pecuniary profit out of the supplies of food, fuel, or other necessaries.
+LJSpeech-1.1/wavs/LJ003-0317.wav|No prisoner should be allowed to obtain superior accommodation on the payment of any fees. Fees indeed should be generally abolished, garnish also.
+LJSpeech-1.1/wavs/LJ003-0318.wav|No prisoners should in future be ironed, except in cases of misconduct,
+LJSpeech-1.1/wavs/LJ003-0319.wav|provided only that their security was not jeopardized, and dependent upon the enforcement of another new rule,
+LJSpeech-1.1/wavs/LJ003-0320.wav|which recommended restrictions upon the number of visitors admitted.
+LJSpeech-1.1/wavs/LJ003-0321.wav|No wine or beer should be in future admitted into or sold in the jail,
+LJSpeech-1.1/wavs/LJ003-0322.wav|except for the use of the debtors, or as medical comforts for the infirmary.
+LJSpeech-1.1/wavs/LJ003-0323.wav|Drunkenness, if it ever occurred, should be visited with severe punishment;
+LJSpeech-1.1/wavs/LJ003-0324.wav|gaming of all sorts should be peremptorily forbidden under heavy pains and penalties.
+LJSpeech-1.1/wavs/LJ003-0325.wav|The feelings of the condemned prisoners should no longer be outraged by their exposure in the chapel, and the chapel should be rearranged,
+LJSpeech-1.1/wavs/LJ003-0326.wav|so that the various classes might be seated separately, and so as not to see each other.
+LJSpeech-1.1/wavs/LJ003-0327.wav|It will hardly be denied that these proposals went to the root of the matter.
+LJSpeech-1.1/wavs/LJ003-0328.wav|Had they been accepted in their entirety, little fault could in future have been found with the managers of Newgate.
+LJSpeech-1.1/wavs/LJ003-0329.wav|In common justice to them, it must be admitted that immediate effect was given to all that could be easily carried out.
+LJSpeech-1.1/wavs/LJ003-0330.wav|The state side ceased to exist, and the female prisoners thus regained the space of which their quadrangle had been robbed.
+LJSpeech-1.1/wavs/LJ003-0331.wav|The privileges of the master's side also disappeared; fees were nominally abolished, and garnish was scotched, although not yet killed outright.
+LJSpeech-1.1/wavs/LJ003-0332.wav|A certain number of bedsteads were provided, and there was a slight increase in the ration of bread.
+LJSpeech-1.1/wavs/LJ003-0333.wav|But here the recommendations touched at once upon the delicate subject of expense, and it is clear that the committee hesitated on this score.
+LJSpeech-1.1/wavs/LJ003-0334.wav|It made this too the excuse for begging the most important issue of the whole question.
+LJSpeech-1.1/wavs/LJ003-0335.wav|The committee did not deny the superior advantages offered by such prisons as Gloucester and Petworth,
+LJSpeech-1.1/wavs/LJ003-0336.wav|but it at once deprecated the idea that the city could follow the laudable example thus set in the provinces. Quote,
+LJSpeech-1.1/wavs/LJ003-0337.wav|Were a metropolitan prison erected on the same lines, with all the space not only for air and exercise, but for day rooms and sleeping cells
+LJSpeech-1.1/wavs/LJ003-0338.wav|End quote. it would cover some thirty acres, and cost a great deal more than the city, with the example of Whitecross Street prison before it,
+LJSpeech-1.1/wavs/LJ003-0339.wav|could possibly afford.
+LJSpeech-1.1/wavs/LJ003-0340.wav|The committee does not seem to have yet understood that Newgate could be only and properly replaced
+LJSpeech-1.1/wavs/LJ003-0341.wav|by a new jail built on the outskirts, as Holloway eventually was, and permitted itself to be altogether countered
+LJSpeech-1.1/wavs/LJ003-0342.wav|and checked in its efforts towards reform by the prohibitory costliness of the land about Newgate.
+LJSpeech-1.1/wavs/LJ003-0343.wav|With the seeming impossibility of extending the limits of the prison as it then stood,
+LJSpeech-1.1/wavs/LJ003-0344.wav|all chances of classification and separation vanished, and the greatest evils remained untouched.
+LJSpeech-1.1/wavs/LJ003-0345.wav|All the committee could do in this respect was to throw the responsibility on others.
+LJSpeech-1.1/wavs/LJ003-0346.wav|It pointed out that the Government was to blame for the overcrowding, and might diminish it if it chose.
+LJSpeech-1.1/wavs/LJ003-0347.wav|It was very desirable that there should be a more speedy removal of transports from Newgate to the ships.
+LJSpeech-1.1/wavs/LJ003-0348.wav|Again, there was the new Millbank penitentiary now ready for occupation.
+LJSpeech-1.1/wavs/LJ003-0349.wav|Why not relieve Newgate by drawing more largely upon the superior accommodation which Millbank offered?
+LJSpeech-1.1/wavs/LJ004-0001.wav|The Chronicles of Newgate, Volume two. By Arthur Griffiths. Section seven: The beginnings of prison reform.
+LJSpeech-1.1/wavs/LJ004-0002.wav|While Mrs. Fry was diligently engaged upon her self-imposed task in Newgate,
+LJSpeech-1.1/wavs/LJ004-0003.wav|other earnest people, inspired doubtless by her noble example, were stirred up to activity in the same great work.
+LJSpeech-1.1/wavs/LJ004-0004.wav|It began to be understood that prison reform could only be compassed by continuous and combined effort.
+LJSpeech-1.1/wavs/LJ004-0005.wav|The pleadings, however eloquent, of a single individual were unable to more than partially remedy the widespread and colossal evils of British prisons.
+LJSpeech-1.1/wavs/LJ004-0006.wav|Howard's energy and devotion were rewarded by lively sympathy, but the desire to improve which followed his exposures was but short-lived.
+LJSpeech-1.1/wavs/LJ004-0007.wav|It was so powerless against the persistent neglect of those intrusted with prison management, that, five-and-twenty years later,
+LJSpeech-1.1/wavs/LJ004-0008.wav|Mr. Neild, a second Howard,
+LJSpeech-1.1/wavs/LJ004-0009.wav|as indefatigable and self-sacrificing, found by personal visitation that the condition of jails throughout the kingdom was,
+LJSpeech-1.1/wavs/LJ004-0010.wav|with a few bright exceptions, still deplorable and disgraceful.
+LJSpeech-1.1/wavs/LJ004-0011.wav|Mr. Neild was compelled to admit in eighteen twelve that "the great reformation produced by Howard
+LJSpeech-1.1/wavs/LJ004-0012.wav|was in several places merely temporary:
+LJSpeech-1.1/wavs/LJ004-0013.wav|some prisons that had been ameliorated under the persuasive influence of his kind advice were relapsing into their former horrid state of privation,
+LJSpeech-1.1/wavs/LJ004-0014.wav|filthiness, severity, or neglect; many new dungeons had aggravated the evils against which his sagacity could not but remonstrate;
+LJSpeech-1.1/wavs/LJ004-0015.wav|the motives for a transient amendment were becoming paralyzed, and the effect had ceased with the cause."
+LJSpeech-1.1/wavs/LJ004-0016.wav|I have shown in a previous chapter what Newgate was at this period, despite a vast expenditure and boasted efforts to introduce reforms.
+LJSpeech-1.1/wavs/LJ004-0017.wav|Some of the county jails, and one or two borough jails, had been rebuilt,
+LJSpeech-1.1/wavs/LJ004-0018.wav|generally through the personal activity of influential and benevolent local magnates, but the true principles of prison construction
+LJSpeech-1.1/wavs/LJ004-0019.wav|were as yet but imperfectly understood, and such portions of the "improved" jails of that period as were still extant a few years back,
+LJSpeech-1.1/wavs/LJ004-0020.wav|contrast ludicrously with the prison architecture based upon a century's experience of our own age.
+LJSpeech-1.1/wavs/LJ004-0021.wav|The neglect of prison reform in those days was not to be visited upon the legislature.
+LJSpeech-1.1/wavs/LJ004-0022.wav|The executive, although harassed by internal commotion and foreign war, was not entirely callous to the crying need for amelioration in jails.
+LJSpeech-1.1/wavs/LJ004-0023.wav|Measures remedial, although at best partial and incomplete, were introduced from time to time.
+LJSpeech-1.1/wavs/LJ004-0024.wav|Thus in eighteen thirteen the exaction of jail fees had been forbidden by law,
+LJSpeech-1.1/wavs/LJ004-0025.wav|and two other acts more peremptory and precise followed on the same subject in succeeding years.
+LJSpeech-1.1/wavs/LJ004-0026.wav|In eighteen fourteen a bill was brought in to insist upon the appointment of chaplains in jails, and when this had passed into law,
+LJSpeech-1.1/wavs/LJ004-0027.wav|it was subsequently amplified, and the rates of salaries fixed.
+LJSpeech-1.1/wavs/LJ004-0028.wav|Various acts were also passed to consolidate and amend previous jail acts.
+LJSpeech-1.1/wavs/LJ004-0029.wav|The erection of new prison buildings was made imperative under certain conditions and following certain rules
+LJSpeech-1.1/wavs/LJ004-0030.wav|the principle of classification was freshly enunciated; prison regulations were framed for general observance.
+LJSpeech-1.1/wavs/LJ004-0031.wav|But the effect of this legislation was rather weakened by the remoteness of the pressure exercised.
+LJSpeech-1.1/wavs/LJ004-0032.wav|The onus of improvement lay upon the magistracy, the local authorities administering local funds,
+LJSpeech-1.1/wavs/LJ004-0033.wav|and they were not threatened with any particular penalties if they evaded or ignored the new acts.
+LJSpeech-1.1/wavs/LJ004-0034.wav|Moreover, the laws applied more particularly to county jurisdictions.
+LJSpeech-1.1/wavs/LJ004-0035.wav|The borough jails, those in fact under corporate management, were not included in the new measures;
+LJSpeech-1.1/wavs/LJ004-0036.wav|it was hoped that their rulers would hire accommodation in the county prisons, and that the inferior establishments would in course of time disappear.
+LJSpeech-1.1/wavs/LJ004-0037.wav|Yet the borough jails were destined to survive many years, and to exhibit for a long time to come all the worst features of jail mismanagement.
+LJSpeech-1.1/wavs/LJ004-0038.wav|It was in eighteen seventeen that a small band of philanthropists resolved to form themselves into an association for the improvement of prison discipline.
+LJSpeech-1.1/wavs/LJ004-0039.wav|They were hopeless of any general reform by the action of the executive alone.
+LJSpeech-1.1/wavs/LJ004-0040.wav|They felt that private enterprise might
+LJSpeech-1.1/wavs/LJ004-0041.wav|with advantage step in, and by the collection and diffusion of information, and the reiteration of sound advice, greatly assist the good work.
+LJSpeech-1.1/wavs/LJ004-0042.wav|The association was organized under the most promising auspices.
+LJSpeech-1.1/wavs/LJ004-0043.wav|A king's son, the Duke of Gloucester, was the patron; among the vice-presidents were many great peers of the realm
+LJSpeech-1.1/wavs/LJ004-0044.wav|several bishops, and a number of members of the House of Commons, including Mr. Manners Sutton,
+LJSpeech-1.1/wavs/LJ004-0045.wav|Mr. Sturges Bourne, Sir James Mackintosh, Sir James Scarlett, and William Wilberforce.
+LJSpeech-1.1/wavs/LJ004-0046.wav|An active committee was appointed, comprising many names already well known, some of them destined to become famous in the annals of philanthropy.
+LJSpeech-1.1/wavs/LJ004-0047.wav|One of the moving spirits was the Honorable H. G. Bennet, M.P., whose vigorous protests against the lamentable condition of Newgate have already been recorded.
+LJSpeech-1.1/wavs/LJ004-0048.wav|Mrs. Fry's brother, Mr. Samuel Hoare, Junior, was chairman of the committee, on which also served many noted members of the Society of Friends
+LJSpeech-1.1/wavs/LJ004-0049.wav|Mr. Gurney, Mr. Fry, Messrs. Forster, and Mr. T. F. Buxton, the coadjutor of Wilberforce in the great anti-slavery struggle.
+LJSpeech-1.1/wavs/LJ004-0050.wav|Mr. Buxton had already been associated with Mrs. Fry in the Newgate visitation, and his attention had thus been drawn to the neglected state of English prisons.
+LJSpeech-1.1/wavs/LJ004-0051.wav|When in Belgium he had examined with great satisfaction the admirable management of the great "Maison de Force" at Ghent,
+LJSpeech-1.1/wavs/LJ004-0052.wav|which Howard had eulogized some forty years before.
+LJSpeech-1.1/wavs/LJ004-0054.wav|In order to give greater value to the pamphlet,
+LJSpeech-1.1/wavs/LJ004-0055.wav|he personally visited several English jails, and pointed his observations by drawing forcible contrasts between the good and bad.
+LJSpeech-1.1/wavs/LJ004-0056.wav|Mr. Buxton's small work on prison discipline gave a new aspect to the question he had so much at heart.
+LJSpeech-1.1/wavs/LJ004-0057.wav|For the first time the doctrine was enunciated that prisoners had rights of their own.
+LJSpeech-1.1/wavs/LJ004-0058.wav|The untried, and in the eyes of the law still innocent, could claim pure air, wholesome and sufficient food, and opportunities for exercise.
+LJSpeech-1.1/wavs/LJ004-0059.wav|They had a right, Mr. Buxton affirmed, to be employed in their own crafts, provided it could be safely followed in prison.
+LJSpeech-1.1/wavs/LJ004-0060.wav|"You have no right," he says, addressing the authorities, "to subject a prisoner to suffering from cold,
+LJSpeech-1.1/wavs/LJ004-0061.wav|by want of bed-clothing by night or firing by day
+LJSpeech-1.1/wavs/LJ004-0062.wav|and the reason is plain: you have taken him from his home, and have deprived him of the means of providing himself with the necessaries or comforts of life,
+LJSpeech-1.1/wavs/LJ004-0063.wav|and therefore you are bound to furnish him with moderate indeed but suitable accommodation."
+LJSpeech-1.1/wavs/LJ004-0064.wav|"You have for the same reason," he goes on, "no right to ruin his habits by compelling him to be idle,
+LJSpeech-1.1/wavs/LJ004-0065.wav|his morals by compelling him to mix with a promiscuous assemblage of hardened and convicted criminals,
+LJSpeech-1.1/wavs/LJ004-0066.wav|or his health by forcing him at night into a damp, unventilated cell, with such crowds of companions as very speedily render the air foul and putrid;
+LJSpeech-1.1/wavs/LJ004-0067.wav|or to make him sleep in close contact with the victims of contagious and loathsome disease,
+LJSpeech-1.1/wavs/LJ004-0068.wav|or amidst the noxious effluvia of dirt and corruption.
+LJSpeech-1.1/wavs/LJ004-0069.wav|In short, attention to his feelings, mental and bodily, a supply of every necessary, abstraction from evil society,
+LJSpeech-1.1/wavs/LJ004-0070.wav|the conservation of his health and industrious habits, are the clear, evident, undeniable rights of an unconvicted prisoner."
+LJSpeech-1.1/wavs/LJ004-0071.wav|Nor even when found guilty and his liberty forfeited did his privileges cease. The law appointed a suitable punishment for the offense;
+LJSpeech-1.1/wavs/LJ004-0072.wav|it was for those charged with the administration of the law to guard carefully against any aggravation of that punishment,
+LJSpeech-1.1/wavs/LJ004-0073.wav|to see that "no circumstances of severity are found in his treatment which are not found in his sentence."
+LJSpeech-1.1/wavs/LJ004-0074.wav|No judge ever condemned a man to be half-perished with cold by day, or half-suffocated with heat by night.
+LJSpeech-1.1/wavs/LJ004-0075.wav|"Who ever heard of a criminal being sentenced to catch the rheumatism or the typhus fever?"
+LJSpeech-1.1/wavs/LJ004-0076.wav|"Disease, cold, famine, nakedness, and contagious and polluted air are not lawful punishments in the hands of the civil magistrates;
+LJSpeech-1.1/wavs/LJ004-0077.wav|nor has he a right to poison or starve his fellow-creatures."
+LJSpeech-1.1/wavs/LJ004-0078.wav|"The convicted delinquent has his rights," said Mr. Buxton authoritatively.
+LJSpeech-1.1/wavs/LJ004-0079.wav|"All measures and practices in prison which may injure him in any way are illegal,
+LJSpeech-1.1/wavs/LJ004-0080.wav|because they are not specified in his sentence; he is therefore entitled to a wholesome atmosphere,
+LJSpeech-1.1/wavs/LJ004-0081.wav|decent clothing and bedding, and a diet sufficient to support him."
+LJSpeech-1.1/wavs/LJ004-0082.wav|These somewhat novel but undoubtedly indisputable propositions were backed up, not by sound arguments only, but by the letter of the law.
+LJSpeech-1.1/wavs/LJ004-0083.wav|As Mr. Buxton pointed out, many old acts of parliament designed to protect the prisoner were still in full force.
+LJSpeech-1.1/wavs/LJ004-0084.wav|Some might be in abeyance, but they had never been repealed, and some were quite freshly imported upon the Statute Book.
+LJSpeech-1.1/wavs/LJ004-0085.wav|As far back as the reign of Charles the second, a law was passed declaring that sufficient provision should be made for the relief and setting on work
+LJSpeech-1.1/wavs/LJ004-0086.wav|of "poor and needy prisoners committed to the common jail for felony and other misdemeanors, who many times perish before their trial;
+LJSpeech-1.1/wavs/LJ004-0087.wav|and the poor there living idle and unemployed become debauched, and come forth instructed in the practice of thievery and lewdness."
+LJSpeech-1.1/wavs/LJ004-0088.wav|As a remedy, justices of the peace were empowered to provide materials for the setting of poor prisoners to work,
+LJSpeech-1.1/wavs/LJ004-0089.wav|and to pay overseers or instructors out of the county rates.
+LJSpeech-1.1/wavs/LJ004-0090.wav|Again, the twenty-two Charles the second c twenty ordered the jailer to keep felons and debtors "separate and apart from one another,
+LJSpeech-1.1/wavs/LJ004-0091.wav|in distinct rooms, on pain of forfeiting his office and treble damages to the party aggrieved."
+LJSpeech-1.1/wavs/LJ004-0092.wav|A much later act, the fourteen George the third c. fifty-nine (seventeen seventy-four),
+LJSpeech-1.1/wavs/LJ004-0093.wav|which was contemporaneous with Howard's first journeys, laid down precise rules as regards cleanliness, and the proper supply of space and air.
+LJSpeech-1.1/wavs/LJ004-0094.wav|This act set forth that "whereas the malignant fever commonly called the jail distemper
+LJSpeech-1.1/wavs/LJ004-0095.wav|is found to be owing to want of cleanliness and fresh air in the several jails,
+LJSpeech-1.1/wavs/LJ004-0096.wav|the fatal consequences whereof might be prevented if the justices of the peace were duly authorized
+LJSpeech-1.1/wavs/LJ004-0097.wav|to provide such accommodations in jails as may be necessary to answer this salutary purpose,
+LJSpeech-1.1/wavs/LJ004-0098.wav|it is enacted that the justices shall order the walls of every room to be scraped and white-washed once every year."
+LJSpeech-1.1/wavs/LJ004-0099.wav|Ventilators, hand and others, were to be supplied.
+LJSpeech-1.1/wavs/LJ004-0100.wav|An infirmary, consisting of two distinct rooms, one for males and one for females, should be provided for the separate accommodation of the sick.
+LJSpeech-1.1/wavs/LJ004-0101.wav|Warm and cold baths, or "commodious bathing tubs,"
+LJSpeech-1.1/wavs/LJ004-0102.wav|were to be kept in every jail, and the prisoners directed to wash in them before release. These provisions were almost a dead letter.
+LJSpeech-1.1/wavs/LJ004-0103.wav|Yet another act passed in seventeen ninety-one, if properly observed, should have insured proper attention to them.
+LJSpeech-1.1/wavs/LJ004-0104.wav|By the thirty-one George the third c. forty-six, s. five,
+LJSpeech-1.1/wavs/LJ004-0105.wav|two or more justices were appointed visitors of prisons, and directed to visit and inspect three times every quarter.
+LJSpeech-1.1/wavs/LJ004-0106.wav|They were to report in writing to quarter sessions as to the state of the jail, and as to all abuses which they might observe therein.
+LJSpeech-1.1/wavs/LJ004-0107.wav|The most important jail act of that early period, however, was the twenty-four George the third c. fifty-four, s. four (seventeen eighty-four)
+LJSpeech-1.1/wavs/LJ004-0108.wav|which was the first legislative attempt to compel the classification of prisoners, or their separation into classes
+LJSpeech-1.1/wavs/LJ004-0109.wav|according to their categories or crimes.
+LJSpeech-1.1/wavs/LJ004-0110.wav|It was made incumbent upon the justices to provide distinct places of confinement for five classes of prisoners, viz.
+LJSpeech-1.1/wavs/LJ004-0111.wav|one. Prisoners convicted of felony. two. Prisoners committed on a charge or suspicion of felony.
+LJSpeech-1.1/wavs/LJ004-0112.wav|three. Prisoners guilty of misdemeanors. four. Prisoners charged with misdemeanors. five. Debtors.
+LJSpeech-1.1/wavs/LJ004-0113.wav|It was further ordered that male prisoners should be kept perfectly distinct from the females.
+LJSpeech-1.1/wavs/LJ004-0114.wav|King's evidences were also to be lodged apart.
+LJSpeech-1.1/wavs/LJ004-0115.wav|Infirmaries separating the sexes were also to be provided, a chapel too, and warm and cold baths.
+LJSpeech-1.1/wavs/LJ004-0116.wav|"Care also was to be taken that the prisoners shall not be kept in any apartment underground."
+LJSpeech-1.1/wavs/LJ004-0117.wav|In an early report of the Prison Discipline Improvement Society,
+LJSpeech-1.1/wavs/LJ004-0118.wav|published some six-and-thirty years after the promulgation of this act, the flagrant and persistent violations of it and others
+LJSpeech-1.1/wavs/LJ004-0119.wav|which had continued through that long period, are forcibly pointed out.
+LJSpeech-1.1/wavs/LJ004-0120.wav|In eighteen eighteen, out of five hundred and eighteen prisons in the United Kingdom,
+LJSpeech-1.1/wavs/LJ004-0121.wav|to which a total of upwards of one hundred thousand prisoners had been committed in the year, only twenty-three prisons were divided according to law;
+LJSpeech-1.1/wavs/LJ004-0122.wav|fifty-nine had no division whatever to separate males and females; one hundred and thirty-six had only one division for the purpose;
+LJSpeech-1.1/wavs/LJ004-0123.wav|sixty-eight had only two divisions, and so on.
+LJSpeech-1.1/wavs/LJ004-0124.wav|In four hundred and forty-five prisons no work of any description had been introduced for the employment of prisoners;
+LJSpeech-1.1/wavs/LJ004-0125.wav|in the balance some work was done, but with the most meager results.
+LJSpeech-1.1/wavs/LJ004-0126.wav|The want of room was still a crying evil.
+LJSpeech-1.1/wavs/LJ004-0127.wav|In one hundred jails,
+LJSpeech-1.1/wavs/LJ004-0128.wav|capable of accommodating only eight thousand five hundred and forty-five persons, as many as thirteen thousand and fifty-seven were crowded.
+LJSpeech-1.1/wavs/LJ004-0129.wav|Many of the jails were in the most deplorable condition:
+LJSpeech-1.1/wavs/LJ004-0130.wav|incommodious, as has been stated, insecure, unhealthy, and unprovided with the printed or written regulations required by law.
+LJSpeech-1.1/wavs/LJ004-0131.wav|To specify more particularly one or two of the worst, it may be mentioned that in the Borough Compter
+LJSpeech-1.1/wavs/LJ004-0132.wav|the old evils of indiscriminate association still continued unchecked.
+LJSpeech-1.1/wavs/LJ004-0133.wav|All prisoners passed their time in absolute idleness, or killed it by gambling and loose conversation.
+LJSpeech-1.1/wavs/LJ004-0134.wav|The debtors were crowded almost inconceivably. In a space twenty feet long by six wide,
+LJSpeech-1.1/wavs/LJ004-0135.wav|twenty men slept on eight straw beds, with sixteen rugs amongst them, and a piece of timber for a bolster.
+LJSpeech-1.1/wavs/LJ004-0136.wav|Mr. Buxton, who found this, declared that it seemed physically impossible, but he was assured that it was true,
+LJSpeech-1.1/wavs/LJ004-0137.wav|and that it was accomplished by "sleeping edgewise."
+LJSpeech-1.1/wavs/LJ004-0138.wav|One poor wretch, who had slept next the wall, said he had been literally unable to move for the pressure.
+LJSpeech-1.1/wavs/LJ004-0139.wav|"In the morning the stench and heat were so oppressive that he and every one else on waking rushed unclothed into the yard;"
+LJSpeech-1.1/wavs/LJ004-0140.wav|and the turnkey told Mr. Buxton that the "smell on first opening the door was enough to knock down a horse.
+LJSpeech-1.1/wavs/LJ004-0141.wav|The hospital was filled with infectious cases, and in one room, seven feet by nine, with closed windows,
+LJSpeech-1.1/wavs/LJ004-0142.wav|where a lad lay ill with fever, three other prisoners, at first perfectly healthy, were lodged. Of course they were seized with the fever;
+LJSpeech-1.1/wavs/LJ004-0143.wav|so that the culprit, in addition to his sentence,
+LJSpeech-1.1/wavs/LJ004-0144.wav|had to endure by "the regulations of the city a disease very dangerous in its nature," and ran the risk of a lingering and painful death.
+LJSpeech-1.1/wavs/LJ004-0145.wav|At Guildford prison, which Mr. Buxton also visited in eighteen eighteen,
+LJSpeech-1.1/wavs/LJ004-0146.wav|there was no infirmary, no chapel, no work, no classification.
+LJSpeech-1.1/wavs/LJ004-0147.wav|The irons, which nearly every one wore, were remarkably heavy; those double ironed could not take off their small clothes.
+LJSpeech-1.1/wavs/LJ004-0148.wav|No prison dress was allowed, and half the inmates were without shirts or shoes or stockings.
+LJSpeech-1.1/wavs/LJ004-0149.wav|The diet was limited to dry bread, which was of the best certainly, and a pound and a half in weight.
+LJSpeech-1.1/wavs/LJ004-0150.wav|Matters were on much the same footing at St. Albans.
+LJSpeech-1.1/wavs/LJ004-0151.wav|They were far worse at Bristol,
+LJSpeech-1.1/wavs/LJ004-0152.wav|although at Mr. Buxton's visit a new jail was in process of erection, the first step towards reform since Howard's visitation in seventeen seventy-four.
+LJSpeech-1.1/wavs/LJ004-0153.wav|In eighteen eighteen the old jail was so densely packed that it was nearly impossible to pass through the yards for the throng.
+LJSpeech-1.1/wavs/LJ004-0154.wav|One hundred and fifty were lodged in a prison just capable of holding fifty-two.
+LJSpeech-1.1/wavs/LJ004-0155.wav|In the crowd, all of them persons who had "no other avocation or mode of livelihood but thieving," Mr. Buxton counted eleven children
+LJSpeech-1.1/wavs/LJ004-0156.wav|children hardly old enough to be released from the nursery.
+LJSpeech-1.1/wavs/LJ004-0157.wav|All charged with felony were in heavy irons, without distinction of age.
+LJSpeech-1.1/wavs/LJ004-0158.wav|All were in ill health; almost all were in rags; almost all were filthy in the extreme.
+LJSpeech-1.1/wavs/LJ004-0159.wav|The state of the prison, the desperation of the prisoners, broadly hinted in their conversation and plainly expressed in their conduct,
+LJSpeech-1.1/wavs/LJ004-0160.wav|the uproar of oaths, complaints, and obscenity,
+LJSpeech-1.1/wavs/LJ004-0161.wav|"the indescribable stench," presented together a concentration of the utmost misery and the utmost guilt.
+LJSpeech-1.1/wavs/LJ004-0162.wav|It was "a scene of infernal passions and distresses," says Buxton, "which few have imagination sufficient to picture,
+LJSpeech-1.1/wavs/LJ004-0163.wav|and of which fewer still would believe that the original is to be found in this enlightened and happy country."
+LJSpeech-1.1/wavs/LJ004-0164.wav|There was still worse to come. Having explored the yards and adjacent day rooms, and sleeping cells, a door was unlocked,
+LJSpeech-1.1/wavs/LJ004-0165.wav|the visitors were furnished with candles, and they descended eighteen long steps into a vault.
+LJSpeech-1.1/wavs/LJ004-0166.wav|At the bottom was a circular space, through which ran a narrow passage, and the sides of which were fitted with barrack bedsteads.
+LJSpeech-1.1/wavs/LJ004-0167.wav|The floor was on the level of the river, and very damp.
+LJSpeech-1.1/wavs/LJ004-0168.wav|The smell at one o'clock of the day "was something more than can be expressed by the term disgusting."
+LJSpeech-1.1/wavs/LJ004-0169.wav|On the dirty bedstead lay a wretched being in the throes of severe illness.
+LJSpeech-1.1/wavs/LJ004-0170.wav|The only ventilation of this pit, this "dark, cheerless, damp, unwholesome cavern -- a dungeon in its worst sense"
+LJSpeech-1.1/wavs/LJ004-0171.wav|was by a kind of chimney, which the prisoners kept hermetically sealed, and which had never been opened in the memory of the turnkey.
+LJSpeech-1.1/wavs/LJ004-0172.wav|Untried persons were often lodged in this nauseous underground den,
+LJSpeech-1.1/wavs/LJ004-0173.wav|and sometimes slept in "the pit," loaded with heavy irons for a whole year, waiting the jail delivery.
+LJSpeech-1.1/wavs/LJ004-0174.wav|Confinement for twelve months in the Bristol jail was counted a punishment equivalent to seven years' transportation.
+LJSpeech-1.1/wavs/LJ004-0175.wav|In this prison there was no female infirmary.
+LJSpeech-1.1/wavs/LJ004-0176.wav|Sick women and their children remained in the ordinary wards, and propagated disease.
+LJSpeech-1.1/wavs/LJ004-0177.wav|No prison dress was allowed; no reception-room was provided, no soap, towels, or baths.
+LJSpeech-1.1/wavs/LJ004-0178.wav|The bedclothes consisted only of a single "very slight" rug.
+LJSpeech-1.1/wavs/LJ004-0179.wav|The allowance of food daily to felons was a fourpenny loaf,
+LJSpeech-1.1/wavs/LJ004-0180.wav|a price which in those days fluctuated enormously -- as much as a hundred percent in a couple of years;
+LJSpeech-1.1/wavs/LJ004-0181.wav|but as no similar variation occurred in the prisoner's appetite, his ration was somewhat precarious.
+LJSpeech-1.1/wavs/LJ004-0182.wav|As for the debtors, they had no allowance whatever, and were often in imminent danger of starvation.
+LJSpeech-1.1/wavs/LJ004-0183.wav|With all this, the inmates were crowded together at night to such a degree as to excite surprise that they should escape suffocation.
+LJSpeech-1.1/wavs/LJ004-0184.wav|There reigned through the whole edifice a chilly, damp, unwholesome atmosphere, and the effluvia from the prisoners was so nauseous
+LJSpeech-1.1/wavs/LJ004-0185.wav|that the chaplain found it necessary to take his place before they entered chapel, as he could not otherwise have faced the smell.
+LJSpeech-1.1/wavs/LJ004-0186.wav|It is consoling to know that there were a few brilliant exceptions to this cruel, callous neglect.
+LJSpeech-1.1/wavs/LJ004-0187.wav|Already, as early as eighteen eighteen, a prison existed at Bury St. Edmunds which was a model for imitation to others at that time,
+LJSpeech-1.1/wavs/LJ004-0188.wav|and which even fulfilled many of the exacting requirements of modern days.
+LJSpeech-1.1/wavs/LJ004-0189.wav|The great principles of classification, cleanliness, and employment were closely observed.
+LJSpeech-1.1/wavs/LJ004-0190.wav|There were eighty-four separate sleeping-cells, and unless the jail was overcrowded, every inmate passed the night alone,
+LJSpeech-1.1/wavs/LJ004-0191.wav|and in comparative comfort, with a bed and proper bedding.
+LJSpeech-1.1/wavs/LJ004-0192.wav|The prison stood on a dry, airy situation outside the town.
+LJSpeech-1.1/wavs/LJ004-0193.wav|Prisoners on reception were treated as they are now-a-days -- bathed, dressed in prison clothes, and inspected by the surgeon.
+LJSpeech-1.1/wavs/LJ004-0194.wav|No irons were worn except as a punishment.
+LJSpeech-1.1/wavs/LJ004-0195.wav|Personal cleanliness was insisted upon, and all parts of the prison were kept scrupulously clean.
+LJSpeech-1.1/wavs/LJ004-0196.wav|There was an infirmary, properly found and duly looked after.
+LJSpeech-1.1/wavs/LJ004-0197.wav|No idleness was permitted among the inmates. Trades were taught, or prisoners were allowed to follow their own if suitable.
+LJSpeech-1.1/wavs/LJ004-0198.wav|There was, besides, a mill for grinding corn, somewhat similar to a turn-spit, which prisoners turned by walking in rows.
+LJSpeech-1.1/wavs/LJ004-0199.wav|This made exertion compulsory, and imposed hard labor as a proper punishment.
+LJSpeech-1.1/wavs/LJ004-0200.wav|Another jail, that of Ilchester, was also worthy of all commendation. It exhibited all the good points of that at Bury.
+LJSpeech-1.1/wavs/LJ004-0201.wav|At Ilchester the rule of employment had been carried further.
+LJSpeech-1.1/wavs/LJ004-0202.wav|A system not adopted generally till nearly half a century later had already prevailed at Ilchester.
+LJSpeech-1.1/wavs/LJ004-0203.wav|The new jail had been in a great measure constructed by the prisoners themselves.
+LJSpeech-1.1/wavs/LJ004-0204.wav|Masons, bricklayers, carpenters, painters had been employed upon the buildings, and the work was pronounced excellent by competent judges.
+LJSpeech-1.1/wavs/LJ004-0205.wav|Industrial labor had also been introduced with satisfactory results.
+LJSpeech-1.1/wavs/LJ004-0206.wav|Blanket weaving and cloth spinning was carried on prosperously,
+LJSpeech-1.1/wavs/LJ004-0207.wav|and all the material for prisoners' apparel was manufactured in the jail.
+LJSpeech-1.1/wavs/LJ004-0208.wav|There were work-rooms for wool-washing, dyeing, carding, and spinning.
+LJSpeech-1.1/wavs/LJ004-0209.wav|The looms were constantly busy. Tailors were always at work, and every article of clothing and bedding was made up within the walls.
+LJSpeech-1.1/wavs/LJ004-0210.wav|There was a prison laundry too, where all the prisoners' linen was regularly washed.
+LJSpeech-1.1/wavs/LJ004-0211.wav|The moral welfare of the inmates was as closely looked after as the physical.
+LJSpeech-1.1/wavs/LJ004-0212.wav|There was an attentive chaplain, a schoolmaster, and regular religious and other instruction.
+LJSpeech-1.1/wavs/LJ004-0213.wav|Compared with those highly meritorious institutions Newgate still showed but badly.
+LJSpeech-1.1/wavs/LJ004-0214.wav|Its evils were inherent and irremediable, but some ameliorating measures had been introduced,
+LJSpeech-1.1/wavs/LJ004-0215.wav|mainly through the exertions of a new governor, Mr. Brown, who succeeded Mr. Newman at Newgate in eighteen seventeen.
+LJSpeech-1.1/wavs/LJ004-0216.wav|The most noticeable of the improvements introduced was a better regulation of dietaries within the prison.
+LJSpeech-1.1/wavs/LJ004-0217.wav|The old haphazard system, by which meat was issued in bulk,
+LJSpeech-1.1/wavs/LJ004-0218.wav|a week's allowance at a time, was abolished, and there was a regular scale of daily rations adopted.
+LJSpeech-1.1/wavs/LJ004-0219.wav|The diet was now ample. It consisted of a pound and a half of bread per diem;
+LJSpeech-1.1/wavs/LJ004-0220.wav|for breakfast a pint of gruel; for dinner half a pound of boiled meat, or a quart of soup with vegetables, on alternate days.
+LJSpeech-1.1/wavs/LJ004-0221.wav|The food was properly prepared in the prison kitchen.
+LJSpeech-1.1/wavs/LJ004-0222.wav|Meat was no longer issued raw, to be imperfectly cooked before a ward fire and bolted gluttonously, the whole two pounds at one sitting.
+LJSpeech-1.1/wavs/LJ004-0223.wav|Mr. Brown confidently asserted that no jail in England now fed its inmates so well as did Newgate.
+LJSpeech-1.1/wavs/LJ004-0224.wav|So plentiful was this dietary, that although the old permission remained in force of allowing the friends of prisoners to bring them supplies from outside,
+LJSpeech-1.1/wavs/LJ004-0225.wav|the practice was falling into abeyance, and the prisoners seldom required private assistance to eke out their meals.
+LJSpeech-1.1/wavs/LJ004-0226.wav|It was also claimed for the more ample and more orderly distribution of victuals, that the general health of the prisoners had greatly improved.
+LJSpeech-1.1/wavs/LJ004-0227.wav|Mr. Brown also, much to his own credit, brought about the abandonment of the practice of ironing all prisoners as a matter of course.
+LJSpeech-1.1/wavs/LJ004-0228.wav|In eighteen eighteen prisoners awaiting trial in Newgate, were at length relieved from this illegal infliction.
+LJSpeech-1.1/wavs/LJ004-0229.wav|Convicts were not even compelled to wear irons, providing they behaved well.
+LJSpeech-1.1/wavs/LJ004-0230.wav|It was found that shackles might be safely dispensed with, even in the case of the most desperate characters.
+LJSpeech-1.1/wavs/LJ004-0231.wav|This was effected by stopping the nearly indiscriminate admission of visitors, which had hitherto prevailed all over the jail.
+LJSpeech-1.1/wavs/LJ004-0232.wav|Ironing it will be remembered, was a distinguishing badge, so that when the jail was cleared the free might be readily known from the captive, and escapes prevented.
+LJSpeech-1.1/wavs/LJ004-0233.wav|Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.
+LJSpeech-1.1/wavs/LJ004-0234.wav|This change led to some discontent, until it was found that the much greater boon of relief from irons accompanied it, and the reform was quietly accepted.
+LJSpeech-1.1/wavs/LJ004-0235.wav|Indeed the best consequences followed from the removal of irons. The prisoners were much better disposed; there were no riots, and fewer disturbances.
+LJSpeech-1.1/wavs/LJ004-0236.wav|But nothing short of radical reform and complete reconstruction could touch the deep-seated evils of association, overcrowding, and idleness.
+LJSpeech-1.1/wavs/LJ004-0237.wav|The first still produced deplorable results -- results to be observable for many years to come.
+LJSpeech-1.1/wavs/LJ004-0238.wav|Mr. Buxton mentions the case of a boy whose apparent innocence and artlessness had attracted his attention.
+LJSpeech-1.1/wavs/LJ004-0239.wav|He had been committed for an offense for which he was acquitted.
+LJSpeech-1.1/wavs/LJ004-0240.wav|He left Newgate utterly corrupted, and after lapsing into crime, soon returned with a very different character.
+LJSpeech-1.1/wavs/LJ004-0241.wav|Other cases of moral deterioration have already been recorded.
+LJSpeech-1.1/wavs/LJ004-0242.wav|Some attempt was made to reduce the overcrowding, on the recommendation of the House of Commons Committee of eighteen eighteen, but this applied only a partial remedy.
+LJSpeech-1.1/wavs/LJ004-0243.wav|The bulk of the prisoners were still left in idleness.
+LJSpeech-1.1/wavs/LJ004-0244.wav|A few fortunate criminals, many of them kept back from transportation on purpose, who were skilled in trades, were employed at them.
+LJSpeech-1.1/wavs/LJ004-0245.wav|Painters, plasterers, and carpenters were allowed to follow their handicrafts, with the reward of sixpence per diem and a double allowance of food.
+LJSpeech-1.1/wavs/LJ004-0246.wav|They used their own tools, and this without any dangerous consequences as regards facilitating the escape of others,
+LJSpeech-1.1/wavs/LJ004-0247.wav|thus disposing of the objection so long raised against the industrial employment of prisoners in Newgate.
+LJSpeech-1.1/wavs/LJ004-0248.wav|But this boon of toil was denied to all but a very limited number.
+LJSpeech-1.1/wavs/LJ004-0249.wav|As the Prison Discipline Society pertinently observed in a report dated eighteen twenty,
+LJSpeech-1.1/wavs/LJ004-0250.wav|"It is obvious that reformation must be materially impeded, and in some cases utterly defeated, when the prisoners are defectively classed,
+LJSpeech-1.1/wavs/LJ005-0001.wav|The Chronicles of Newgate, Volume two. By Arthur Griffiths. Section eight: The beginnings of prison reform.
+LJSpeech-1.1/wavs/LJ005-0002.wav|Newgate prisoners were the victims to another most objectionable practice which obtained all over London.
+LJSpeech-1.1/wavs/LJ005-0003.wav|Persons committed to a metropolitan jail at that time were taken in gangs, men and women handcuffed together, or linked on to a long chain,
+LJSpeech-1.1/wavs/LJ005-0004.wav|unless they could afford to pay for a vehicle out of their own funds.
+LJSpeech-1.1/wavs/LJ005-0005.wav|Even then they were not certain of the favor, for I find a reference to a decent and respectable woman sent to Newgate
+LJSpeech-1.1/wavs/LJ005-0006.wav|who handed a shilling to the escort warder to provide her with a hackney coach; but this functionary pocketed the cash, and obliged the woman to walk
+LJSpeech-1.1/wavs/LJ005-0007.wav|chained to the rest. As the miserable crew filed through the public streets, exposed to the scornful gaze of every passenger,
+LJSpeech-1.1/wavs/LJ005-0008.wav|they were followed by a crowd of reckless boys, who jeered at and insulted them.
+LJSpeech-1.1/wavs/LJ005-0009.wav|Many thus led in procession were in a shocking condition of dirt and misery, frequently nearly naked, and often bearing upon them
+LJSpeech-1.1/wavs/LJ005-0010.wav|the germs, more or less developed, of contagious disease. "Caravans," the forerunners of the prison vans,
+LJSpeech-1.1/wavs/LJ005-0011.wav|were first made use of about eighteen twenty-seven. That the need for prison reform was imperative may be gathered from the few out of many instances I have adduced,
+LJSpeech-1.1/wavs/LJ005-0012.wav|yet there were those who, wedded to ancient ideas, were intolerant of change; they would not admit the existence of any evils.
+LJSpeech-1.1/wavs/LJ005-0013.wav|One smug alderman, a member of the House of Commons, sneered at the ultra philanthropy of the champions of prison improvement.
+LJSpeech-1.1/wavs/LJ005-0014.wav|Speaking on a debate on prison matters, he declared that
+LJSpeech-1.1/wavs/LJ005-0015.wav|our prisoners have all that prisoners ought to have, without gentlemen think they ought to be indulged with Turkey carpets.
+LJSpeech-1.1/wavs/LJ005-0016.wav|The Society for the Improvement of Prison Discipline was taxed with a desire to introduce a system
+LJSpeech-1.1/wavs/LJ005-0017.wav|tending to divest punishment of its just and salutary terrors;
+LJSpeech-1.1/wavs/LJ005-0018.wav|an imputation which the Society indignantly and very justly repudiated, the statement being, as they said,
+LJSpeech-1.1/wavs/LJ005-0019.wav|refuted by abundant evidence, and having no foundation whatever in truth.
+LJSpeech-1.1/wavs/LJ005-0020.wav|Among those whom the Society found arrayed against it was Sydney Smith,
+LJSpeech-1.1/wavs/LJ005-0021.wav|who, in a caustic article contributed to the 'Edinburgh Review,' protested against the pampering of criminals
+LJSpeech-1.1/wavs/LJ005-0022.wav|While fully admitting the good intentions of the Society, he condemned their ultra humanitarianism as misplaced.
+LJSpeech-1.1/wavs/LJ005-0023.wav|He took exception to various of the proposals of the Society. He thought they leant too much to a system of indulgence and education in jails.
+LJSpeech-1.1/wavs/LJ005-0024.wav|He objected to the instruction of prisoners in reading and writing.
+LJSpeech-1.1/wavs/LJ005-0025.wav|"A poor man who is lucky enough," he said, "to have his son committed for a felony
+LJSpeech-1.1/wavs/LJ005-0026.wav|educates him under such a system for nothing, while the virtuous simpleton who is on the other side of the wall is paying by the quarter for these attainments."
+LJSpeech-1.1/wavs/LJ005-0027.wav|He was altogether against too liberal a diet; he disapproved of industrial occupations in jails, as not calculated to render prisons terrible.
+LJSpeech-1.1/wavs/LJ005-0028.wav|"There should be no tea and sugar, no assemblage of female felons around the washing-tub,
+LJSpeech-1.1/wavs/LJ005-0029.wav|nothing but beating hemp and pulling oakum and pounding bricks -- no work but what was tedious, unusual."
+LJSpeech-1.1/wavs/LJ005-0030.wav|"In prisons, which are really meant to keep the multitude in order, and to be a terror to evil-doers, there must be no sharings of profits,
+LJSpeech-1.1/wavs/LJ005-0031.wav|no visiting of friends, no education but religious education, no freedom of diet,
+LJSpeech-1.1/wavs/LJ005-0032.wav|no weavers' looms or carpenters' benches. There must be a great deal of solitude, coarse food, a dress of shame,
+LJSpeech-1.1/wavs/LJ005-0033.wav|hard, incessant, irksome, eternal labor, a planned and regulated and unrelenting exclusion of happiness and comfort.
+LJSpeech-1.1/wavs/LJ005-0034.wav|Undeterred by these sarcasms and misrepresentations,
+LJSpeech-1.1/wavs/LJ005-0035.wav|the Society pursued its laudable undertaking with remarkable energy and great singleness of purpose.
+LJSpeech-1.1/wavs/LJ005-0036.wav|The objects it had in view were set forth in one of its earliest meetings.
+LJSpeech-1.1/wavs/LJ005-0037.wav|It sought to obtain and diffuse useful information
+LJSpeech-1.1/wavs/LJ005-0038.wav|to suggest beneficial regulations, and circulate tracts demonstrating the advantages of classification,
+LJSpeech-1.1/wavs/LJ005-0039.wav|constant inspection, regular employment, and humane treatment generally, with religious and moral instruction.
+LJSpeech-1.1/wavs/LJ005-0040.wav|It earnestly advocated the appointment of female officers to take exclusive charge of female prisoners,
+LJSpeech-1.1/wavs/LJ005-0041.wav|a much-needed and, according to our ideas, indispensable reform, already initiated by the Ladies' Committee at Newgate.
+LJSpeech-1.1/wavs/LJ005-0042.wav|It made the subject of the newly-invented tread-wheels, or stepping-wheels, as they were at first called, its peculiar affair,
+LJSpeech-1.1/wavs/LJ005-0043.wav|and obtained full details, from places where they had been adopted, of the nature of these new machines
+LJSpeech-1.1/wavs/LJ005-0044.wav|the method by which they were worked, and the dietaries of the prisoners employed upon them.
+LJSpeech-1.1/wavs/LJ005-0045.wav|Nor did it confine itself to mere verbal recommendations.
+LJSpeech-1.1/wavs/LJ005-0046.wav|The good it tried to do took active shape in the establishment of temporary refuges -- at Hoxton for males, and in the Hackney Road for females
+LJSpeech-1.1/wavs/LJ005-0047.wav|for the reception of deserving cases discharged from prison. The governor of Newgate and other metropolitan prisons had orders of admission to this refuge
+LJSpeech-1.1/wavs/LJ005-0048.wav|which he could bestow on prisoners on release, and so save the better-disposed or the completely destitute from lapsing at once into crime.
+LJSpeech-1.1/wavs/LJ005-0049.wav|The refuge, which had for its object the training of its inmates in habits of industry,
+LJSpeech-1.1/wavs/LJ005-0050.wav|and in moral and religious duty, and which after a time sought to provide them with suitable situations, was supported entirely out of the funds of the Society.
+LJSpeech-1.1/wavs/LJ005-0051.wav|At the time of its greatest prosperity, its annual income from donations and subscriptions was about one thousand six hundred pounds.
+LJSpeech-1.1/wavs/LJ005-0052.wav|Another point to which the Society devoted infinite pains was the preparation of plans for the guidance of architects in the construction of prisons.
+LJSpeech-1.1/wavs/LJ005-0053.wav|A very valuable volume published by the Society
+LJSpeech-1.1/wavs/LJ005-0054.wav|traced the progress of prison architecture from the days when the jail was the mere annexe of the baronial or episcopal castle
+LJSpeech-1.1/wavs/LJ005-0055.wav|or a dungeon above or below the gate of a town, to the first attempts at systematic reconstruction carried out under the advice and supervision of Howard.
+LJSpeech-1.1/wavs/LJ005-0056.wav|It is interesting to observe that the plan of "radiation," by which the prison blocks radiated from a central hall, like spokes in a wheel
+LJSpeech-1.1/wavs/LJ005-0057.wav|was introduced as early as seventeen ninety by Mr. Blackburn
+LJSpeech-1.1/wavs/LJ005-0058.wav|an architect of eminence who was very largely employed in the erection of prison buildings at the close of the last century.
+LJSpeech-1.1/wavs/LJ005-0059.wav|With some important modifications this principle of radiation is still the rule.
+LJSpeech-1.1/wavs/LJ005-0060.wav|The Society did not limit its remarks to the description of what had already been done
+LJSpeech-1.1/wavs/LJ005-0061.wav|but it offered suggestions for future buildings, with numerous carefully-executed drawings and designs of the model it recommended for imitation.
+LJSpeech-1.1/wavs/LJ005-0062.wav|Experience has since shown that in some respects these plans are defective, especially in the placing of the governor's residence in the center of the prison.
+LJSpeech-1.1/wavs/LJ005-0063.wav|It was thought that this would guarantee constant supervision and inspection, but it did nothing of the kind, and only the presence of warders on duty
+LJSpeech-1.1/wavs/LJ005-0064.wav|is found now-a-days to be really efficacious. The main recommendations, however, are based upon common sense
+LJSpeech-1.1/wavs/LJ005-0065.wav|and none are more commendable than that which deprecates the excessive ornamentation of the external parts of the edifice.
+LJSpeech-1.1/wavs/LJ005-0066.wav|"The new jails," as Howard says, "having pompous fronts, appear like palaces to the lower class of people, and many persons are against them on this account."
+LJSpeech-1.1/wavs/LJ005-0067.wav|The Prison Society reproves the misdirected efforts of ambitious architects, who by a lavish and improvident expenditure of public money
+LJSpeech-1.1/wavs/LJ005-0068.wav|sought to "rank the prisons they built among the most splendid buildings of the city or town."
+LJSpeech-1.1/wavs/LJ005-0069.wav|Absence of embellishment is in perfect unison with the character of the establishment.
+LJSpeech-1.1/wavs/LJ005-0070.wav|These are principles fully recognized now-a-days, and it may fairly be conceded that the Prison Discipline Society's ideal
+LJSpeech-1.1/wavs/LJ005-0071.wav|differed little from that kept in view in the construction of the latest and best modern jails.
+LJSpeech-1.1/wavs/LJ005-0072.wav|After a few years of active exertion the Society was rewarded by fresh legislation.
+LJSpeech-1.1/wavs/LJ005-0073.wav|To its efforts, and their effect upon Parliament and the public mind, we must attribute the new Jail Acts of four George the fourth
+LJSpeech-1.1/wavs/LJ005-0074.wav|cap. sixty-four, and five George the fourth cap. eighty-five
+LJSpeech-1.1/wavs/LJ005-0075.wav|which having gone through several sessions, at last became law in eighteen twenty-three to four
+LJSpeech-1.1/wavs/LJ005-0076.wav|By the preamble of the first-named act it was declared
+LJSpeech-1.1/wavs/LJ005-0077.wav|"expedient to introduce such measures and arrangements as shall not only provide for the safe custody,
+LJSpeech-1.1/wavs/LJ005-0078.wav|but shall also tend more effectually to preserve the health
+LJSpeech-1.1/wavs/LJ005-0079.wav|and improve the morals of the prisoners, and shall insure the proper measure of punishment to convicted offenders.
+LJSpeech-1.1/wavs/LJ005-0080.wav|Accordingly due provision was made for the enforcement of hard labor on all prisoners sentenced to it, and for the employment of all others.
+LJSpeech-1.1/wavs/LJ005-0082.wav|unless such ability (to work) should cease by reason of sickness, infirmity, the want of sufficient work, or from any other cause.
+LJSpeech-1.1/wavs/LJ005-0083.wav|It was distinctly laid down that male and female prisoners should be confined in separate buildings or parts of the prison,
+LJSpeech-1.1/wavs/LJ005-0084.wav|"so as to prevent them from seeing, conversing, or holding any intercourse with each other."
+LJSpeech-1.1/wavs/LJ005-0085.wav|Classification was insisted upon, in the manner laid down by the twenty-four George the third cap. fifty-four,
+LJSpeech-1.1/wavs/LJ005-0086.wav|with such further separation as the justices should deem conducive to good order and discipline.
+LJSpeech-1.1/wavs/LJ005-0087.wav|Female prisoners were in all cases to be under the charge of female officers.
+LJSpeech-1.1/wavs/LJ005-0088.wav|Every prison containing female prisoners was to have a matron who was to reside constantly in the prison.
+LJSpeech-1.1/wavs/LJ005-0089.wav|The religious and moral welfare of the prisoners were to be attended to,
+LJSpeech-1.1/wavs/LJ005-0090.wav|the first by daily services, the latter by the appointment of schoolmasters and instruction in reading and writing.
+LJSpeech-1.1/wavs/LJ005-0091.wav|Last, but not least, the use of irons was strictly forbidden, "except in cases of urgent and absolute necessity,"
+LJSpeech-1.1/wavs/LJ005-0092.wav|and every prisoner was to be provided with a hammock or cot to himself, suitable bedding, and, if possible, a separate cell.
+LJSpeech-1.1/wavs/LJ005-0093.wav|The second act, passed in the following year, enlarged and amended the first, and at the same time gave powers to the House
+LJSpeech-1.1/wavs/LJ005-0094.wav|to call for information as to the observance of its provisions.
+LJSpeech-1.1/wavs/LJ005-0095.wav|The promulgation of these two Jail Acts strengthened the hands of the Prison Discipline Society enormously.
+LJSpeech-1.1/wavs/LJ005-0096.wav|It had now a legal and authoritative standard of efficiency to apply,
+LJSpeech-1.1/wavs/LJ005-0097.wav|and could expose all the local authorities that still lagged behind, or neglected to comply with the provisions of the new laws.
+LJSpeech-1.1/wavs/LJ005-0098.wav|The Society did not shrink from its self-imposed duty, but continued year after year, with unflagging energy and unflinching spirit, to watch closely
+LJSpeech-1.1/wavs/LJ005-0099.wav|and report at length upon the condition of the prisons of the country.
+LJSpeech-1.1/wavs/LJ005-0100.wav|For this purpose it kept up an extensive correspondence with all parts of the kingdom, and circulated queries to be answered in detail,
+LJSpeech-1.1/wavs/LJ005-0101.wav|whence it deduced the practice and condition of every prison that replied.
+LJSpeech-1.1/wavs/LJ005-0102.wav|Upon these and the private visitations made by various members the Society obtained the facts,
+LJSpeech-1.1/wavs/LJ005-0103.wav|often highly damnatory, which were embodied in its annual reports.
+LJSpeech-1.1/wavs/LJ005-0104.wav|The progress of improvement was certainly extremely slow.
+LJSpeech-1.1/wavs/LJ005-0105.wav|It was long before the many jurisdictions imitated the few.
+LJSpeech-1.1/wavs/LJ005-0106.wav|Jails, of which the old prison at Reading was a specimen, were still left intact.
+LJSpeech-1.1/wavs/LJ005-0107.wav|In that prison, with its cells and yards arranged within the shell of an ancient abbey chapel,
+LJSpeech-1.1/wavs/LJ005-0108.wav|the prisoners, without firing, bedding, or sufficient food, spent their days "in surveying their grotesque prison,
+LJSpeech-1.1/wavs/LJ005-0109.wav|or contriving some means of escape by climbing the fluted columns which supported the Gothic arches of the aisles,
+LJSpeech-1.1/wavs/LJ005-0110.wav|and so passing by the roof down into the garden and on to freedom.
+LJSpeech-1.1/wavs/LJ005-0111.wav|In a county prison adjoining the metropolis, the separation between the male and female quarters was supposed to be accomplished by the erection of an iron railing;
+LJSpeech-1.1/wavs/LJ005-0112.wav|in this same prison capital convicts were chained to the floor until execution.
+LJSpeech-1.1/wavs/LJ005-0113.wav|In another jail not far off male and female felons still occupied the same room -- underground, and reached by a ladder of ten steps.
+LJSpeech-1.1/wavs/LJ005-0114.wav|In others the separation between the sexes consisted in a hanging curtain
+LJSpeech-1.1/wavs/LJ005-0115.wav|or an imaginary boundary line, and nothing prevented parties from passing to either side
+LJSpeech-1.1/wavs/LJ005-0116.wav|but an empty regulation which all so disposed could defy.
+LJSpeech-1.1/wavs/LJ005-0117.wav|Numbers of the jails were still unprovided with chaplains, and the prisoners never heard Divine service.
+LJSpeech-1.1/wavs/LJ005-0118.wav|In many others there were no infirmaries, no places set apart for the confinement of prisoners afflicted with dangerous and infectious disorders.
+LJSpeech-1.1/wavs/LJ005-0119.wav|No attempt was made to maintain discipline.
+LJSpeech-1.1/wavs/LJ005-0120.wav|Half the jails had no code of rules properly prepared and sanctioned by the judges, according to law.
+LJSpeech-1.1/wavs/LJ005-0121.wav|By degrees, however,
+LJSpeech-1.1/wavs/LJ005-0122.wav|the changes necessary to bring the prisons into conformity with the recent acts were attempted, if not actually introduced into the county prisons, to which,
+LJSpeech-1.1/wavs/LJ005-0123.wav|with a few of the more important city or borough prisons, these acts more especially applied.
+LJSpeech-1.1/wavs/LJ005-0124.wav|Most of the local authorities embarked into considerable expenditure, determined to rebuild their jails de novo on the most approved pattern,
+LJSpeech-1.1/wavs/LJ005-0125.wav|or to reappropriate, reconstruct, and patch up the existing prisons till they were more in accordance with the growing requirements of the times.
+LJSpeech-1.1/wavs/LJ005-0126.wav|Religious worship became more generally the rule; chaplains were appointed, and chapels provided for them; surgeons and hospitals also.
+LJSpeech-1.1/wavs/LJ005-0127.wav|Workshops were built at many prisons, various kinds of manufactures and trades were set on foot, including weaving, matting, shoe-making, and tailoring.
+LJSpeech-1.1/wavs/LJ005-0128.wav|The interior of one prison was illuminated throughout with gas, -- still a novelty, which had been generally adopted in London only four years previously,
+LJSpeech-1.1/wavs/LJ005-0129.wav|"a measure which must greatly tend to discourage attempts to escape."
+LJSpeech-1.1/wavs/LJ005-0130.wav|There were tread-wheels at most of the prisons, and regular employment thereon or at some other kind of hard labor.
+LJSpeech-1.1/wavs/LJ005-0131.wav|In many places too where the prisoners earned money by their work, they were granted a portion of it for their own use after proper deduction for maintenance.

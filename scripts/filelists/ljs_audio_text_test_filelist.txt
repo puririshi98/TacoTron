@@ -1,0 +1,500 @@
+LJSpeech-1.1/wavs/LJ049-0008.wav|and detailing police in civilian clothes to be scattered throughout the sizable crowd.
+LJSpeech-1.1/wavs/LJ049-0009.wav|When President and Mrs. Kennedy shook hands with members of the public along the fences surrounding the reception area, they were closely guarded by Secret Service agents
+LJSpeech-1.1/wavs/LJ049-0010.wav|who responded to the unplanned event with dispatch.
+LJSpeech-1.1/wavs/LJ049-0011.wav|As described in chapter two, the President directed that his car stop on two occasions during the motorcade so that he could greet members of the public.
+LJSpeech-1.1/wavs/LJ049-0012.wav|At these stops, agents from the Presidential follow-up car stood between the President and the public,
+LJSpeech-1.1/wavs/LJ049-0013.wav|and on one occasion Agent Kellerman left the front seat of the President's car to take a similar position.
+LJSpeech-1.1/wavs/LJ049-0014.wav|The Commission regards such impromptu stops as presenting an unnecessary danger,
+LJSpeech-1.1/wavs/LJ049-0015.wav|but finds that the Secret Service agents did all that could have been done to take protective measures.
+LJSpeech-1.1/wavs/LJ049-0016.wav|The Presidential limousine.
+LJSpeech-1.1/wavs/LJ049-0017.wav|The limousine used by President Kennedy in Dallas was a convertible with a detachable, rigid plastic "bubble" top
+LJSpeech-1.1/wavs/LJ049-0018.wav|which was neither bulletproof nor bullet resistant.
+LJSpeech-1.1/wavs/LJ049-0019.wav|The last Presidential vehicle with any protection against small-arms fire left the White House in nineteen fifty-three.
+LJSpeech-1.1/wavs/LJ049-0020.wav|It was not then replaced because the state of the art did not permit the development of a bulletproof top of sufficiently light weight
+LJSpeech-1.1/wavs/LJ049-0021.wav|to permit its removal on those occasions when the President wished to ride in an open car.
+LJSpeech-1.1/wavs/LJ049-0022.wav|The Secret Service believed that it was very doubtful that any President would ride regularly in a vehicle with a fixed top, even though transparent.
+LJSpeech-1.1/wavs/LJ049-0023.wav|Since the assassination, the Secret Service, with the assistance of other Federal agencies and of private industry,
+LJSpeech-1.1/wavs/LJ049-0024.wav|has developed a vehicle for the better protection of the President.
+LJSpeech-1.1/wavs/LJ049-0025.wav|Access to passenger compartment of Presidential car.
+LJSpeech-1.1/wavs/LJ049-0026.wav|On occasion the Secret Service has been permitted to have an agent riding in the passenger compartment with the President.
+LJSpeech-1.1/wavs/LJ049-0027.wav|Presidents have made it clear, however, that they did not favor this or any other arrangement which interferes with the privacy of the President and his guests.
+LJSpeech-1.1/wavs/LJ049-0028.wav|The Secret Service has therefore suggested this practice only on extraordinary occasions.
+LJSpeech-1.1/wavs/LJ049-0029.wav|Without attempting to prescribe or recommend specific measures which should be employed for the future protection of Presidents,
+LJSpeech-1.1/wavs/LJ049-0030.wav|the Commission does believe that there are aspects of the protective measures employed in the motorcade at Dallas which deserve special comment.
+LJSpeech-1.1/wavs/LJ049-0031.wav|The Presidential vehicle in use in Dallas, described in chapter two,
+LJSpeech-1.1/wavs/LJ049-0032.wav|had no special design or equipment which would have permitted the Secret Service agent riding in the driver's compartment
+LJSpeech-1.1/wavs/LJ049-0033.wav|to move into the passenger section without hindrance or delay. Had the vehicle been so designed it is possible that an agent riding in the front seat
+LJSpeech-1.1/wavs/LJ049-0034.wav|could have reached the President in time to protect him from the second and fatal shot to hit the President.
+LJSpeech-1.1/wavs/LJ049-0035.wav|However, such access to the President was interfered with both by the metal bar some fifteen inches above the back of the front seat
+LJSpeech-1.1/wavs/LJ049-0036.wav|and by the passengers in the jump seats.
+LJSpeech-1.1/wavs/LJ049-0037.wav|In contrast, the Vice Presidential vehicle, although not specially designed for that purpose,
+LJSpeech-1.1/wavs/LJ049-0038.wav|had no passenger in a jump seat between Agent Youngblood and Vice President Johnson to interfere with Agent Youngblood's ability
+LJSpeech-1.1/wavs/LJ049-0039.wav|to take a protective position in the passenger compartment before the third shot was fired.
+LJSpeech-1.1/wavs/LJ049-0040.wav|The assassination suggests that it would have been of prime importance
+LJSpeech-1.1/wavs/LJ049-0041.wav|in the protection of the President if the Presidential car permitted immediate access to the President by a Secret Service agent at the first sign of danger.
+LJSpeech-1.1/wavs/LJ049-0042.wav|At that time the agents on the framing boards of the follow-up car were expected to perform such a function.
+LJSpeech-1.1/wavs/LJ049-0043.wav|However, these agents could not reach the President's car when it was traveling at an appreciable rate of speed.
+LJSpeech-1.1/wavs/LJ049-0044.wav|Even if the car is traveling more slowly, the delay involved in reaching the President may be crucial.
+LJSpeech-1.1/wavs/LJ049-0045.wav|It is clear that at the time of the shots in Dallas, Agent Clinton J. Hill leaped to the President's rescue as quickly as humanly possible.
+LJSpeech-1.1/wavs/LJ049-0046.wav|Even so, analysis of the motion picture films taken by amateur photographer Zapruder
+LJSpeech-1.1/wavs/LJ049-0047.wav|reveals that Hill first placed his hand on the Presidential car at frame three forty-three, thirty frames
+LJSpeech-1.1/wavs/LJ049-0048.wav|and therefore approximately one point six seconds after the President was shot in the head.
+LJSpeech-1.1/wavs/LJ049-0049.wav|About three point seven seconds after the President received this wound,
+LJSpeech-1.1/wavs/LJ049-0050.wav|Hill had both feet on the car and was climbing aboard to assist President and Mrs. Kennedy.
+LJSpeech-1.1/wavs/LJ049-0051.wav|Planning for motorcade contingencies.
+LJSpeech-1.1/wavs/LJ049-0052.wav|In response to inquiry by the Commission regarding the instructions to agents in a motorcade
+LJSpeech-1.1/wavs/LJ049-0053.wav|of emergency procedures to be taken in a contingency such as that which actually occurred, the Secret Service responded, quote,
+LJSpeech-1.1/wavs/LJ049-0054.wav|The Secret Service has consistently followed two general principles in emergencies involving the President.
+LJSpeech-1.1/wavs/LJ049-0055.wav|All agents are so instructed.
+LJSpeech-1.1/wavs/LJ049-0056.wav|The first duty of the agents in the motorcade is to attempt to cover the President as closely as possible and practicable
+LJSpeech-1.1/wavs/LJ049-0057.wav|and to shield him by attempting to place themselves between the President and any source of danger.
+LJSpeech-1.1/wavs/LJ049-0058.wav|Secondly, agents are instructed to remove the President as quickly as possible from known or impending danger.
+LJSpeech-1.1/wavs/LJ049-0059.wav|Agents are instructed that it is not their responsibility to investigate or evaluate a present danger,
+LJSpeech-1.1/wavs/LJ049-0060.wav|but to consider any untoward circumstances as serious and to afford the President maximum protection at all times.
+LJSpeech-1.1/wavs/LJ049-0061.wav|No responsibility rests upon those agents near the President for the identification or arrest of any assassin or an attacker.
+LJSpeech-1.1/wavs/LJ049-0062.wav|Their primary responsibility is to stay with and protect the President.
+LJSpeech-1.1/wavs/LJ049-0063.wav|Beyond these two principles the Secret Service believes a detailed contingency or emergency plan is not feasible
+LJSpeech-1.1/wavs/LJ049-0064.wav|because the variations possible preclude effective planning.
+LJSpeech-1.1/wavs/LJ049-0065.wav|A number of steps are taken, however, to permit appropriate steps to be taken in an emergency.
+LJSpeech-1.1/wavs/LJ049-0066.wav|For instance, the lead car always is manned by Secret Service agents familiar with the area and with local law enforcement officials;
+LJSpeech-1.1/wavs/LJ049-0067.wav|the radio net in use in motorcades is elaborate and permits a number of different means of communication with various local points.
+LJSpeech-1.1/wavs/LJ049-0068.wav|A doctor is in the motorcade.
+LJSpeech-1.1/wavs/LJ049-0069.wav|This basic approach to the problem of planning for emergencies is sound.
+LJSpeech-1.1/wavs/LJ049-0070.wav|Any effort to prepare detailed contingency plans might well have the undesirable effect of inhibiting quick and imaginative responses.
+LJSpeech-1.1/wavs/LJ049-0071.wav|If the advance preparation is thorough, and the protective devices and techniques employed are sound,
+LJSpeech-1.1/wavs/LJ049-0072.wav|those in command should be able to direct the response appropriate to the emergency. The Commission finds that the Secret Service agents in the motorcade
+LJSpeech-1.1/wavs/LJ049-0073.wav|who were immediately responsible for the President's safety reacted promptly at the time the shots were fired.
+LJSpeech-1.1/wavs/LJ049-0074.wav|Their actions demonstrate that the President and the Nation can expect courage and devotion to duty from the agents of the Secret Service.
+LJSpeech-1.1/wavs/LJ049-0075.wav|Recommendations.
+LJSpeech-1.1/wavs/LJ049-0076.wav|The Commission's review of the provisions for Presidential protection at the time of President Kennedy's trip to Dallas demonstrates the need for substantial improvements.
+LJSpeech-1.1/wavs/LJ049-0077.wav|Since the assassination, the Secret Service and the Department of the Treasury
+LJSpeech-1.1/wavs/LJ049-0078.wav|have properly taken the initiative in reexamining major aspects of Presidential protection.
+LJSpeech-1.1/wavs/LJ049-0079.wav|Many changes have already been made and others are contemplated, some of them in response to the Commission's questions and informal suggestions.
+LJSpeech-1.1/wavs/LJ049-0080.wav|Assassination a Federal Crime
+LJSpeech-1.1/wavs/LJ049-0081.wav|There was no Federal criminal jurisdiction over the assassination of President Kennedy.
+LJSpeech-1.1/wavs/LJ049-0082.wav|Had there been reason to believe that the assassination was the result of a conspiracy, Federal jurisdiction could have been asserted;
+LJSpeech-1.1/wavs/LJ049-0083.wav|it has long been a Federal crime to conspire to injure any Federal officer, on account of, or while he is engaged in, the lawful discharge of the duties of his office.
+LJSpeech-1.1/wavs/LJ049-0084.wav|Murder of the President has never been covered by Federal law, however, so that once it became reasonably clear that the killing was the act of a single person,
+LJSpeech-1.1/wavs/LJ049-0085.wav|the State of Texas had exclusive jurisdiction.
+LJSpeech-1.1/wavs/LJ049-0086.wav|It is anomalous that Congress has legislated in other ways touching upon the safety of the Chief Executive or other Federal officers,
+LJSpeech-1.1/wavs/LJ049-0087.wav|without making an attack on the President a crime. Threatening harm to the President is a Federal offense,
+LJSpeech-1.1/wavs/LJ049-0088.wav|as is advocacy of the overthrow of the Government by the assassination of any of its officers.
+LJSpeech-1.1/wavs/LJ049-0089.wav|The murder of Federal judges, U.S. attorneys and marshals, and a number of other specifically designated
+LJSpeech-1.1/wavs/LJ049-0090.wav|Federal law enforcement officers is a Federal crime.
+LJSpeech-1.1/wavs/LJ049-0091.wav|Equally anomalous are statutory provisions which specifically authorize the Secret Service to protect the President,
+LJSpeech-1.1/wavs/LJ049-0092.wav|without authorizing it to arrest anyone who harms him. The same provisions authorize the Service to arrest without warrant
+LJSpeech-1.1/wavs/LJ049-0093.wav|persons committing certain offenses, including counterfeiting and certain frauds involving Federal checks or securities.
+LJSpeech-1.1/wavs/LJ049-0094.wav|The Commission agrees with the Secret Service that it should be authorized to make arrests without warrant
+LJSpeech-1.1/wavs/LJ049-0095.wav|for all offenses within its jurisdiction, as are FBI agents and Federal marshals.
+LJSpeech-1.1/wavs/LJ049-0096.wav|There have been a number of efforts to make assassination a Federal crime, particularly after the assassination of President McKinley
+LJSpeech-1.1/wavs/LJ049-0097.wav|and the attempt on the life of President-elect Franklin D. Roosevelt.
+LJSpeech-1.1/wavs/LJ049-0098.wav|In nineteen oh two bills passed both Houses of Congress but failed of enactment when the Senate refused to accept the conference report.
+LJSpeech-1.1/wavs/LJ049-0099.wav|A number of bills were introduced immediately following the assassination of President Kennedy.
+LJSpeech-1.1/wavs/LJ049-0100.wav|The Commission recommends to the Congress that it adopt legislation which would:
+LJSpeech-1.1/wavs/LJ049-0101.wav|Punish the murder or manslaughter of, attempt or conspiracy to murder, kidnaping of and assault upon
+LJSpeech-1.1/wavs/LJ049-0102.wav|the President, Vice President, or other officer next in the order of succession to the Office of President, the President-elect and the Vice-President-elect,
+LJSpeech-1.1/wavs/LJ049-0103.wav|whether or not the act is committed while the victim is in the performance of his official duties or on account of such performance.
+LJSpeech-1.1/wavs/LJ049-0104.wav|Such a statute would cover the President and Vice President or, in the absence of a Vice President, the person next in order of succession.
+LJSpeech-1.1/wavs/LJ049-0105.wav|During the period between election and inauguration, the President-elect and Vice-President-elect would also be covered.
+LJSpeech-1.1/wavs/LJ049-0106.wav|Restricting the coverage in this way would avoid unnecessary controversy over the inclusion or exclusion of other officials who are in the order of succession
+LJSpeech-1.1/wavs/LJ049-0107.wav|or who hold important governmental posts.
+LJSpeech-1.1/wavs/LJ049-0108.wav|In addition, the restriction would probably eliminate a need for the requirement which has been urged as necessary for the exercise of Federal power,
+LJSpeech-1.1/wavs/LJ049-0109.wav|that the hostile act occur while the victim is engaged in or because of the performance of official duties.
+LJSpeech-1.1/wavs/LJ049-0110.wav|The governmental consequences of assassination of one of the specified officials give the United States ample power to act for its own protection.
+LJSpeech-1.1/wavs/LJ049-0111.wav|The activities of the victim at the time an assassination occurs and the motive for the assassination
+LJSpeech-1.1/wavs/LJ049-0112.wav|bear no relationship to the injury to the United States which follows from the act.
+LJSpeech-1.1/wavs/LJ049-0113.wav|This point was ably made in the nineteen oh two debate by Senator George F. Hoar, the sponsor of the Senate bill, quote,
+LJSpeech-1.1/wavs/LJ049-0114.wav|what this bill means to punish is the crime of interruption of the Government of the United States and the destruction of its security by striking down the life
+LJSpeech-1.1/wavs/LJ049-0115.wav|of the person who is actually in the exercise of the executive power, or
+LJSpeech-1.1/wavs/LJ049-0116.wav|of such persons as have been constitutionally and lawfully provided to succeed thereto in case of a vacancy. It is important to this country
+LJSpeech-1.1/wavs/LJ049-0117.wav|that the interruption shall not take place for an hour, end quote.
+LJSpeech-1.1/wavs/LJ049-0118.wav|Enactment of this statute would mean that the investigation of any of the acts covered and of the possibility of a further attempt
+LJSpeech-1.1/wavs/LJ049-0119.wav|would be conducted by Federal law enforcement officials, in particular, the FBI with the assistance of the Secret Service.
+LJSpeech-1.1/wavs/LJ049-0120.wav|At present, Federal agencies participate only upon the sufferance of the local authorities.
+LJSpeech-1.1/wavs/LJ049-0121.wav|While the police work of the Dallas authorities in the early identification and apprehension of Oswald was both efficient and prompt,
+LJSpeech-1.1/wavs/LJ049-0122.wav|FBI Director J. Edgar Hoover, who strongly supports such legislation, testified that the absence of clear Federal jurisdiction
+LJSpeech-1.1/wavs/LJ049-0123.wav|over the assassination of President Kennedy led to embarrassment and confusion in the subsequent investigation by Federal and local authorities.
+LJSpeech-1.1/wavs/LJ049-0124.wav|In addition, the proposed legislation will insure
+LJSpeech-1.1/wavs/LJ049-0125.wav|that any suspects who are arrested will be Federal prisoners, subject to Federal protection from vigilante justice and other threats.
+LJSpeech-1.1/wavs/LJ049-0126.wav|Committee of Cabinet Officers. As our Government has become more complex,
+LJSpeech-1.1/wavs/LJ049-0127.wav|agencies other than the Secret Service have become involved in phases of the overall problem of protecting our national leaders.
+LJSpeech-1.1/wavs/LJ049-0128.wav|The FBI is the major domestic investigating agency of the United States,
+LJSpeech-1.1/wavs/LJ049-0129.wav|while the CIA has the primary responsibility for collecting intelligence overseas to supplement information acquired by the Department of State.
+LJSpeech-1.1/wavs/LJ049-0130.wav|The Secret Service must rely in large part
+LJSpeech-1.1/wavs/LJ049-0132.wav|The Commission believes that it is necessary to improve the cooperation among these agencies
+LJSpeech-1.1/wavs/LJ049-0133.wav|and to emphasize that the task of Presidential protection is one of broad national concern.
+LJSpeech-1.1/wavs/LJ049-0134.wav|The Commission suggests that consideration might be given to assigning to a Cabinet-level committee or the National Security Council
+LJSpeech-1.1/wavs/LJ049-0135.wav|(which is responsible for advising the President respecting the coordination
+LJSpeech-1.1/wavs/LJ049-0136.wav|of departmental policies relating to the national security) the responsibility to review and oversee the protective activities of the Secret Service
+LJSpeech-1.1/wavs/LJ049-0137.wav|and the other Federal agencies that assist in safeguarding the President. The Committee should include the Secretary of the Treasury and the Attorney General,
+LJSpeech-1.1/wavs/LJ049-0138.wav|and, if the Council is used, arrangements should be made for the attendance of the Secretary of the Treasury
+LJSpeech-1.1/wavs/LJ049-0139.wav|and the Attorney General at any meetings which are concerned with Presidential protection.
+LJSpeech-1.1/wavs/LJ049-0140.wav|The Council already includes, in addition to the President and Vice President, the Secretaries of State and Defense and has a competent staff.
+LJSpeech-1.1/wavs/LJ049-0141.wav|The foremost assignment of the Committee would be to insure that the maximum resources of the Federal Government are fully engaged in the job of protecting the President,
+LJSpeech-1.1/wavs/LJ049-0142.wav|by defining responsibilities clearly and overseeing their execution.
+LJSpeech-1.1/wavs/LJ049-0143.wav|Major needs of personnel or other resources might be met more easily on its recommendation than they have been in the past.
+LJSpeech-1.1/wavs/LJ049-0144.wav|The Committee would be able to provide guidance in defining the general nature of domestic and foreign dangers to Presidential security.
+LJSpeech-1.1/wavs/LJ049-0145.wav|As improvements are recommended for the advance detection of potential threats to the President, it could act as a final review board.
+LJSpeech-1.1/wavs/LJ049-0146.wav|The expert assistance and resources which it could draw upon would be particularly desirable in this complex and sensitive area.
+LJSpeech-1.1/wavs/LJ049-0147.wav|This arrangement would provide a continuing high-level contact for agencies that may wish to consult respecting particular protective measures.
+LJSpeech-1.1/wavs/LJ049-0148.wav|For various reasons the Secret Service has functioned largely as an informal part of the White House staff, with the result
+LJSpeech-1.1/wavs/LJ049-0149.wav|that it has been unable, as a practical matter, to exercise sufficient influence over the security precautions which surround Presidential activities.
+LJSpeech-1.1/wavs/LJ049-0150.wav|A Cabinet-level committee which is actively concerned with these problems would be able to discuss these matters more effectively with the President.
+LJSpeech-1.1/wavs/LJ049-0151.wav|Responsibilities for Presidential Protection
+LJSpeech-1.1/wavs/LJ049-0152.wav|The assignment of the responsibility of protecting the President to an agency of the Department of the Treasury was largely an historical accident.
+LJSpeech-1.1/wavs/LJ049-0153.wav|The Secret Service was organized as a division of the Department of the Treasury in eighteen sixty-five, to deal with counterfeiting.
+LJSpeech-1.1/wavs/LJ049-0154.wav|In eighteen ninety-four,
+LJSpeech-1.1/wavs/LJ049-0155.wav|while investigating a plot to assassinate President Cleveland, the Service assigned a small protective detail of agents to the White House.
+LJSpeech-1.1/wavs/LJ049-0156.wav|Secret Service men accompanied the President and his family to their vacation home in Massachusetts
+LJSpeech-1.1/wavs/LJ049-0157.wav|and special details protected him in Washington, on trips, and at special functions.
+LJSpeech-1.1/wavs/LJ049-0158.wav|These informal and part-time arrangements led to more systematic protection in nineteen oh two, after the assassination of President McKinley;
+LJSpeech-1.1/wavs/LJ049-0159.wav|the Secret Service, then the only Federal investigative agency, assumed full-time responsibility for the safety of the President.
+LJSpeech-1.1/wavs/LJ049-0160.wav|Since that time, the Secret Service has had and exercised responsibility for the physical protection of the President
+LJSpeech-1.1/wavs/LJ049-0161.wav|and also for the preventive investigation of potential threats against the President.
+LJSpeech-1.1/wavs/LJ049-0162.wav|Although the Secret Service has had the primary responsibility for the protection of the President,
+LJSpeech-1.1/wavs/LJ049-0163.wav|the FBI, which was established within the Department of Justice in nineteen oh eight, has had in recent years an increasingly important role to play.
+LJSpeech-1.1/wavs/LJ049-0164.wav|In the appropriations of the FBI there has recurred annually an item for the, quote, protection of the person of the President of the United States, end quote,
+LJSpeech-1.1/wavs/LJ049-0165.wav|which first appeared in the appropriation of the Department of Justice in nineteen ten under the heading, quote, Miscellaneous Objects, end quote.
+LJSpeech-1.1/wavs/LJ049-0166.wav|Although the FBI is not charged with the physical protection of the President, it does have an assignment, as do other Government agencies,
+LJSpeech-1.1/wavs/LJ049-0167.wav|in the field of preventive investigation in regard to the President's security.
+LJSpeech-1.1/wavs/LJ049-0168.wav|As discussed above, the Bureau has attempted to meet its responsibilities in this field by spelling out in its Handbook
+LJSpeech-1.1/wavs/LJ049-0169.wav|the procedures which its agents are to follow in connection with information received, quote,
+LJSpeech-1.1/wavs/LJ049-0170.wav|indicating the possibility of an attempt against the person or safety of the President, end quote, or other protected persons.
+LJSpeech-1.1/wavs/LJ049-0171.wav|With two Federal agencies operating in the same general field of preventive investigation,
+LJSpeech-1.1/wavs/LJ049-0172.wav|questions inevitably arise as to the scope of each agency's authority and responsibility.
+LJSpeech-1.1/wavs/LJ049-0173.wav|As the testimony of J. Edgar Hoover and other Bureau officials revealed, the FBI did not believe that its directive required the Bureau
+LJSpeech-1.1/wavs/LJ049-0174.wav|to notify the Secret Service of the substantial information about Lee Harvey Oswald which the FBI had accumulated
+LJSpeech-1.1/wavs/LJ049-0175.wav|before the President reached Dallas.
+LJSpeech-1.1/wavs/LJ049-0176.wav|On the other hand, the Secret Service had no knowledge whatever of Oswald, his background, or his employment at the Book Depository,
+LJSpeech-1.1/wavs/LJ049-0177.wav|and Robert I. Bouck, who was in charge of the Protective Research Section of the Secret Service, believed that the accumulation of the facts known to the FBI
+LJSpeech-1.1/wavs/LJ049-0178.wav|should have constituted a sufficient basis to warn the Secret Service of the Oswald risk.
+LJSpeech-1.1/wavs/LJ049-0179.wav|The Commission believes that both the FBI and the Secret Service have too narrowly construed their respective responsibilities.
+LJSpeech-1.1/wavs/LJ049-0180.wav|The Commission has the impression
+LJSpeech-1.1/wavs/LJ049-0181.wav|that too much emphasis is placed by both on the investigation of specific threats by individuals and not enough on dangers from other sources.
+LJSpeech-1.1/wavs/LJ049-0182.wav|In addition, the Commission has concluded that the Secret Service particularly tends to be the passive recipient of information
+LJSpeech-1.1/wavs/LJ049-0183.wav|regarding such threats and that its Protective Research Section is not adequately staffed or equipped
+LJSpeech-1.1/wavs/LJ049-0184.wav|to conduct the wider investigative work that is required today for the security of the President.
+LJSpeech-1.1/wavs/LJ049-0185.wav|During the period the Commission was giving thought to this situation,
+LJSpeech-1.1/wavs/LJ049-0186.wav|the Commission received a number of proposals designed to improve current arrangements for protecting the President.
+LJSpeech-1.1/wavs/LJ049-0187.wav|These proposals included suggestions to locate exclusive responsibility for all phases of the work
+LJSpeech-1.1/wavs/LJ049-0188.wav|in one or another Government agency, to clarify the division of authority between the agencies involved, and to retain the existing system
+LJSpeech-1.1/wavs/LJ049-0189.wav|but expand both the scope and the operations of the existing agencies, particularly those of the Secret Service and the FBI.
+LJSpeech-1.1/wavs/LJ049-0190.wav|It has been pointed out that the FBI, as our chief investigative agency,
+LJSpeech-1.1/wavs/LJ049-0191.wav|is properly manned and equipped to carry on extensive information gathering functions within the United States.
+LJSpeech-1.1/wavs/LJ049-0192.wav|It was also suggested that it would take a substantial period of time for the Secret Service to build up the experience and skills necessary to meet the problem.
+LJSpeech-1.1/wavs/LJ049-0193.wav|Consequently the suggestion has been made, on the one hand, that all preventive investigative functions relating to the security of the President
+LJSpeech-1.1/wavs/LJ049-0194.wav|should be transferred to the FBI,
+LJSpeech-1.1/wavs/LJ049-0195.wav|leaving with the Secret Service only the responsibility for the physical protection of the President, that is, the guarding function alone.
+LJSpeech-1.1/wavs/LJ049-0196.wav|On the other hand, it is urged that all features of the protection of the President and his family should be committed to an elite and independent corps.
+LJSpeech-1.1/wavs/LJ049-0197.wav|It is also contended that the agents should be intimately associated with the life of the Presidential family
+LJSpeech-1.1/wavs/LJ049-0198.wav|in all its ramifications and alert to every danger that might befall it,
+LJSpeech-1.1/wavs/LJ049-0199.wav|and ready at any instant to hazard great danger to themselves in the performance of their tremendous responsibility.
+LJSpeech-1.1/wavs/LJ049-0200.wav|It is suggested that an organization shorn of its power to investigate all the possibilities of danger to the President
+LJSpeech-1.1/wavs/LJ049-0201.wav|and becoming merely the recipient of information gathered by others would become limited solely to acts of physical alertness and personal courage
+LJSpeech-1.1/wavs/LJ049-0202.wav|incident to its responsibilities.
+LJSpeech-1.1/wavs/LJ049-0203.wav|So circumscribed, it could not maintain the esprit de corps or the necessary alertness for this unique and challenging responsibility.
+LJSpeech-1.1/wavs/LJ049-0204.wav|While in accordance with its mandate
+LJSpeech-1.1/wavs/LJ049-0205.wav|this Commission has necessarily examined into the functioning of the various Federal agencies concerned with the tragic trip of President Kennedy to Dallas
+LJSpeech-1.1/wavs/LJ049-0206.wav|and while it has arrived at certain conclusions in respect thereto, it seems clear
+LJSpeech-1.1/wavs/LJ049-0207.wav|that it was not within the Commission's responsibility to make specific recommendations as to the long-range organization of the President's protection,
+LJSpeech-1.1/wavs/LJ049-0208.wav|except as conclusions flowing directly from its examination of the President's assassination can be drawn.
+LJSpeech-1.1/wavs/LJ049-0209.wav|The Commission was not asked to apply itself as did the Hoover Commission in nineteen forty-nine,
+LJSpeech-1.1/wavs/LJ049-0210.wav|for examples to a determination of the optimum organization of the President's protection.
+LJSpeech-1.1/wavs/LJ049-0211.wav|It would have been necessary for the Commission to take considerable testimony, much of it extraneous to the facts of the assassination of President Kennedy,
+LJSpeech-1.1/wavs/LJ049-0212.wav|to put it in a position to reach final conclusions in this respect.
+LJSpeech-1.1/wavs/LJ049-0213.wav|There are always dangers of divided responsibility,
+LJSpeech-1.1/wavs/LJ049-0214.wav|duplication, and confusion of authority where more than one agency is operating in the same field; but on the other hand
+LJSpeech-1.1/wavs/LJ049-0215.wav|the protection of the President is in a real sense a Government-wide responsibility which must necessarily assumed by the Department of State,
+LJSpeech-1.1/wavs/LJ049-0216.wav|the FBI, the CIA, and the military intelligence agencies as well as the Secret Service.
+LJSpeech-1.1/wavs/LJ049-0217.wav|Moreover, a number of imponderable questions have to be weighed if any change in the intimate association now established
+LJSpeech-1.1/wavs/LJ049-0218.wav|between the Secret Service and the President and his family is contemplated.
+LJSpeech-1.1/wavs/LJ049-0219.wav|These considerations have induced the Commission to believe
+LJSpeech-1.1/wavs/LJ049-0220.wav|that the determination of whether or not there should be a relocation of responsibilities and functions should be left to the Executive and the Congress,
+LJSpeech-1.1/wavs/LJ049-0221.wav|perhaps upon recommendations based on further studies by the Cabinet-level committee recommended above or the National Security Council.
+LJSpeech-1.1/wavs/LJ049-0222.wav|Pending any such determination, however, this Commission is convinced of the necessity of better coordination
+LJSpeech-1.1/wavs/LJ049-0223.wav|and direction of the activities of all existing agencies of Government which are in a position to and do, furnish information
+LJSpeech-1.1/wavs/LJ049-0224.wav|and services related to the security of the President.
+LJSpeech-1.1/wavs/LJ049-0225.wav|The Commission feels the Secret Service and the FBI, as well as the State Department and the CIA when the President travels abroad,
+LJSpeech-1.1/wavs/LJ049-0226.wav|could improve their existing capacities and procedures so as to lessen the chances of assassination.
+LJSpeech-1.1/wavs/LJ049-0227.wav|Without, therefore, coming to final conclusions respecting the long-range organization of the President's security,
+LJSpeech-1.1/wavs/LJ049-0228.wav|the Commission believes that the facts of the assassination of President Kennedy point to certain measures which,
+LJSpeech-1.1/wavs/LJ049-0229.wav|while assuming no radical relocation of responsibilities,
+LJSpeech-1.1/wavs/LJ049-0230.wav|can and should be recommended by this Commission in the interest of the more efficient protection of the President.
+LJSpeech-1.1/wavs/LJ050-0001.wav|For more information, or to volunteer, please visit librivox dot org. Report of the President's Commission on the Assassination of President Kennedy.
+LJSpeech-1.1/wavs/LJ050-0002.wav|The Warren Commission Report.
+LJSpeech-1.1/wavs/LJ050-0003.wav|By The President's Commission on the Assassination of President Kennedy. Chapter eight. The Protection of the President. Part five.
+LJSpeech-1.1/wavs/LJ050-0004.wav|General Supervision of the Secret Service
+LJSpeech-1.1/wavs/LJ050-0005.wav|The intimacy of the Secret Service's relationship to the White House
+LJSpeech-1.1/wavs/LJ050-0006.wav|and the dissimilarity of its protective functions to most activities of the Department of the Treasury
+LJSpeech-1.1/wavs/LJ050-0007.wav|have made it difficult for the Treasury to maintain close and continuing supervision.
+LJSpeech-1.1/wavs/LJ050-0008.wav|The Commission believes that the recommended Cabinet-level committee will help to correct many of the major deficiencies of supervision
+LJSpeech-1.1/wavs/LJ050-0009.wav|disclosed by the Commission's investigation. Other measures should be taken as well to improve the overall operation of the Secret Service.
+LJSpeech-1.1/wavs/LJ050-0010.wav|Daily supervision of the operations of the Secret Service within the Department of the Treasury should be improved.
+LJSpeech-1.1/wavs/LJ050-0011.wav|The Chief of the Service now reports to the Secretary of the Treasury
+LJSpeech-1.1/wavs/LJ050-0012.wav|through an Assistant Secretary whose duties also include the direct supervision of the Bureau of the Mint
+LJSpeech-1.1/wavs/LJ050-0013.wav|and the Department's Employment Policy Program, and who also represents the Secretary of the Treasury on various committees and groups.
+LJSpeech-1.1/wavs/LJ050-0014.wav|The incumbent has no technical qualifications in the area of Presidential protection.
+LJSpeech-1.1/wavs/LJ050-0015.wav|The Commission recommends that the Secretary of the Treasury appoint a special assistant with the responsibility of supervising the Service.
+LJSpeech-1.1/wavs/LJ050-0016.wav|This special assistant should be required to have sufficient stature and experience in law enforcement, intelligence, or allied fields
+LJSpeech-1.1/wavs/LJ050-0017.wav|to be able to provide effective continuing supervision
+LJSpeech-1.1/wavs/LJ050-0018.wav|and to keep the Secretary fully informed regarding all significant developments relating to Presidential protection.
+LJSpeech-1.1/wavs/LJ050-0019.wav|This report has already pointed out several respects
+LJSpeech-1.1/wavs/LJ050-0020.wav|in which the Commission believes that the Secret Service has operated with insufficient planning or control.
+LJSpeech-1.1/wavs/LJ050-0021.wav|Actions by the Service since the assassination indicate its awareness of the necessity for substantial improvement in its administration.
+LJSpeech-1.1/wavs/LJ050-0022.wav|A formal and thorough description of the responsibilities of the advance agent is now in preparation by the Service.
+LJSpeech-1.1/wavs/LJ050-0023.wav|Work is going forward
+LJSpeech-1.1/wavs/LJ050-0024.wav|toward the preparation of formal understandings of the respective roles of the Secret Service and other agencies with which it collaborates
+LJSpeech-1.1/wavs/LJ050-0025.wav|or from which it derives assistance and support.
+LJSpeech-1.1/wavs/LJ050-0026.wav|The Commission urges that the Service continue this effort to overhaul and define its procedures.
+LJSpeech-1.1/wavs/LJ050-0027.wav|While manuals and memoranda are no guarantee of effective operations,
+LJSpeech-1.1/wavs/LJ050-0028.wav|no sizable organization can achieve efficiency without the careful analysis and demarcation of responsibility
+LJSpeech-1.1/wavs/LJ050-0029.wav|that is reflected in definite and comprehensive operating procedures.
+LJSpeech-1.1/wavs/LJ050-0030.wav|The Commission also recommends
+LJSpeech-1.1/wavs/LJ050-0031.wav|that the Secret Service consciously set about the task of inculcating and maintaining the highest standard of excellence and esprit, for all of its personnel.
+LJSpeech-1.1/wavs/LJ050-0032.wav|This involves tight and unswerving discipline as well as the promotion of an outstanding degree of dedication and loyalty to duty.
+LJSpeech-1.1/wavs/LJ050-0033.wav|The Commission emphasizes that it finds no causal connection between the assassination
+LJSpeech-1.1/wavs/LJ050-0034.wav|and the breach of regulations which occurred on the night of November twenty-one at Fort Worth.
+LJSpeech-1.1/wavs/LJ050-0035.wav|Nevertheless, such a breach, in which so many agents participated,
+LJSpeech-1.1/wavs/LJ050-0036.wav|is not consistent with the standards which the responsibilities of the Secret Service require it to meet.
+LJSpeech-1.1/wavs/LJ050-0037.wav|Preventive Intelligence
+LJSpeech-1.1/wavs/LJ050-0038.wav|In attempting to identify those individuals who might prove a danger to the President,
+LJSpeech-1.1/wavs/LJ050-0039.wav|the Secret Service has largely been the passive recipient of threatening communications to the President
+LJSpeech-1.1/wavs/LJ050-0040.wav|and reports from other agencies which independently evaluate their information for potential sources of danger.
+LJSpeech-1.1/wavs/LJ050-0041.wav|This was the consequence of the Service's lack of an adequate investigative staff,
+LJSpeech-1.1/wavs/LJ050-0042.wav|its inability to process large amounts of data, and its failure to provide specific descriptions of the kind of information it sought.
+LJSpeech-1.1/wavs/LJ050-0043.wav|The Secret Service has embarked upon a complete overhaul of its research activities. The staff of the Protective Research Section (PRS)
+LJSpeech-1.1/wavs/LJ050-0044.wav|has been augmented, and a Secret Service inspector has been put in charge of this operation. With the assistance of the President's Office of Science and Technology,
+LJSpeech-1.1/wavs/LJ050-0045.wav|and of the Advanced Research Projects Agency of the Department of Defense,
+LJSpeech-1.1/wavs/LJ050-0046.wav|it has obtained the services of outside consultants, such as the Rand Corporation,
+LJSpeech-1.1/wavs/LJ050-0047.wav|International Business Machines Corporation, and a panel of psychiatric and psychological experts.
+LJSpeech-1.1/wavs/LJ050-0048.wav|It has received assistance also from data processing experts at the CIA
+LJSpeech-1.1/wavs/LJ050-0049.wav|and from a specialist in psychiatric prognostication at Walter Reed Hospital.
+LJSpeech-1.1/wavs/LJ050-0050.wav|As a result of these studies, the planning document submitted by the Secretary of the Treasury to the Bureau of the Budget on August thirty-one,
+LJSpeech-1.1/wavs/LJ050-0051.wav|nineteen sixty-four, makes several significant recommendations in this field.
+LJSpeech-1.1/wavs/LJ050-0052.wav|Based on the Commission's investigation, the following minimum goals for improvements are indicated:
+LJSpeech-1.1/wavs/LJ050-0053.wav|Broader and more selective criteria
+LJSpeech-1.1/wavs/LJ050-0054.wav|Since the assassination, both the Secret Service and the FBI have recognized
+LJSpeech-1.1/wavs/LJ050-0055.wav|that the PRS files can no longer be limited largely to persons communicating actual threats to the President.
+LJSpeech-1.1/wavs/LJ050-0056.wav|On December twenty-six, nineteen sixty-three, the FBI circulated additional instructions to all its agents,
+LJSpeech-1.1/wavs/LJ050-0057.wav|specifying criteria for information to be furnished to the Secret Service in addition to that covered by the former standard,
+LJSpeech-1.1/wavs/LJ050-0058.wav|which was the possibility of an attempt against the person or safety of the President.
+LJSpeech-1.1/wavs/LJ050-0059.wav|he new instructions require FBI agents to report immediately information concerning, quote,
+LJSpeech-1.1/wavs/LJ050-0060.wav|Subversives, ultrarightists, racists and fascists (a) possessing emotional instability or irrational behavior,
+LJSpeech-1.1/wavs/LJ050-0061.wav|(b) who have made threats of bodily harm against officials or employees of Federal, state or local government or officials of a foreign government,
+LJSpeech-1.1/wavs/LJ050-0062.wav|(c) who express or have expressed strong or violent anti-U.S. sentiments
+LJSpeech-1.1/wavs/LJ050-0063.wav|and who have been involved in bombing or bomb-making or whose past conduct indicates tendencies toward violence, and (d)
+LJSpeech-1.1/wavs/LJ050-0064.wav|whose prior acts or statements depict propensity for violence and hatred against organized government, end quote.
+LJSpeech-1.1/wavs/LJ050-0065.wav|Alan H. Belmont, Assistant to the Director of the FBI, testified that this revision was initiated by the FBI itself.
+LJSpeech-1.1/wavs/LJ050-0066.wav|The volume of references to the Secret Service has increased substantially since the new instructions went into effect;
+LJSpeech-1.1/wavs/LJ050-0067.wav|more than five thousand names were referred to the Secret Service in the first four months of nineteen sixty-four.
+LJSpeech-1.1/wavs/LJ050-0068.wav|According to Chief Rowley, by mid-June nineteen sixty-four,
+LJSpeech-1.1/wavs/LJ050-0069.wav|the Secret Service had received from the FBI some nine thousand reports on members of the Communist Party.
+LJSpeech-1.1/wavs/LJ050-0070.wav|The FBI now transmits information on all defectors, a category which would, of course, have included Oswald.
+LJSpeech-1.1/wavs/LJ050-0071.wav|Both Director Hoover and Belmont expressed to the Commission the great concern of the FBI, which is shared by the Secret Service,
+LJSpeech-1.1/wavs/LJ050-0072.wav|that referrals to the Secret Service under the new criteria might, if not properly handled,
+LJSpeech-1.1/wavs/LJ050-0073.wav|result in some degree of interference with the personal liberty of those involved.
+LJSpeech-1.1/wavs/LJ050-0074.wav|They emphasized the necessity that the information now being furnished be handled with judgment and care.
+LJSpeech-1.1/wavs/LJ050-0075.wav|The Commission shares this concern.
+LJSpeech-1.1/wavs/LJ050-0076.wav|The problem is aggravated by the necessity that the Service obtain the assistance of local law enforcement officials in evaluating the information which it receives
+LJSpeech-1.1/wavs/LJ050-0077.wav|and in taking preventive steps.
+LJSpeech-1.1/wavs/LJ050-0078.wav|In June nineteen sixty-four, the Secret Service sent to a number of Federal law enforcement and intelligence agencies
+LJSpeech-1.1/wavs/LJ050-0079.wav|guidelines for an experimental program to develop more detailed criteria.
+LJSpeech-1.1/wavs/LJ050-0080.wav|The suggestions of Federal agencies for revision of these guidelines were solicited.
+LJSpeech-1.1/wavs/LJ050-0081.wav|The new tentative criteria are useful in making clear that
+LJSpeech-1.1/wavs/LJ050-0082.wav|the interest of the Secret Service goes beyond information on individuals or groups threatening to cause harm or embarrassment to the President.
+LJSpeech-1.1/wavs/LJ050-0083.wav|Information is requested also concerning individuals or groups who have demonstrated an interest in the President
+LJSpeech-1.1/wavs/LJ050-0084.wav|or, quote, other high government officials in the nature of a complaint coupled with an expressed or implied determination to use a means,
+LJSpeech-1.1/wavs/LJ050-0085.wav|other than legal or peaceful, to satisfy any grievance, real or imagined.
+LJSpeech-1.1/wavs/LJ050-0086.wav|Under these criteria, whether the case should be referred to the Secret Service depends on the existence of a previous history of mental instability,
+LJSpeech-1.1/wavs/LJ050-0087.wav|propensity toward violent action, or some similar characteristic, coupled with some evaluation of the capability of the individual or group
+LJSpeech-1.1/wavs/LJ050-0088.wav|to further the intention to satisfy a grievance by unlawful means.
+LJSpeech-1.1/wavs/LJ050-0089.wav|While these tentative criteria are a step in the right direction,
+LJSpeech-1.1/wavs/LJ050-0090.wav|they seem unduly restrictive in continuing to require some manifestation of animus against a Government official.
+LJSpeech-1.1/wavs/LJ050-0091.wav|It is questionable whether such criteria would have resulted in the referral of Oswald to the Secret Service.
+LJSpeech-1.1/wavs/LJ050-0092.wav|Chief Rowley believed that they would,
+LJSpeech-1.1/wavs/LJ050-0093.wav|because of Oswald's demonstrated hostility toward the Secretary of the Navy in his letter of January thirty, nineteen sixty-two. Quote,
+LJSpeech-1.1/wavs/LJ050-0094.wav|I shall employ all means to right this gross mistake or injustice to a bona fide U.S. citizen and ex-service man.
+LJSpeech-1.1/wavs/LJ050-0095.wav|The U.S. government has no charges or complaints against me.
+LJSpeech-1.1/wavs/LJ050-0096.wav|I ask you to look into this case and take the necessary steps to repair the damage done to me and my family. End quote.
+LJSpeech-1.1/wavs/LJ050-0097.wav|Even with the advantage of hindsight, this letter does not appear to express or imply Oswald's, quote,
+LJSpeech-1.1/wavs/LJ050-0098.wav|determination to use a means, other than legal or peaceful, to satisfy his grievance, end quote, within the meaning of the new criteria.
+LJSpeech-1.1/wavs/LJ050-0099.wav|It is apparent that a good deal of further consideration and experimentation will be required before adequate criteria can be framed.
+LJSpeech-1.1/wavs/LJ050-0100.wav|The Commission recognizes that no set of meaningful criteria will yield the names of all potential assassins. Charles J. Guiteau,
+LJSpeech-1.1/wavs/LJ050-0101.wav|Leon F. Czolgosz,
+LJSpeech-1.1/wavs/LJ050-0102.wav|John Schrank, and Guiseppe Zangara -- four assassins or would-be assassins
+LJSpeech-1.1/wavs/LJ050-0103.wav|were all men who acted alone in their criminal acts against our leaders. None had a serious record of prior violence.
+LJSpeech-1.1/wavs/LJ050-0104.wav|Each of them was a failure in his work and in his relations with others, a victim of delusions and fancies which led to the conviction
+LJSpeech-1.1/wavs/LJ050-0105.wav|that society and its leaders had combined to thwart him. It will require every available resource of our Government
+LJSpeech-1.1/wavs/LJ050-0106.wav|to devise a practical system which has any reasonable possibility of revealing such malcontents.
+LJSpeech-1.1/wavs/LJ050-0107.wav|Liaison with other agencies regarding intelligence.
+LJSpeech-1.1/wavs/LJ050-0108.wav|The Secret Service's liaison with the agencies that supply information to it has been too casual.
+LJSpeech-1.1/wavs/LJ050-0109.wav|Since the assassination, the Service has recognized that these relationships must be far more formal
+LJSpeech-1.1/wavs/LJ050-0110.wav|and each agency given clear understanding of the assistance which the Secret Service expects.
+LJSpeech-1.1/wavs/LJ050-0111.wav|Once the Secret Service has formulated its new standards for collection of information, it should enter into written agreements with each Federal agency
+LJSpeech-1.1/wavs/LJ050-0112.wav|and the leading State and local agencies that might be a source of such information.
+LJSpeech-1.1/wavs/LJ050-0113.wav|Such agreements should describe in detail the information which is sought, the manner in which it will be provided to the Secret Service,
+LJSpeech-1.1/wavs/LJ050-0114.wav|and the respective responsibilities for any further investigation that may be required.
+LJSpeech-1.1/wavs/LJ050-0115.wav|This is especially necessary with regard to the FBI and CIA,
+LJSpeech-1.1/wavs/LJ050-0116.wav|which carry the major responsibility for supplying information about potential threats,
+LJSpeech-1.1/wavs/LJ050-0117.wav|particularly those arising from organized groups, within their special jurisdiction.
+LJSpeech-1.1/wavs/LJ050-0118.wav|Since these agencies are already obliged constantly to evaluate the activities of such groups,
+LJSpeech-1.1/wavs/LJ050-0119.wav|they should be responsible for advising the Secret Service if information develops indicating the existence of an assassination plot
+LJSpeech-1.1/wavs/LJ050-0120.wav|and for reporting such events as a change in leadership or dogma which indicate that the group may present a danger to the President.
+LJSpeech-1.1/wavs/LJ050-0121.wav|Detailed formal agreements embodying these arrangements should be worked out between the Secret Service and both of these agencies.
+LJSpeech-1.1/wavs/LJ050-0122.wav|It should be made clear that the Secret Service will in no way seek to duplicate the intelligence
+LJSpeech-1.1/wavs/LJ050-0123.wav|and investigative capabilities of the agencies now operating in this field but will continue
+LJSpeech-1.1/wavs/LJ050-0124.wav|to use the data developed by these agencies to carry out its special duties.
+LJSpeech-1.1/wavs/LJ050-0125.wav|Once experience has been gained in implementing such agreements with the Federal and leading State and local agencies,
+LJSpeech-1.1/wavs/LJ050-0126.wav|the Secret Service, through its field offices,
+LJSpeech-1.1/wavs/LJ050-0127.wav|should negotiate similar arrangements with such other State and local law enforcement agencies as may provide meaningful assistance.
+LJSpeech-1.1/wavs/LJ050-0128.wav|Much useful information will come to the attention of local law enforcement agencies in the regular course of their activities,
+LJSpeech-1.1/wavs/LJ050-0129.wav|and this source should not be neglected by undue concentration on relationships with other Federal agencies.
+LJSpeech-1.1/wavs/LJ050-0130.wav|Finally, these agreements with Federal and local authorities will be of little value
+LJSpeech-1.1/wavs/LJ050-0131.wav|unless a system is established for the frequent formal review of activities thereunder. In this regard
+LJSpeech-1.1/wavs/LJ050-0132.wav|the Commission notes with approval several recent measures taken and proposed by the Secret Service to improve its liaison arrangements.
+LJSpeech-1.1/wavs/LJ050-0133.wav|In his testimony Secretary of the Treasury C. Douglas Dillon informed the Commission
+LJSpeech-1.1/wavs/LJ050-0134.wav|that an interagency committee has been established to develop more effective criteria.
+LJSpeech-1.1/wavs/LJ050-0135.wav|According to Secretary Dillon,
+LJSpeech-1.1/wavs/LJ050-0136.wav|the Committee will include representatives of the President's Office of Science and Technology, Department of Defense, CIA,
+LJSpeech-1.1/wavs/LJ050-0137.wav|FBI, and the Secret Service.
+LJSpeech-1.1/wavs/LJ050-0138.wav|In addition, the Department of the Treasury has requested five additional agents for its Protective Research Section
+LJSpeech-1.1/wavs/LJ050-0139.wav|to serve as liaison officers with law enforcement and intelligence agencies. On the basis of the Department's review during the past several months,
+LJSpeech-1.1/wavs/LJ050-0140.wav|Secretary Dillon testified that the use of such liaison officers is the only effective way to insure that adequate liaison is maintained.
+LJSpeech-1.1/wavs/LJ050-0141.wav|As a beginning step to improve liaison with local law enforcement officials, the Secret Service on August twenty-six, nineteen sixty-four,
+LJSpeech-1.1/wavs/LJ050-0142.wav|directed its field representatives to send a form request for intelligence information to all local,
+LJSpeech-1.1/wavs/LJ050-0143.wav|county, and State law enforcement agencies in their districts.
+LJSpeech-1.1/wavs/LJ050-0144.wav|Each of these efforts appears sound,
+LJSpeech-1.1/wavs/LJ050-0145.wav|and the Commission recommends that these and the other measures suggested by the Commission be pursued vigorously by Secret Service.
+LJSpeech-1.1/wavs/LJ050-0146.wav|Automatic data processing
+LJSpeech-1.1/wavs/LJ050-0147.wav|Unless the Secret Service is able to deal rapidly and accurately with a growing body of data,
+LJSpeech-1.1/wavs/LJ050-0148.wav|the increased information supplied by other agencies will be wasted.
+LJSpeech-1.1/wavs/LJ050-0149.wav|PRS must develop the capacity to classify its subjects on a more sophisticated basis than the present geographic breakdown.
+LJSpeech-1.1/wavs/LJ050-0150.wav|Its present manual filing system is obsolete;
+LJSpeech-1.1/wavs/LJ050-0151.wav|it makes no use of the recent developments in automatic data processing which are widely used in the business world and in other Government offices.
+LJSpeech-1.1/wavs/LJ050-0152.wav|The Secret Service and the Department of the Treasury now recognize this critical need.
+LJSpeech-1.1/wavs/LJ050-0153.wav|In the planning document currently under review by the Bureau of the Budget, the Department recommends that it be permitted to hire five qualified persons, quote,
+LJSpeech-1.1/wavs/LJ050-0154.wav|to plan and develop a workable and efficient automated file and retrieval system, end quote.
+LJSpeech-1.1/wavs/LJ050-0155.wav|Also the Department requests the sum of one hundred thousand dollars to conduct a detailed feasibility study;
+LJSpeech-1.1/wavs/LJ050-0156.wav|this money would be used to compensate consultants, to lease standard equipment or to purchase specially designed pilot equipment.
+LJSpeech-1.1/wavs/LJ050-0157.wav|On the basis of such a feasibility study,
+LJSpeech-1.1/wavs/LJ050-0158.wav|the Department hopes to design a practical system which will fully meet the needs of the Protective Research Section of the Secret Service.
+LJSpeech-1.1/wavs/LJ050-0159.wav|The Commission recommends that prompt and favorable consideration be given to this request.
+LJSpeech-1.1/wavs/LJ050-0160.wav|The Commission further recommends that the Secret Service coordinate its planning as closely as possible with all of the Federal agencies from which it receives information.
+LJSpeech-1.1/wavs/LJ050-0161.wav|The Secret Service should not and does not plan to develop its own intelligence gathering facilities to duplicate the existing facilities of other Federal agencies.
+LJSpeech-1.1/wavs/LJ050-0162.wav|In planning its data processing techniques,
+LJSpeech-1.1/wavs/LJ050-0163.wav|the Secret Service should attempt to develop a system compatible with those of the agencies from which most of its data will come. Note:
+LJSpeech-1.1/wavs/LJ050-0164.wav|In evaluating data processing techniques of the Secret Service,
+LJSpeech-1.1/wavs/LJ050-0165.wav|the Commission had occasion to become informed, to a limited extent, about the data processing techniques of other Federal intelligence and law enforcement agencies.
+LJSpeech-1.1/wavs/LJ050-0166.wav|The Commission was struck by the apparent lack of effort, on an interagency basis,
+LJSpeech-1.1/wavs/LJ050-0167.wav|to develop coordinated and mutually compatible systems, even where such coordination would not seem inconsistent
+LJSpeech-1.1/wavs/LJ050-0168.wav|with the particular purposes of the agency involved. The Commission recognizes that this is a controversial area
+LJSpeech-1.1/wavs/LJ050-0169.wav|and that many strongly held views are advanced in resistance to any suggestion that an effort be made to impose any degree of coordination.
+LJSpeech-1.1/wavs/LJ050-0170.wav|This matter is obviously beyond the jurisdiction of the Commission,
+LJSpeech-1.1/wavs/LJ050-0171.wav|but it seems to warrant further study before each agency becomes irrevocably committed to separate action.
+LJSpeech-1.1/wavs/LJ050-0172.wav|The Commission, therefore, recommends that the President consider ordering an inquiry into the possibility
+LJSpeech-1.1/wavs/LJ050-0173.wav|that coordination might be achieved to a greater extent than seems now to be contemplated, without interference with the primary mission of each agency involved.
+LJSpeech-1.1/wavs/LJ050-0174.wav|Protective Research participation in advance arrangements.
+LJSpeech-1.1/wavs/LJ050-0175.wav|Since the assassination, Secret Service procedures have been changed to require that a member of PRS accompany each advance survey team
+LJSpeech-1.1/wavs/LJ050-0176.wav|to establish liaison with local intelligence gathering agencies and to provide for the immediate evaluation of information received from them.
+LJSpeech-1.1/wavs/LJ050-0177.wav|This PRS agent will also be responsible for establishing an informal local liaison committee
+LJSpeech-1.1/wavs/LJ050-0178.wav|to make certain that all protective intelligence activities are coordinated.
+LJSpeech-1.1/wavs/LJ050-0179.wav|Based on its experience during this period, the Secret Service now recommends that additional personnel be made available to PRS
+LJSpeech-1.1/wavs/LJ050-0180.wav|so that these arrangements can be made permanent without adversely affecting the operations of the Service's field offices.
+LJSpeech-1.1/wavs/LJ050-0181.wav|The Commission regards this as a most useful innovation and urges that the practice be continued.
+LJSpeech-1.1/wavs/LJ050-0182.wav|Liaison With Local Law Enforcement Agencies
+LJSpeech-1.1/wavs/LJ050-0183.wav|Advice by the Secret Service to local police in metropolitan areas relating to the assistance expected in connection with a Presidential visit
+LJSpeech-1.1/wavs/LJ050-0184.wav|has hitherto been handled on an informal basis.
+LJSpeech-1.1/wavs/LJ050-0185.wav|The Service should consider preparing formal explanations of the cooperation anticipated during a Presidential visit to a city,
+LJSpeech-1.1/wavs/LJ050-0186.wav|in formats that can be communicated to each level of local authorities.
+LJSpeech-1.1/wavs/LJ050-0187.wav|Thus, the local chief of police could be given a master plan, prepared for the occasion, of all protective measures to be taken during the visit;
+LJSpeech-1.1/wavs/LJ050-0188.wav|each patrolman might be given a prepared booklet of instructions explaining what is expected of him. The Secret Service has expressed concern
+LJSpeech-1.1/wavs/LJ050-0189.wav|that written instructions might come into the hands of local newspapers, to the prejudice of the precautions described.
+LJSpeech-1.1/wavs/LJ050-0190.wav|However, the instructions must be communicated to the local police in any event and can be leaked to the press whether or not they are in writing.
+LJSpeech-1.1/wavs/LJ050-0191.wav|More importantly, the lack of carefully prepared and carefully transmitted instructions for typical visits to cities
+LJSpeech-1.1/wavs/LJ050-0192.wav|can lead to lapses in protection, such as the confusion in Dallas about whether members of the public were permitted on overpasses.
+LJSpeech-1.1/wavs/LJ050-0193.wav|Such instructions will not fit all circumstances, of course,
+LJSpeech-1.1/wavs/LJ050-0194.wav|and should not be relied upon to the detriment of the imaginative application of judgment in special cases.
+LJSpeech-1.1/wavs/LJ050-0195.wav|Inspection of Buildings
+LJSpeech-1.1/wavs/LJ050-0196.wav|Since the assassination of President Kennedy, the Secret Service has been experimenting with new techniques in the inspection of buildings along a motorcade route.
+LJSpeech-1.1/wavs/LJ050-0197.wav|According to Secretary Dillon,
+LJSpeech-1.1/wavs/LJ050-0198.wav|the studies indicate that there is some utility in attempting to designate certain buildings as involving a higher risk than others.
+LJSpeech-1.1/wavs/LJ050-0199.wav|The Commission strongly encourages these efforts to improve protection along a motorcade route.
+LJSpeech-1.1/wavs/LJ050-0200.wav|The Secret Service should utilize the personnel of other Federal law enforcement offices
+LJSpeech-1.1/wavs/LJ050-0201.wav|in the locality to assure adequate manpower for this task, as it is now doing.
+LJSpeech-1.1/wavs/LJ050-0202.wav|Lack of adequate resources is an unacceptable excuse for failing to improve advance precautions
+LJSpeech-1.1/wavs/LJ050-0203.wav|in this crucial area of Presidential protection.
+LJSpeech-1.1/wavs/LJ050-0204.wav|Secret Service Personnel and Facilities
+LJSpeech-1.1/wavs/LJ050-0205.wav|Testimony and other evidence before the Commission
+LJSpeech-1.1/wavs/LJ050-0206.wav|suggest that the Secret Service is trying to accomplish its job with too few people and without adequate modern equipment.
+LJSpeech-1.1/wavs/LJ050-0207.wav|Although Chief Rowley does not complain about the pay scale for Secret Service agents,
+LJSpeech-1.1/wavs/LJ050-0208.wav|salaries are below those of the FBI and leading municipal police forces.
+LJSpeech-1.1/wavs/LJ050-0209.wav|The assistant to the Director of the FBI testified that
+LJSpeech-1.1/wavs/LJ050-0210.wav|the caseload of each FBI agent averaged twenty to twenty-five, and he felt that this was high.
+LJSpeech-1.1/wavs/LJ050-0211.wav|Chief Rowley testified that the present workload of each Secret Service agent averages one hundred ten point one cases.
+LJSpeech-1.1/wavs/LJ050-0212.wav|While these statistics relate to the activities of Secret Service agents stationed in field offices and not the White House detail,
+LJSpeech-1.1/wavs/LJ050-0213.wav|field agents supplement those on the detail, particularly when the President is traveling.
+LJSpeech-1.1/wavs/LJ050-0214.wav|Although the Commission does not know whether the cases involved are entirely comparable,
+LJSpeech-1.1/wavs/LJ050-0215.wav|these figures suggest that the agents of the Secret Service are substantially overworked.
+LJSpeech-1.1/wavs/LJ050-0216.wav|In its budget request for the fiscal year beginning July one, nineteen sixty-four,
+LJSpeech-1.1/wavs/LJ050-0217.wav|the Secret Service sought funds for twenty-five new positions, primarily in field offices. This increase has been approved by the Congress.
+LJSpeech-1.1/wavs/LJ050-0218.wav|Chief Rowley explained that this would not provide enough additional manpower to take all the measures which he considers required.
+LJSpeech-1.1/wavs/LJ050-0219.wav|However, the nineteen sixty-four to sixty-five budget request was submitted in November nineteen sixty-three
+LJSpeech-1.1/wavs/LJ050-0220.wav|and requests for additional personnel were not made because of the studies then being conducted.
+LJSpeech-1.1/wavs/LJ050-0221.wav|The Secret Service has now presented its recommendations to the Bureau of the Budget. The plan proposed by the Service
+LJSpeech-1.1/wavs/LJ050-0222.wav|would take approximately twenty months to implement and require expenditures of approximately three million dollars during that period.
+LJSpeech-1.1/wavs/LJ050-0223.wav|The plan provides for an additional two hundred five agents for the Secret Service. Seventeen of this number are proposed for the Protective Research Section;
+LJSpeech-1.1/wavs/LJ050-0224.wav|one hundred forty-five are proposed for the field offices to handle the increased volume of security investigations
+LJSpeech-1.1/wavs/LJ050-0225.wav|and be available to protect the President or Vice President when they travel;
+LJSpeech-1.1/wavs/LJ050-0226.wav|eighteen agents are proposed for a rotating pool which will go through an intensive training cycle and also be available to supplement the White House detail
+LJSpeech-1.1/wavs/LJ050-0227.wav|in case of unexpected need; and twenty-five additional agents are recommended to provide the Vice President full protection.
+LJSpeech-1.1/wavs/LJ050-0228.wav|The Commission urges that the Bureau of the Budget review these recommendations with the Secret Service and authorize a request for the necessary supplemental appropriation,
+LJSpeech-1.1/wavs/LJ050-0229.wav|as soon as it can be justified. The Congress has often stressed that it will support any reasonable request for funds for the protection of the President.
+LJSpeech-1.1/wavs/LJ050-0230.wav|Manpower and Technical Assistance From Other Agencies
+LJSpeech-1.1/wavs/LJ050-0231.wav|Before the assassination the Secret Service infrequently requested other Federal law enforcement agencies to provide personnel
+LJSpeech-1.1/wavs/LJ050-0232.wav|to assist in its protection functions.
+LJSpeech-1.1/wavs/LJ050-0233.wav|Since the assassination, the Service has experimented with the use of agents borrowed for short periods from such agencies.
+LJSpeech-1.1/wavs/LJ050-0234.wav|It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.
+LJSpeech-1.1/wavs/LJ050-0235.wav|It has also used other Federal law enforcement agents during Presidential visits to cities in which such agents are stationed.
+LJSpeech-1.1/wavs/LJ050-0236.wav|Thus, in the four months following the assassination,
+LJSpeech-1.1/wavs/LJ050-0237.wav|the FBI, on sixteen separate occasions, supplied a total of one hundred thirty-nine agents to assist in protection work during a Presidential visit,
+LJSpeech-1.1/wavs/LJ050-0238.wav|which represents a departure from its prior practice.
+LJSpeech-1.1/wavs/LJ050-0239.wav|From February eleven through June thirty, nineteen sixty-four,
+LJSpeech-1.1/wavs/LJ050-0240.wav|the Service had the advantage of nine thousand, five hundred hours of work by other enforcement agencies.
+LJSpeech-1.1/wavs/LJ050-0241.wav|The FBI has indicated that it is willing to continue to make such assistance available,
+LJSpeech-1.1/wavs/LJ050-0242.wav|even though it agrees with the Secret Service that it is preferable for the Service to have enough agents to handle all protective demands.
+LJSpeech-1.1/wavs/LJ050-0243.wav|The Commission endorses these efforts to supplement the Service's own personnel by obtaining, for short periods of time,
+LJSpeech-1.1/wavs/LJ050-0244.wav|the assistance of trained Federal law enforcement officers.
+LJSpeech-1.1/wavs/LJ050-0245.wav|In view of the ever-increasing mobility of American Presidents, it seems unlikely that the Service could or should increase its own staff to a size
+LJSpeech-1.1/wavs/LJ050-0246.wav|which would permit it to provide adequate protective manpower for all situations.
+LJSpeech-1.1/wavs/LJ050-0247.wav|The Commission recommends that the agencies involved determine how much periodic assistance they can provide, and that each such agency
+LJSpeech-1.1/wavs/LJ050-0248.wav|and the Secret Service enter into a formal agreement defining such arrangements.
+LJSpeech-1.1/wavs/LJ050-0249.wav|It may eventually be desirable to codify the practice in an Executive order.
+LJSpeech-1.1/wavs/LJ050-0250.wav|The Secret Service will be better able to plan its own long-range personnel requirements if it knows with reasonable certainty
+LJSpeech-1.1/wavs/LJ050-0251.wav|the amount of assistance that it can expect from other agencies.
+LJSpeech-1.1/wavs/LJ050-0252.wav|The occasional use of personnel from other Federal agencies to assist in protecting the President has a further advantage. It symbolizes the reality
+LJSpeech-1.1/wavs/LJ050-0253.wav|that the job of protecting the President has not been and cannot be exclusively the responsibility of the Secret Service.
+LJSpeech-1.1/wavs/LJ050-0254.wav|The Secret Service in the past has sometimes guarded its right to be acknowledged as the sole protector of the Chief Executive.
+LJSpeech-1.1/wavs/LJ050-0255.wav|This no longer appears to be the case.
+LJSpeech-1.1/wavs/LJ050-0256.wav|Protecting the President is a difficult and complex task which requires full use of the best resources of many parts of our Government.
+LJSpeech-1.1/wavs/LJ050-0257.wav|Recognition that the responsibility must be shared increases the likelihood that it will be met.
+LJSpeech-1.1/wavs/LJ050-0258.wav|Much of the Secret Service work requires the development and use of highly sophisticated equipment,
+LJSpeech-1.1/wavs/LJ050-0259.wav|some of which must be specially designed to fit unique requirements. Even before the assassination, and to a far greater extent thereafter,
+LJSpeech-1.1/wavs/LJ050-0260.wav|the Secret Service has been receiving full cooperation in scientific research and technological development
+LJSpeech-1.1/wavs/LJ050-0261.wav|from many Government agencies including the Department of Defense and the President's Office of Science and Technology.
+LJSpeech-1.1/wavs/LJ050-0262.wav|Even if the manpower and technological resources of the Secret Service are adequately augmented,
+LJSpeech-1.1/wavs/LJ050-0263.wav|it will continue to rely in many respects upon the greater resources of the Office of Science and Technology and other agencies.
+LJSpeech-1.1/wavs/LJ050-0264.wav|The Commission recommends that the present arrangements
+LJSpeech-1.1/wavs/LJ050-0265.wav|with the Office of Science and Technology and the other Federal agencies that have been so helpful to the Secret Service be placed on a permanent and formal basis.
+LJSpeech-1.1/wavs/LJ050-0266.wav|The exchange of letters dated August thirty-one, nineteen sixty-four,
+LJSpeech-1.1/wavs/LJ050-0267.wav|between Secretary Dillon and Donald F. Hornig, Special Assistant to the President for Science and Technology, is a useful effort in the right direction.
+LJSpeech-1.1/wavs/LJ050-0268.wav|The Service should negotiate a memorandum of understanding with each agency that has been assisting it and from which it can expect to need help in the future.
+LJSpeech-1.1/wavs/LJ050-0269.wav|The essential terms of such memoranda might well be embodied in an Executive order.
+LJSpeech-1.1/wavs/LJ050-0270.wav|This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.
+LJSpeech-1.1/wavs/LJ050-0271.wav|The demands on the President in the execution of His responsibilities in today's world are so varied and complex
+LJSpeech-1.1/wavs/LJ050-0272.wav|and the traditions of the office in a democracy such as ours are so deep-seated as to preclude absolute security.
+LJSpeech-1.1/wavs/LJ050-0273.wav|The Commission has, however, from its examination of the facts of President Kennedy's assassination
+LJSpeech-1.1/wavs/LJ050-0274.wav|made certain recommendations which it believes would, if adopted,
+LJSpeech-1.1/wavs/LJ050-0275.wav|materially improve upon the procedures in effect at the time of President Kennedy's assassination and result in a substantial lessening of the danger.
+LJSpeech-1.1/wavs/LJ050-0276.wav|As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,
+LJSpeech-1.1/wavs/LJ050-0277.wav|with the active cooperation of the responsible agencies and with the understanding of the people of the United States in their demands upon their President,
+LJSpeech-1.1/wavs/LJ050-0278.wav|the recommendations we have here suggested would greatly advance the security of the office without any impairment of our fundamental liberties.
