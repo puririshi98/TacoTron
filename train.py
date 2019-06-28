@@ -492,7 +492,7 @@ def main():
                     model.parameters(), args.grad_clip_thresh)
 
             optimizer.step()
-            for param in optimizer.param_groups['params']:
+            for param in optimizer.param_groups[0]['params']:
                 stochround.stochastic_tensor_round(param, param)
                 param_state=optimizer.state[param]
                 if len(param_state) !=0:
