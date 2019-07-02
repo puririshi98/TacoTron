@@ -473,7 +473,8 @@ def main():
                 reduced_loss = loss.item()
                 reduced_num_items = num_items.item()
             if np.isnan(reduced_loss):
-                raise Exception("loss is NaN")
+                print('loss is nan')
+                continue
 
             LOGGER.log(key=tags.TRAIN_ITERATION_LOSS, value=reduced_loss)
 
