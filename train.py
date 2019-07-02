@@ -474,6 +474,10 @@ def main():
                 reduced_num_items = num_items.item()
             if np.isnan(reduced_loss):
                 print('loss is nan')
+                del loss
+                del x
+                del y
+                torch.cuda.empty_cache()
                 continue
 
             LOGGER.log(key=tags.TRAIN_ITERATION_LOSS, value=reduced_loss)
