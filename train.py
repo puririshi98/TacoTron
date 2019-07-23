@@ -396,8 +396,10 @@ def main():
                                  weight_decay=args.weight_decay)
 
     if args.fp16_run:
-        optimizer = FP16_Optimizer(
-            optimizer, dynamic_loss_scale=args.dynamic_loss_scaling)
+        model, optimizer = amp.initialize(model, optimizer,opt_level='O2')
+
+#         optimizer = FP16_Optimizer(
+#             optimizer, dynamic_loss_scale=args.dynamic_loss_scaling)
 
     try:
         sigma = args.sigma
