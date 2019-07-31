@@ -113,10 +113,10 @@ def parse_args(parser):
     dataset.add_argument('--load-mel-from-disk', default=False, type=bool,
                          help='Loads mel spectrograms from disk instead of computing them on the fly')
     dataset.add_argument('--training-files',
-                         default='filelists/ljs_audio_text_train_filelist.txt',
+                         default='filelists/ljs_mel_text_train_filelist.txt',
                          type=str, help='Path to training filelist')
     dataset.add_argument('--validation-files',
-                         default='filelists/ljs_audio_text_val_filelist.txt',
+                         default='filelists/ljs_mel_text_val_filelist.txt',
                          type=str, help='Path to validation filelist')
     dataset.add_argument('--text-cleaners', nargs='*',
                          default=['english_cleaners'], type=str,
